@@ -1,0 +1,14 @@
+C:\Users\gabriel\Desktop\otros.Net\.NetG4\ConsolaPrueba\ConsolaPrueba\bin\Debug\net8.0\ConsolaPrueba.exe
+C:\Users\gabriel\Desktop\otros.Net\.NetG4\ConsolaPrueba\ConsolaPrueba\bin\Debug\net8.0\ConsolaPrueba.deps.json
+C:\Users\gabriel\Desktop\otros.Net\.NetG4\ConsolaPrueba\ConsolaPrueba\bin\Debug\net8.0\ConsolaPrueba.runtimeconfig.json
+C:\Users\gabriel\Desktop\otros.Net\.NetG4\ConsolaPrueba\ConsolaPrueba\bin\Debug\net8.0\ConsolaPrueba.dll
+C:\Users\gabriel\Desktop\otros.Net\.NetG4\ConsolaPrueba\ConsolaPrueba\bin\Debug\net8.0\ConsolaPrueba.pdb
+C:\Users\gabriel\Desktop\otros.Net\.NetG4\ConsolaPrueba\ConsolaPrueba\obj\Debug\net8.0\ConsolaPrueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\otros.Net\.NetG4\ConsolaPrueba\ConsolaPrueba\obj\Debug\net8.0\ConsolaPrueba.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.NetG4\ConsolaPrueba\ConsolaPrueba\obj\Debug\net8.0\ConsolaPrueba.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\otros.Net\.NetG4\ConsolaPrueba\ConsolaPrueba\obj\Debug\net8.0\ConsolaPrueba.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.NetG4\ConsolaPrueba\ConsolaPrueba\obj\Debug\net8.0\ConsolaPrueba.dll
+C:\Users\gabriel\Desktop\otros.Net\.NetG4\ConsolaPrueba\ConsolaPrueba\obj\Debug\net8.0\refint\ConsolaPrueba.dll
+C:\Users\gabriel\Desktop\otros.Net\.NetG4\ConsolaPrueba\ConsolaPrueba\obj\Debug\net8.0\ConsolaPrueba.pdb
+C:\Users\gabriel\Desktop\otros.Net\.NetG4\ConsolaPrueba\ConsolaPrueba\obj\Debug\net8.0\ConsolaPrueba.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\otros.Net\.NetG4\ConsolaPrueba\ConsolaPrueba\obj\Debug\net8.0\ref\ConsolaPrueba.dll

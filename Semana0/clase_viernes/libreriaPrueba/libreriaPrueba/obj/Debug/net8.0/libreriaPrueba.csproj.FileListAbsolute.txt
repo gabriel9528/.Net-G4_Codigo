@@ -1,0 +1,11 @@
+C:\Users\gabriel\Desktop\otros.Net\.NetG4\Semana0\clase_viernes\libreriaPrueba\libreriaPrueba\bin\Debug\net8.0\libreriaPrueba.deps.json
+C:\Users\gabriel\Desktop\otros.Net\.NetG4\Semana0\clase_viernes\libreriaPrueba\libreriaPrueba\bin\Debug\net8.0\libreriaPrueba.dll
+C:\Users\gabriel\Desktop\otros.Net\.NetG4\Semana0\clase_viernes\libreriaPrueba\libreriaPrueba\bin\Debug\net8.0\libreriaPrueba.pdb
+C:\Users\gabriel\Desktop\otros.Net\.NetG4\Semana0\clase_viernes\libreriaPrueba\libreriaPrueba\obj\Debug\net8.0\libreriaPrueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\otros.Net\.NetG4\Semana0\clase_viernes\libreriaPrueba\libreriaPrueba\obj\Debug\net8.0\libreriaPrueba.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.NetG4\Semana0\clase_viernes\libreriaPrueba\libreriaPrueba\obj\Debug\net8.0\libreriaPrueba.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\otros.Net\.NetG4\Semana0\clase_viernes\libreriaPrueba\libreriaPrueba\obj\Debug\net8.0\libreriaPrueba.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.NetG4\Semana0\clase_viernes\libreriaPrueba\libreriaPrueba\obj\Debug\net8.0\libreriaPrueba.dll
+C:\Users\gabriel\Desktop\otros.Net\.NetG4\Semana0\clase_viernes\libreriaPrueba\libreriaPrueba\obj\Debug\net8.0\refint\libreriaPrueba.dll
+C:\Users\gabriel\Desktop\otros.Net\.NetG4\Semana0\clase_viernes\libreriaPrueba\libreriaPrueba\obj\Debug\net8.0\libreriaPrueba.pdb
+C:\Users\gabriel\Desktop\otros.Net\.NetG4\Semana0\clase_viernes\libreriaPrueba\libreriaPrueba\obj\Debug\net8.0\ref\libreriaPrueba.dll
