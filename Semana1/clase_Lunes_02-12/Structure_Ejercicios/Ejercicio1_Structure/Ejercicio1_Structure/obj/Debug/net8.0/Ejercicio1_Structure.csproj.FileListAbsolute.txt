@@ -1,0 +1,14 @@
+C:\Users\gabriel\source\repos\Ejercicio1_Structure\Ejercicio1_Structure\bin\Debug\net8.0\Ejercicio1_Structure.exe
+C:\Users\gabriel\source\repos\Ejercicio1_Structure\Ejercicio1_Structure\bin\Debug\net8.0\Ejercicio1_Structure.deps.json
+C:\Users\gabriel\source\repos\Ejercicio1_Structure\Ejercicio1_Structure\bin\Debug\net8.0\Ejercicio1_Structure.runtimeconfig.json
+C:\Users\gabriel\source\repos\Ejercicio1_Structure\Ejercicio1_Structure\bin\Debug\net8.0\Ejercicio1_Structure.dll
+C:\Users\gabriel\source\repos\Ejercicio1_Structure\Ejercicio1_Structure\bin\Debug\net8.0\Ejercicio1_Structure.pdb
+C:\Users\gabriel\source\repos\Ejercicio1_Structure\Ejercicio1_Structure\obj\Debug\net8.0\Ejercicio1_Structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\source\repos\Ejercicio1_Structure\Ejercicio1_Structure\obj\Debug\net8.0\Ejercicio1_Structure.AssemblyInfoInputs.cache
+C:\Users\gabriel\source\repos\Ejercicio1_Structure\Ejercicio1_Structure\obj\Debug\net8.0\Ejercicio1_Structure.AssemblyInfo.cs
+C:\Users\gabriel\source\repos\Ejercicio1_Structure\Ejercicio1_Structure\obj\Debug\net8.0\Ejercicio1_Structure.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\source\repos\Ejercicio1_Structure\Ejercicio1_Structure\obj\Debug\net8.0\Ejercicio1_Structure.dll
+C:\Users\gabriel\source\repos\Ejercicio1_Structure\Ejercicio1_Structure\obj\Debug\net8.0\refint\Ejercicio1_Structure.dll
+C:\Users\gabriel\source\repos\Ejercicio1_Structure\Ejercicio1_Structure\obj\Debug\net8.0\Ejercicio1_Structure.pdb
+C:\Users\gabriel\source\repos\Ejercicio1_Structure\Ejercicio1_Structure\obj\Debug\net8.0\Ejercicio1_Structure.genruntimeconfig.cache
+C:\Users\gabriel\source\repos\Ejercicio1_Structure\Ejercicio1_Structure\obj\Debug\net8.0\ref\Ejercicio1_Structure.dll

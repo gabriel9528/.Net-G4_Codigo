@@ -1,0 +1,14 @@
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio9_Suma10Numeros\Ejercicio9_Suma10Numeros\bin\Debug\net8.0\Ejercicio9_Suma10Numeros.exe
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio9_Suma10Numeros\Ejercicio9_Suma10Numeros\bin\Debug\net8.0\Ejercicio9_Suma10Numeros.deps.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio9_Suma10Numeros\Ejercicio9_Suma10Numeros\bin\Debug\net8.0\Ejercicio9_Suma10Numeros.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio9_Suma10Numeros\Ejercicio9_Suma10Numeros\bin\Debug\net8.0\Ejercicio9_Suma10Numeros.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio9_Suma10Numeros\Ejercicio9_Suma10Numeros\bin\Debug\net8.0\Ejercicio9_Suma10Numeros.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio9_Suma10Numeros\Ejercicio9_Suma10Numeros\obj\Debug\net8.0\Ejercicio9_Suma10Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio9_Suma10Numeros\Ejercicio9_Suma10Numeros\obj\Debug\net8.0\Ejercicio9_Suma10Numeros.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio9_Suma10Numeros\Ejercicio9_Suma10Numeros\obj\Debug\net8.0\Ejercicio9_Suma10Numeros.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio9_Suma10Numeros\Ejercicio9_Suma10Numeros\obj\Debug\net8.0\Ejercicio9_Suma10Numeros.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio9_Suma10Numeros\Ejercicio9_Suma10Numeros\obj\Debug\net8.0\Ejercicio9_Suma10Numeros.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio9_Suma10Numeros\Ejercicio9_Suma10Numeros\obj\Debug\net8.0\refint\Ejercicio9_Suma10Numeros.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio9_Suma10Numeros\Ejercicio9_Suma10Numeros\obj\Debug\net8.0\Ejercicio9_Suma10Numeros.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio9_Suma10Numeros\Ejercicio9_Suma10Numeros\obj\Debug\net8.0\Ejercicio9_Suma10Numeros.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio9_Suma10Numeros\Ejercicio9_Suma10Numeros\obj\Debug\net8.0\ref\Ejercicio9_Suma10Numeros.dll

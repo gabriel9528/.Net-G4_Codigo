@@ -1,0 +1,14 @@
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio11_ContarHasta10\Ejercicio11_ContarHasta10\bin\Debug\net8.0\Ejercicio11_ContarHasta10.exe
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio11_ContarHasta10\Ejercicio11_ContarHasta10\bin\Debug\net8.0\Ejercicio11_ContarHasta10.deps.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio11_ContarHasta10\Ejercicio11_ContarHasta10\bin\Debug\net8.0\Ejercicio11_ContarHasta10.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio11_ContarHasta10\Ejercicio11_ContarHasta10\bin\Debug\net8.0\Ejercicio11_ContarHasta10.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio11_ContarHasta10\Ejercicio11_ContarHasta10\bin\Debug\net8.0\Ejercicio11_ContarHasta10.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio11_ContarHasta10\Ejercicio11_ContarHasta10\obj\Debug\net8.0\Ejercicio11_ContarHasta10.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio11_ContarHasta10\Ejercicio11_ContarHasta10\obj\Debug\net8.0\Ejercicio11_ContarHasta10.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio11_ContarHasta10\Ejercicio11_ContarHasta10\obj\Debug\net8.0\Ejercicio11_ContarHasta10.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio11_ContarHasta10\Ejercicio11_ContarHasta10\obj\Debug\net8.0\Ejercicio11_ContarHasta10.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio11_ContarHasta10\Ejercicio11_ContarHasta10\obj\Debug\net8.0\Ejercicio11_ContarHasta10.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio11_ContarHasta10\Ejercicio11_ContarHasta10\obj\Debug\net8.0\refint\Ejercicio11_ContarHasta10.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio11_ContarHasta10\Ejercicio11_ContarHasta10\obj\Debug\net8.0\Ejercicio11_ContarHasta10.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio11_ContarHasta10\Ejercicio11_ContarHasta10\obj\Debug\net8.0\Ejercicio11_ContarHasta10.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio11_ContarHasta10\Ejercicio11_ContarHasta10\obj\Debug\net8.0\ref\Ejercicio11_ContarHasta10.dll

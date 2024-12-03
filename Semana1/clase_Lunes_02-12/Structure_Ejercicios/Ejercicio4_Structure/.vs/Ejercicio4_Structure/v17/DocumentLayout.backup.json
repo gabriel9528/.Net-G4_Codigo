@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana1\\Clase2\\Ejercicio4_Structure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38CC53F8-F8B0-47D0-BD56-ADD742F48889}|Ejercicio4_Structure\\Ejercicio4_Structure.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana1\\clase2\\ejercicio4_structure\\ejercicio4_structure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CC53F8-F8B0-47D0-BD56-ADD742F48889}|Ejercicio4_Structure\\Ejercicio4_Structure.csproj|solutionrelative:ejercicio4_structure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana1\\Clase2\\Ejercicio4_Structure\\Ejercicio4_Structure\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio4_Structure\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana1\\Clase2\\Ejercicio4_Structure\\Ejercicio4_Structure\\Program.cs",
+              "RelativeToolTip": "Ejercicio4_Structure\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:12:48.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructuraBasica\EstructuraBasica\bin\Debug\net8.0\EstructuraBasica.exe
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructuraBasica\EstructuraBasica\bin\Debug\net8.0\EstructuraBasica.deps.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructuraBasica\EstructuraBasica\bin\Debug\net8.0\EstructuraBasica.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructuraBasica\EstructuraBasica\bin\Debug\net8.0\EstructuraBasica.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructuraBasica\EstructuraBasica\bin\Debug\net8.0\EstructuraBasica.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructuraBasica\EstructuraBasica\obj\Debug\net8.0\EstructuraBasica.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructuraBasica\EstructuraBasica\obj\Debug\net8.0\EstructuraBasica.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructuraBasica\EstructuraBasica\obj\Debug\net8.0\EstructuraBasica.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructuraBasica\EstructuraBasica\obj\Debug\net8.0\EstructuraBasica.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructuraBasica\EstructuraBasica\obj\Debug\net8.0\EstructuraBasica.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructuraBasica\EstructuraBasica\obj\Debug\net8.0\refint\EstructuraBasica.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructuraBasica\EstructuraBasica\obj\Debug\net8.0\EstructuraBasica.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructuraBasica\EstructuraBasica\obj\Debug\net8.0\EstructuraBasica.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructuraBasica\EstructuraBasica\obj\Debug\net8.0\ref\EstructuraBasica.dll

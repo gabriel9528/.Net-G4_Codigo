@@ -1,0 +1,14 @@
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio5_NumerosParImpar\Ejercicio5_NumerosParImpar\bin\Debug\net8.0\Ejercicio5_NumerosParImpar.exe
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio5_NumerosParImpar\Ejercicio5_NumerosParImpar\bin\Debug\net8.0\Ejercicio5_NumerosParImpar.deps.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio5_NumerosParImpar\Ejercicio5_NumerosParImpar\bin\Debug\net8.0\Ejercicio5_NumerosParImpar.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio5_NumerosParImpar\Ejercicio5_NumerosParImpar\bin\Debug\net8.0\Ejercicio5_NumerosParImpar.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio5_NumerosParImpar\Ejercicio5_NumerosParImpar\bin\Debug\net8.0\Ejercicio5_NumerosParImpar.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio5_NumerosParImpar\Ejercicio5_NumerosParImpar\obj\Debug\net8.0\Ejercicio5_NumerosParImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio5_NumerosParImpar\Ejercicio5_NumerosParImpar\obj\Debug\net8.0\Ejercicio5_NumerosParImpar.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio5_NumerosParImpar\Ejercicio5_NumerosParImpar\obj\Debug\net8.0\Ejercicio5_NumerosParImpar.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio5_NumerosParImpar\Ejercicio5_NumerosParImpar\obj\Debug\net8.0\Ejercicio5_NumerosParImpar.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio5_NumerosParImpar\Ejercicio5_NumerosParImpar\obj\Debug\net8.0\Ejercicio5_NumerosParImpar.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio5_NumerosParImpar\Ejercicio5_NumerosParImpar\obj\Debug\net8.0\refint\Ejercicio5_NumerosParImpar.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio5_NumerosParImpar\Ejercicio5_NumerosParImpar\obj\Debug\net8.0\Ejercicio5_NumerosParImpar.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio5_NumerosParImpar\Ejercicio5_NumerosParImpar\obj\Debug\net8.0\Ejercicio5_NumerosParImpar.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio5_NumerosParImpar\Ejercicio5_NumerosParImpar\obj\Debug\net8.0\ref\Ejercicio5_NumerosParImpar.dll

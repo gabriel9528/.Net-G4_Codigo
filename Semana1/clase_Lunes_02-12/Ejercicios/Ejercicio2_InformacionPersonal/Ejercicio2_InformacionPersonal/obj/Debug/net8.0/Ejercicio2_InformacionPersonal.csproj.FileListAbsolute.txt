@@ -1,0 +1,14 @@
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio2_InformacionPersonal\Ejercicio2_InformacionPersonal\bin\Debug\net8.0\Ejercicio2_InformacionPersonal.exe
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio2_InformacionPersonal\Ejercicio2_InformacionPersonal\bin\Debug\net8.0\Ejercicio2_InformacionPersonal.deps.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio2_InformacionPersonal\Ejercicio2_InformacionPersonal\bin\Debug\net8.0\Ejercicio2_InformacionPersonal.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio2_InformacionPersonal\Ejercicio2_InformacionPersonal\bin\Debug\net8.0\Ejercicio2_InformacionPersonal.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio2_InformacionPersonal\Ejercicio2_InformacionPersonal\bin\Debug\net8.0\Ejercicio2_InformacionPersonal.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio2_InformacionPersonal\Ejercicio2_InformacionPersonal\obj\Debug\net8.0\Ejercicio2_InformacionPersonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio2_InformacionPersonal\Ejercicio2_InformacionPersonal\obj\Debug\net8.0\Ejercicio2_InformacionPersonal.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio2_InformacionPersonal\Ejercicio2_InformacionPersonal\obj\Debug\net8.0\Ejercicio2_InformacionPersonal.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio2_InformacionPersonal\Ejercicio2_InformacionPersonal\obj\Debug\net8.0\Ejercicio2_InformacionPersonal.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio2_InformacionPersonal\Ejercicio2_InformacionPersonal\obj\Debug\net8.0\Ejercicio2_InformacionPersonal.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio2_InformacionPersonal\Ejercicio2_InformacionPersonal\obj\Debug\net8.0\refint\Ejercicio2_InformacionPersonal.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio2_InformacionPersonal\Ejercicio2_InformacionPersonal\obj\Debug\net8.0\Ejercicio2_InformacionPersonal.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio2_InformacionPersonal\Ejercicio2_InformacionPersonal\obj\Debug\net8.0\Ejercicio2_InformacionPersonal.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio2_InformacionPersonal\Ejercicio2_InformacionPersonal\obj\Debug\net8.0\ref\Ejercicio2_InformacionPersonal.dll

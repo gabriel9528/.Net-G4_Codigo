@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioDiaSemana\EjercicioDiaSemana\bin\Debug\net8.0\EjercicioDiaSemana.exe
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioDiaSemana\EjercicioDiaSemana\bin\Debug\net8.0\EjercicioDiaSemana.deps.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioDiaSemana\EjercicioDiaSemana\bin\Debug\net8.0\EjercicioDiaSemana.runtimeconfig.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioDiaSemana\EjercicioDiaSemana\bin\Debug\net8.0\EjercicioDiaSemana.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioDiaSemana\EjercicioDiaSemana\bin\Debug\net8.0\EjercicioDiaSemana.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioDiaSemana\EjercicioDiaSemana\obj\Debug\net8.0\EjercicioDiaSemana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioDiaSemana\EjercicioDiaSemana\obj\Debug\net8.0\EjercicioDiaSemana.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioDiaSemana\EjercicioDiaSemana\obj\Debug\net8.0\EjercicioDiaSemana.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioDiaSemana\EjercicioDiaSemana\obj\Debug\net8.0\EjercicioDiaSemana.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioDiaSemana\EjercicioDiaSemana\obj\Debug\net8.0\EjercicioDiaSemana.sourcelink.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioDiaSemana\EjercicioDiaSemana\obj\Debug\net8.0\EjercicioDiaSemana.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioDiaSemana\EjercicioDiaSemana\obj\Debug\net8.0\refint\EjercicioDiaSemana.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioDiaSemana\EjercicioDiaSemana\obj\Debug\net8.0\EjercicioDiaSemana.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioDiaSemana\EjercicioDiaSemana\obj\Debug\net8.0\EjercicioDiaSemana.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioDiaSemana\EjercicioDiaSemana\obj\Debug\net8.0\ref\EjercicioDiaSemana.dll

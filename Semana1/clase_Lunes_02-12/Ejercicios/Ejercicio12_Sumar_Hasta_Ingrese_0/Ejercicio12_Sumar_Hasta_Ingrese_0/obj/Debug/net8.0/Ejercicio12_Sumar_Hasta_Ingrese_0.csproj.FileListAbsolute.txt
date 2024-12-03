@@ -1,0 +1,14 @@
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio12_Sumar_Hasta_Ingrese_0\Ejercicio12_Sumar_Hasta_Ingrese_0\bin\Debug\net8.0\Ejercicio12_Sumar_Hasta_Ingrese_0.exe
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio12_Sumar_Hasta_Ingrese_0\Ejercicio12_Sumar_Hasta_Ingrese_0\bin\Debug\net8.0\Ejercicio12_Sumar_Hasta_Ingrese_0.deps.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio12_Sumar_Hasta_Ingrese_0\Ejercicio12_Sumar_Hasta_Ingrese_0\bin\Debug\net8.0\Ejercicio12_Sumar_Hasta_Ingrese_0.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio12_Sumar_Hasta_Ingrese_0\Ejercicio12_Sumar_Hasta_Ingrese_0\bin\Debug\net8.0\Ejercicio12_Sumar_Hasta_Ingrese_0.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio12_Sumar_Hasta_Ingrese_0\Ejercicio12_Sumar_Hasta_Ingrese_0\bin\Debug\net8.0\Ejercicio12_Sumar_Hasta_Ingrese_0.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio12_Sumar_Hasta_Ingrese_0\Ejercicio12_Sumar_Hasta_Ingrese_0\obj\Debug\net8.0\Ejercicio12_Sumar_Hasta_Ingrese_0.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio12_Sumar_Hasta_Ingrese_0\Ejercicio12_Sumar_Hasta_Ingrese_0\obj\Debug\net8.0\Ejercicio12_Sumar_Hasta_Ingrese_0.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio12_Sumar_Hasta_Ingrese_0\Ejercicio12_Sumar_Hasta_Ingrese_0\obj\Debug\net8.0\Ejercicio12_Sumar_Hasta_Ingrese_0.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio12_Sumar_Hasta_Ingrese_0\Ejercicio12_Sumar_Hasta_Ingrese_0\obj\Debug\net8.0\Ejercicio12_Sumar_Hasta_Ingrese_0.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio12_Sumar_Hasta_Ingrese_0\Ejercicio12_Sumar_Hasta_Ingrese_0\obj\Debug\net8.0\Ejercicio12_Sumar_Hasta_Ingrese_0.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio12_Sumar_Hasta_Ingrese_0\Ejercicio12_Sumar_Hasta_Ingrese_0\obj\Debug\net8.0\refint\Ejercicio12_Sumar_Hasta_Ingrese_0.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio12_Sumar_Hasta_Ingrese_0\Ejercicio12_Sumar_Hasta_Ingrese_0\obj\Debug\net8.0\Ejercicio12_Sumar_Hasta_Ingrese_0.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio12_Sumar_Hasta_Ingrese_0\Ejercicio12_Sumar_Hasta_Ingrese_0\obj\Debug\net8.0\Ejercicio12_Sumar_Hasta_Ingrese_0.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio12_Sumar_Hasta_Ingrese_0\Ejercicio12_Sumar_Hasta_Ingrese_0\obj\Debug\net8.0\ref\Ejercicio12_Sumar_Hasta_Ingrese_0.dll

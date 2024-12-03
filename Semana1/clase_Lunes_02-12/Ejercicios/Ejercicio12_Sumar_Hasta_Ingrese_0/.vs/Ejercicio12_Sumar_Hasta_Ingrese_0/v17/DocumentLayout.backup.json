@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana1\\Clase2\\Ejercicio12_Sumar_Hasta_Ingrese_0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{711896DC-17B5-4EAD-AF0C-031E620FB33E}|Ejercicio12_Sumar_Hasta_Ingrese_0\\Ejercicio12_Sumar_Hasta_Ingrese_0.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana1\\clase2\\ejercicio12_sumar_hasta_ingrese_0\\ejercicio12_sumar_hasta_ingrese_0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711896DC-17B5-4EAD-AF0C-031E620FB33E}|Ejercicio12_Sumar_Hasta_Ingrese_0\\Ejercicio12_Sumar_Hasta_Ingrese_0.csproj|solutionrelative:ejercicio12_sumar_hasta_ingrese_0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana1\\Clase2\\Ejercicio12_Sumar_Hasta_Ingrese_0\\Ejercicio12_Sumar_Hasta_Ingrese_0\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio12_Sumar_Hasta_Ingrese_0\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana1\\Clase2\\Ejercicio12_Sumar_Hasta_Ingrese_0\\Ejercicio12_Sumar_Hasta_Ingrese_0\\Program.cs",
+              "RelativeToolTip": "Ejercicio12_Sumar_Hasta_Ingrese_0\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T02:41:38.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

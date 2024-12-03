@@ -1,0 +1,14 @@
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejericio10_TablaMultiplicar\Ejericio10_TablaMultiplicar\bin\Debug\net8.0\Ejericio10_TablaMultiplicar.exe
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejericio10_TablaMultiplicar\Ejericio10_TablaMultiplicar\bin\Debug\net8.0\Ejericio10_TablaMultiplicar.deps.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejericio10_TablaMultiplicar\Ejericio10_TablaMultiplicar\bin\Debug\net8.0\Ejericio10_TablaMultiplicar.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejericio10_TablaMultiplicar\Ejericio10_TablaMultiplicar\bin\Debug\net8.0\Ejericio10_TablaMultiplicar.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejericio10_TablaMultiplicar\Ejericio10_TablaMultiplicar\bin\Debug\net8.0\Ejericio10_TablaMultiplicar.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejericio10_TablaMultiplicar\Ejericio10_TablaMultiplicar\obj\Debug\net8.0\Ejericio10_TablaMultiplicar.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejericio10_TablaMultiplicar\Ejericio10_TablaMultiplicar\obj\Debug\net8.0\Ejericio10_TablaMultiplicar.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejericio10_TablaMultiplicar\Ejericio10_TablaMultiplicar\obj\Debug\net8.0\Ejericio10_TablaMultiplicar.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejericio10_TablaMultiplicar\Ejericio10_TablaMultiplicar\obj\Debug\net8.0\Ejericio10_TablaMultiplicar.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejericio10_TablaMultiplicar\Ejericio10_TablaMultiplicar\obj\Debug\net8.0\Ejericio10_TablaMultiplicar.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejericio10_TablaMultiplicar\Ejericio10_TablaMultiplicar\obj\Debug\net8.0\refint\Ejericio10_TablaMultiplicar.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejericio10_TablaMultiplicar\Ejericio10_TablaMultiplicar\obj\Debug\net8.0\Ejericio10_TablaMultiplicar.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejericio10_TablaMultiplicar\Ejericio10_TablaMultiplicar\obj\Debug\net8.0\Ejericio10_TablaMultiplicar.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejericio10_TablaMultiplicar\Ejericio10_TablaMultiplicar\obj\Debug\net8.0\ref\Ejericio10_TablaMultiplicar.dll

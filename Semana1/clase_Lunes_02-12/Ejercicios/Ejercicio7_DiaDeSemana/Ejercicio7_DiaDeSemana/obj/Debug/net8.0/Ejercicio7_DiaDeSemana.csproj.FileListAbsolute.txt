@@ -1,0 +1,14 @@
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio7_DiaDeSemana\Ejercicio7_DiaDeSemana\bin\Debug\net8.0\Ejercicio7_DiaDeSemana.exe
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio7_DiaDeSemana\Ejercicio7_DiaDeSemana\bin\Debug\net8.0\Ejercicio7_DiaDeSemana.deps.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio7_DiaDeSemana\Ejercicio7_DiaDeSemana\bin\Debug\net8.0\Ejercicio7_DiaDeSemana.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio7_DiaDeSemana\Ejercicio7_DiaDeSemana\bin\Debug\net8.0\Ejercicio7_DiaDeSemana.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio7_DiaDeSemana\Ejercicio7_DiaDeSemana\bin\Debug\net8.0\Ejercicio7_DiaDeSemana.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio7_DiaDeSemana\Ejercicio7_DiaDeSemana\obj\Debug\net8.0\Ejercicio7_DiaDeSemana.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio7_DiaDeSemana\Ejercicio7_DiaDeSemana\obj\Debug\net8.0\Ejercicio7_DiaDeSemana.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio7_DiaDeSemana\Ejercicio7_DiaDeSemana\obj\Debug\net8.0\Ejercicio7_DiaDeSemana.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio7_DiaDeSemana\Ejercicio7_DiaDeSemana\obj\Debug\net8.0\Ejercicio7_DiaDeSemana.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio7_DiaDeSemana\Ejercicio7_DiaDeSemana\obj\Debug\net8.0\Ejercicio7_DiaDeSemana.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio7_DiaDeSemana\Ejercicio7_DiaDeSemana\obj\Debug\net8.0\refint\Ejercicio7_DiaDeSemana.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio7_DiaDeSemana\Ejercicio7_DiaDeSemana\obj\Debug\net8.0\Ejercicio7_DiaDeSemana.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio7_DiaDeSemana\Ejercicio7_DiaDeSemana\obj\Debug\net8.0\Ejercicio7_DiaDeSemana.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio7_DiaDeSemana\Ejercicio7_DiaDeSemana\obj\Debug\net8.0\ref\Ejercicio7_DiaDeSemana.dll

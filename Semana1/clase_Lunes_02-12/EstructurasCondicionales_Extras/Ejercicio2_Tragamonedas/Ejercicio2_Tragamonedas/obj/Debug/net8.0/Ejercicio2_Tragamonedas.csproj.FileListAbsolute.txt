@@ -1,0 +1,14 @@
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio2_Tragamonedas\Ejercicio2_Tragamonedas\bin\Debug\net8.0\Ejercicio2_Tragamonedas.exe
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio2_Tragamonedas\Ejercicio2_Tragamonedas\bin\Debug\net8.0\Ejercicio2_Tragamonedas.deps.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio2_Tragamonedas\Ejercicio2_Tragamonedas\bin\Debug\net8.0\Ejercicio2_Tragamonedas.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio2_Tragamonedas\Ejercicio2_Tragamonedas\bin\Debug\net8.0\Ejercicio2_Tragamonedas.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio2_Tragamonedas\Ejercicio2_Tragamonedas\bin\Debug\net8.0\Ejercicio2_Tragamonedas.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio2_Tragamonedas\Ejercicio2_Tragamonedas\obj\Debug\net8.0\Ejercicio2_Tragamonedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio2_Tragamonedas\Ejercicio2_Tragamonedas\obj\Debug\net8.0\Ejercicio2_Tragamonedas.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio2_Tragamonedas\Ejercicio2_Tragamonedas\obj\Debug\net8.0\Ejercicio2_Tragamonedas.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio2_Tragamonedas\Ejercicio2_Tragamonedas\obj\Debug\net8.0\Ejercicio2_Tragamonedas.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio2_Tragamonedas\Ejercicio2_Tragamonedas\obj\Debug\net8.0\Ejercicio2_Tragamonedas.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio2_Tragamonedas\Ejercicio2_Tragamonedas\obj\Debug\net8.0\refint\Ejercicio2_Tragamonedas.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio2_Tragamonedas\Ejercicio2_Tragamonedas\obj\Debug\net8.0\Ejercicio2_Tragamonedas.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio2_Tragamonedas\Ejercicio2_Tragamonedas\obj\Debug\net8.0\Ejercicio2_Tragamonedas.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio2_Tragamonedas\Ejercicio2_Tragamonedas\obj\Debug\net8.0\ref\Ejercicio2_Tragamonedas.dll

@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana1\\clase_Lunes_02-12\\DoWhile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA5E326-6907-4C95-A95A-F28D7D3D46C7}|DoWhile\\DoWhile.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana1\\clase_lunes_02-12\\dowhile\\dowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA5E326-6907-4C95-A95A-F28D7D3D46C7}|DoWhile\\DoWhile.csproj|solutionrelative:dowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana1\\clase_Lunes_02-12\\DoWhile\\DoWhile\\Program.cs",
+              "RelativeDocumentMoniker": "DoWhile\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana1\\clase_Lunes_02-12\\DoWhile\\DoWhile\\Program.cs",
+              "RelativeToolTip": "DoWhile\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:11:23.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

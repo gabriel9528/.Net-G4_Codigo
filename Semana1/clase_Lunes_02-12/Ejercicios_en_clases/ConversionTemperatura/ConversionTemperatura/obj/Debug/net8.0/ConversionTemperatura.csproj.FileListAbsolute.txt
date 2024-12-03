@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\ConversionTemperatura\ConversionTemperatura\bin\Debug\net8.0\ConversionTemperatura.exe
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\ConversionTemperatura\ConversionTemperatura\bin\Debug\net8.0\ConversionTemperatura.deps.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\ConversionTemperatura\ConversionTemperatura\bin\Debug\net8.0\ConversionTemperatura.runtimeconfig.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\ConversionTemperatura\ConversionTemperatura\bin\Debug\net8.0\ConversionTemperatura.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\ConversionTemperatura\ConversionTemperatura\bin\Debug\net8.0\ConversionTemperatura.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\ConversionTemperatura\ConversionTemperatura\obj\Debug\net8.0\ConversionTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\ConversionTemperatura\ConversionTemperatura\obj\Debug\net8.0\ConversionTemperatura.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\ConversionTemperatura\ConversionTemperatura\obj\Debug\net8.0\ConversionTemperatura.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\ConversionTemperatura\ConversionTemperatura\obj\Debug\net8.0\ConversionTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\ConversionTemperatura\ConversionTemperatura\obj\Debug\net8.0\ConversionTemperatura.sourcelink.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\ConversionTemperatura\ConversionTemperatura\obj\Debug\net8.0\ConversionTemperatura.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\ConversionTemperatura\ConversionTemperatura\obj\Debug\net8.0\refint\ConversionTemperatura.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\ConversionTemperatura\ConversionTemperatura\obj\Debug\net8.0\ConversionTemperatura.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\ConversionTemperatura\ConversionTemperatura\obj\Debug\net8.0\ConversionTemperatura.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\ConversionTemperatura\ConversionTemperatura\obj\Debug\net8.0\ref\ConversionTemperatura.dll

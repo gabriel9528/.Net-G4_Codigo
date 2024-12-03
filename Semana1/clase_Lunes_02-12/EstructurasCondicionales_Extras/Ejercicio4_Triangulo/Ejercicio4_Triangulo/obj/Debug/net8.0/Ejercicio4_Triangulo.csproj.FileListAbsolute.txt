@@ -1,0 +1,14 @@
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio4_Triangulo\Ejercicio4_Triangulo\bin\Debug\net8.0\Ejercicio4_Triangulo.exe
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio4_Triangulo\Ejercicio4_Triangulo\bin\Debug\net8.0\Ejercicio4_Triangulo.deps.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio4_Triangulo\Ejercicio4_Triangulo\bin\Debug\net8.0\Ejercicio4_Triangulo.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio4_Triangulo\Ejercicio4_Triangulo\bin\Debug\net8.0\Ejercicio4_Triangulo.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio4_Triangulo\Ejercicio4_Triangulo\bin\Debug\net8.0\Ejercicio4_Triangulo.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio4_Triangulo\Ejercicio4_Triangulo\obj\Debug\net8.0\Ejercicio4_Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio4_Triangulo\Ejercicio4_Triangulo\obj\Debug\net8.0\Ejercicio4_Triangulo.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio4_Triangulo\Ejercicio4_Triangulo\obj\Debug\net8.0\Ejercicio4_Triangulo.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio4_Triangulo\Ejercicio4_Triangulo\obj\Debug\net8.0\Ejercicio4_Triangulo.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio4_Triangulo\Ejercicio4_Triangulo\obj\Debug\net8.0\Ejercicio4_Triangulo.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio4_Triangulo\Ejercicio4_Triangulo\obj\Debug\net8.0\refint\Ejercicio4_Triangulo.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio4_Triangulo\Ejercicio4_Triangulo\obj\Debug\net8.0\Ejercicio4_Triangulo.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio4_Triangulo\Ejercicio4_Triangulo\obj\Debug\net8.0\Ejercicio4_Triangulo.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio4_Triangulo\Ejercicio4_Triangulo\obj\Debug\net8.0\ref\Ejercicio4_Triangulo.dll

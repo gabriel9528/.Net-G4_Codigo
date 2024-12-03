@@ -1,0 +1,14 @@
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio6_Conducir\Ejercicio6_Conducir\bin\Debug\net8.0\Ejercicio6_Conducir.exe
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio6_Conducir\Ejercicio6_Conducir\bin\Debug\net8.0\Ejercicio6_Conducir.deps.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio6_Conducir\Ejercicio6_Conducir\bin\Debug\net8.0\Ejercicio6_Conducir.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio6_Conducir\Ejercicio6_Conducir\bin\Debug\net8.0\Ejercicio6_Conducir.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio6_Conducir\Ejercicio6_Conducir\bin\Debug\net8.0\Ejercicio6_Conducir.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio6_Conducir\Ejercicio6_Conducir\obj\Debug\net8.0\Ejercicio6_Conducir.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio6_Conducir\Ejercicio6_Conducir\obj\Debug\net8.0\Ejercicio6_Conducir.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio6_Conducir\Ejercicio6_Conducir\obj\Debug\net8.0\Ejercicio6_Conducir.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio6_Conducir\Ejercicio6_Conducir\obj\Debug\net8.0\Ejercicio6_Conducir.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio6_Conducir\Ejercicio6_Conducir\obj\Debug\net8.0\Ejercicio6_Conducir.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio6_Conducir\Ejercicio6_Conducir\obj\Debug\net8.0\refint\Ejercicio6_Conducir.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio6_Conducir\Ejercicio6_Conducir\obj\Debug\net8.0\Ejercicio6_Conducir.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio6_Conducir\Ejercicio6_Conducir\obj\Debug\net8.0\Ejercicio6_Conducir.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio6_Conducir\Ejercicio6_Conducir\obj\Debug\net8.0\ref\Ejercicio6_Conducir.dll

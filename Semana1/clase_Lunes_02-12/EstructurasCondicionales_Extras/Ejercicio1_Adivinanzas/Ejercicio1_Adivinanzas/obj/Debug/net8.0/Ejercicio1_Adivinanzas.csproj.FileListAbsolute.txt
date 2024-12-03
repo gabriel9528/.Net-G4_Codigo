@@ -1,0 +1,14 @@
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio1_Adivinanzas\Ejercicio1_Adivinanzas\bin\Debug\net8.0\Ejercicio1_Adivinanzas.exe
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio1_Adivinanzas\Ejercicio1_Adivinanzas\bin\Debug\net8.0\Ejercicio1_Adivinanzas.deps.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio1_Adivinanzas\Ejercicio1_Adivinanzas\bin\Debug\net8.0\Ejercicio1_Adivinanzas.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio1_Adivinanzas\Ejercicio1_Adivinanzas\bin\Debug\net8.0\Ejercicio1_Adivinanzas.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio1_Adivinanzas\Ejercicio1_Adivinanzas\bin\Debug\net8.0\Ejercicio1_Adivinanzas.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio1_Adivinanzas\Ejercicio1_Adivinanzas\obj\Debug\net8.0\Ejercicio1_Adivinanzas.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio1_Adivinanzas\Ejercicio1_Adivinanzas\obj\Debug\net8.0\Ejercicio1_Adivinanzas.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio1_Adivinanzas\Ejercicio1_Adivinanzas\obj\Debug\net8.0\Ejercicio1_Adivinanzas.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio1_Adivinanzas\Ejercicio1_Adivinanzas\obj\Debug\net8.0\Ejercicio1_Adivinanzas.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio1_Adivinanzas\Ejercicio1_Adivinanzas\obj\Debug\net8.0\Ejercicio1_Adivinanzas.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio1_Adivinanzas\Ejercicio1_Adivinanzas\obj\Debug\net8.0\refint\Ejercicio1_Adivinanzas.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio1_Adivinanzas\Ejercicio1_Adivinanzas\obj\Debug\net8.0\Ejercicio1_Adivinanzas.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio1_Adivinanzas\Ejercicio1_Adivinanzas\obj\Debug\net8.0\Ejercicio1_Adivinanzas.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio1_Adivinanzas\Ejercicio1_Adivinanzas\obj\Debug\net8.0\ref\Ejercicio1_Adivinanzas.dll

@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioParImpar\EjercicioParImpar\bin\Debug\net8.0\EjercicioParImpar.exe
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioParImpar\EjercicioParImpar\bin\Debug\net8.0\EjercicioParImpar.deps.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioParImpar\EjercicioParImpar\bin\Debug\net8.0\EjercicioParImpar.runtimeconfig.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioParImpar\EjercicioParImpar\bin\Debug\net8.0\EjercicioParImpar.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioParImpar\EjercicioParImpar\bin\Debug\net8.0\EjercicioParImpar.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioParImpar\EjercicioParImpar\obj\Debug\net8.0\EjercicioParImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioParImpar\EjercicioParImpar\obj\Debug\net8.0\EjercicioParImpar.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioParImpar\EjercicioParImpar\obj\Debug\net8.0\EjercicioParImpar.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioParImpar\EjercicioParImpar\obj\Debug\net8.0\EjercicioParImpar.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioParImpar\EjercicioParImpar\obj\Debug\net8.0\EjercicioParImpar.sourcelink.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioParImpar\EjercicioParImpar\obj\Debug\net8.0\EjercicioParImpar.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioParImpar\EjercicioParImpar\obj\Debug\net8.0\refint\EjercicioParImpar.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioParImpar\EjercicioParImpar\obj\Debug\net8.0\EjercicioParImpar.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioParImpar\EjercicioParImpar\obj\Debug\net8.0\EjercicioParImpar.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\EjercicioParImpar\EjercicioParImpar\obj\Debug\net8.0\ref\EjercicioParImpar.dll

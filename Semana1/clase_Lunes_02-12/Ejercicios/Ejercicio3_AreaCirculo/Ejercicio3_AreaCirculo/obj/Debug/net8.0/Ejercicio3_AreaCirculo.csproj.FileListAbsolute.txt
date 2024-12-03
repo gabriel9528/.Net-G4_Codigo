@@ -1,0 +1,14 @@
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio3_AreaCirculo\Ejercicio3_AreaCirculo\bin\Debug\net8.0\Ejercicio3_AreaCirculo.exe
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio3_AreaCirculo\Ejercicio3_AreaCirculo\bin\Debug\net8.0\Ejercicio3_AreaCirculo.deps.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio3_AreaCirculo\Ejercicio3_AreaCirculo\bin\Debug\net8.0\Ejercicio3_AreaCirculo.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio3_AreaCirculo\Ejercicio3_AreaCirculo\bin\Debug\net8.0\Ejercicio3_AreaCirculo.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio3_AreaCirculo\Ejercicio3_AreaCirculo\bin\Debug\net8.0\Ejercicio3_AreaCirculo.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio3_AreaCirculo\Ejercicio3_AreaCirculo\obj\Debug\net8.0\Ejercicio3_AreaCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio3_AreaCirculo\Ejercicio3_AreaCirculo\obj\Debug\net8.0\Ejercicio3_AreaCirculo.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio3_AreaCirculo\Ejercicio3_AreaCirculo\obj\Debug\net8.0\Ejercicio3_AreaCirculo.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio3_AreaCirculo\Ejercicio3_AreaCirculo\obj\Debug\net8.0\Ejercicio3_AreaCirculo.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio3_AreaCirculo\Ejercicio3_AreaCirculo\obj\Debug\net8.0\Ejercicio3_AreaCirculo.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio3_AreaCirculo\Ejercicio3_AreaCirculo\obj\Debug\net8.0\refint\Ejercicio3_AreaCirculo.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio3_AreaCirculo\Ejercicio3_AreaCirculo\obj\Debug\net8.0\Ejercicio3_AreaCirculo.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio3_AreaCirculo\Ejercicio3_AreaCirculo\obj\Debug\net8.0\Ejercicio3_AreaCirculo.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio3_AreaCirculo\Ejercicio3_AreaCirculo\obj\Debug\net8.0\ref\Ejercicio3_AreaCirculo.dll

@@ -1,0 +1,14 @@
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio3_ContadorNumeros\Ejercicio3_ContadorNumeros\bin\Debug\net8.0\Ejercicio3_ContadorNumeros.exe
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio3_ContadorNumeros\Ejercicio3_ContadorNumeros\bin\Debug\net8.0\Ejercicio3_ContadorNumeros.deps.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio3_ContadorNumeros\Ejercicio3_ContadorNumeros\bin\Debug\net8.0\Ejercicio3_ContadorNumeros.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio3_ContadorNumeros\Ejercicio3_ContadorNumeros\bin\Debug\net8.0\Ejercicio3_ContadorNumeros.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio3_ContadorNumeros\Ejercicio3_ContadorNumeros\bin\Debug\net8.0\Ejercicio3_ContadorNumeros.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio3_ContadorNumeros\Ejercicio3_ContadorNumeros\obj\Debug\net8.0\Ejercicio3_ContadorNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio3_ContadorNumeros\Ejercicio3_ContadorNumeros\obj\Debug\net8.0\Ejercicio3_ContadorNumeros.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio3_ContadorNumeros\Ejercicio3_ContadorNumeros\obj\Debug\net8.0\Ejercicio3_ContadorNumeros.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio3_ContadorNumeros\Ejercicio3_ContadorNumeros\obj\Debug\net8.0\Ejercicio3_ContadorNumeros.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio3_ContadorNumeros\Ejercicio3_ContadorNumeros\obj\Debug\net8.0\Ejercicio3_ContadorNumeros.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio3_ContadorNumeros\Ejercicio3_ContadorNumeros\obj\Debug\net8.0\refint\Ejercicio3_ContadorNumeros.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio3_ContadorNumeros\Ejercicio3_ContadorNumeros\obj\Debug\net8.0\Ejercicio3_ContadorNumeros.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio3_ContadorNumeros\Ejercicio3_ContadorNumeros\obj\Debug\net8.0\Ejercicio3_ContadorNumeros.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\EstructurasCondicionales_Extras\Ejercicio3_ContadorNumeros\Ejercicio3_ContadorNumeros\obj\Debug\net8.0\ref\Ejercicio3_ContadorNumeros.dll

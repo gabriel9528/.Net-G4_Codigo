@@ -1,0 +1,14 @@
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio4_Structure\Ejercicio4_Structure\bin\Debug\net8.0\Ejercicio4_Structure.exe
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio4_Structure\Ejercicio4_Structure\bin\Debug\net8.0\Ejercicio4_Structure.deps.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio4_Structure\Ejercicio4_Structure\bin\Debug\net8.0\Ejercicio4_Structure.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio4_Structure\Ejercicio4_Structure\bin\Debug\net8.0\Ejercicio4_Structure.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio4_Structure\Ejercicio4_Structure\bin\Debug\net8.0\Ejercicio4_Structure.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio4_Structure\Ejercicio4_Structure\obj\Debug\net8.0\Ejercicio4_Structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio4_Structure\Ejercicio4_Structure\obj\Debug\net8.0\Ejercicio4_Structure.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio4_Structure\Ejercicio4_Structure\obj\Debug\net8.0\Ejercicio4_Structure.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio4_Structure\Ejercicio4_Structure\obj\Debug\net8.0\Ejercicio4_Structure.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio4_Structure\Ejercicio4_Structure\obj\Debug\net8.0\Ejercicio4_Structure.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio4_Structure\Ejercicio4_Structure\obj\Debug\net8.0\refint\Ejercicio4_Structure.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio4_Structure\Ejercicio4_Structure\obj\Debug\net8.0\Ejercicio4_Structure.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio4_Structure\Ejercicio4_Structure\obj\Debug\net8.0\Ejercicio4_Structure.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio4_Structure\Ejercicio4_Structure\obj\Debug\net8.0\ref\Ejercicio4_Structure.dll

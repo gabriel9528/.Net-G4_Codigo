@@ -1,0 +1,14 @@
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio4_ConversionTemperatura\Ejercicio4_ConversionTemperatura\bin\Debug\net8.0\Ejercicio4_ConversionTemperatura.exe
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio4_ConversionTemperatura\Ejercicio4_ConversionTemperatura\bin\Debug\net8.0\Ejercicio4_ConversionTemperatura.deps.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio4_ConversionTemperatura\Ejercicio4_ConversionTemperatura\bin\Debug\net8.0\Ejercicio4_ConversionTemperatura.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio4_ConversionTemperatura\Ejercicio4_ConversionTemperatura\bin\Debug\net8.0\Ejercicio4_ConversionTemperatura.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio4_ConversionTemperatura\Ejercicio4_ConversionTemperatura\bin\Debug\net8.0\Ejercicio4_ConversionTemperatura.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio4_ConversionTemperatura\Ejercicio4_ConversionTemperatura\obj\Debug\net8.0\Ejercicio4_ConversionTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio4_ConversionTemperatura\Ejercicio4_ConversionTemperatura\obj\Debug\net8.0\Ejercicio4_ConversionTemperatura.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio4_ConversionTemperatura\Ejercicio4_ConversionTemperatura\obj\Debug\net8.0\Ejercicio4_ConversionTemperatura.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio4_ConversionTemperatura\Ejercicio4_ConversionTemperatura\obj\Debug\net8.0\Ejercicio4_ConversionTemperatura.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio4_ConversionTemperatura\Ejercicio4_ConversionTemperatura\obj\Debug\net8.0\Ejercicio4_ConversionTemperatura.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio4_ConversionTemperatura\Ejercicio4_ConversionTemperatura\obj\Debug\net8.0\refint\Ejercicio4_ConversionTemperatura.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio4_ConversionTemperatura\Ejercicio4_ConversionTemperatura\obj\Debug\net8.0\Ejercicio4_ConversionTemperatura.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio4_ConversionTemperatura\Ejercicio4_ConversionTemperatura\obj\Debug\net8.0\Ejercicio4_ConversionTemperatura.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio4_ConversionTemperatura\Ejercicio4_ConversionTemperatura\obj\Debug\net8.0\ref\Ejercicio4_ConversionTemperatura.dll

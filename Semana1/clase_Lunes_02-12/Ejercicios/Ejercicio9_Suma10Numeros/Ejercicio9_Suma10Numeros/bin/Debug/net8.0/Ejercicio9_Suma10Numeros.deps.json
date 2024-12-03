@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ejercicio9_Suma10Numeros/1.0.0": {
+        "runtime": {
+          "Ejercicio9_Suma10Numeros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio9_Suma10Numeros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

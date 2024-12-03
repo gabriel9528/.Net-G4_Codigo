@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ejericio10_TablaMultiplicar/1.0.0": {
+        "runtime": {
+          "Ejericio10_TablaMultiplicar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejericio10_TablaMultiplicar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

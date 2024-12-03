@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\DoWhile\DoWhile\bin\Debug\net8.0\DoWhile.exe
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\DoWhile\DoWhile\bin\Debug\net8.0\DoWhile.deps.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\DoWhile\DoWhile\bin\Debug\net8.0\DoWhile.runtimeconfig.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\DoWhile\DoWhile\bin\Debug\net8.0\DoWhile.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\DoWhile\DoWhile\bin\Debug\net8.0\DoWhile.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.sourcelink.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\DoWhile\DoWhile\obj\Debug\net8.0\refint\DoWhile.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Lunes_02-12\DoWhile\DoWhile\obj\Debug\net8.0\ref\DoWhile.dll

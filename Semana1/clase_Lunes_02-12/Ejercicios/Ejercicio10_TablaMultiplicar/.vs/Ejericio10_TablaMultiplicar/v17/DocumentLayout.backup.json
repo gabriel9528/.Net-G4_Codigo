@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana1\\Clase2\\Ejericio10_TablaMultiplicar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CACB055-8417-422D-B010-6D18F534BD08}|Ejericio10_TablaMultiplicar\\Ejericio10_TablaMultiplicar.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana1\\clase2\\ejericio10_tablamultiplicar\\ejericio10_tablamultiplicar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CACB055-8417-422D-B010-6D18F534BD08}|Ejericio10_TablaMultiplicar\\Ejericio10_TablaMultiplicar.csproj|solutionrelative:ejericio10_tablamultiplicar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana1\\Clase2\\Ejericio10_TablaMultiplicar\\Ejericio10_TablaMultiplicar\\Program.cs",
+              "RelativeDocumentMoniker": "Ejericio10_TablaMultiplicar\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana1\\Clase2\\Ejericio10_TablaMultiplicar\\Ejericio10_TablaMultiplicar\\Program.cs",
+              "RelativeToolTip": "Ejericio10_TablaMultiplicar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T02:36:23.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

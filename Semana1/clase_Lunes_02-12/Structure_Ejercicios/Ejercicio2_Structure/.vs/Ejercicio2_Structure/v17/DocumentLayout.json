@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana1\\Clase2\\Ejercicio2_Structure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B08CB7DD-56CC-47EB-B9C0-59D5C6C8C023}|Ejercicio2_Structure\\Ejercicio2_Structure.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana1\\clase2\\ejercicio2_structure\\ejercicio2_structure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08CB7DD-56CC-47EB-B9C0-59D5C6C8C023}|Ejercicio2_Structure\\Ejercicio2_Structure.csproj|solutionrelative:ejercicio2_structure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08CB7DD-56CC-47EB-B9C0-59D5C6C8C023}|Ejercicio2_Structure\\Ejercicio2_Structure.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana1\\clase2\\ejercicio2_structure\\ejercicio2_structure\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08CB7DD-56CC-47EB-B9C0-59D5C6C8C023}|Ejercicio2_Structure\\Ejercicio2_Structure.csproj|solutionrelative:ejercicio2_structure\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana1\\Clase2\\Ejercicio2_Structure\\Ejercicio2_Structure\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "Ejercicio2_Structure\\Rectangulo.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana1\\Clase2\\Ejercicio2_Structure\\Ejercicio2_Structure\\Rectangulo.cs",
+              "RelativeToolTip": "Ejercicio2_Structure\\Rectangulo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:02:53.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana1\\Clase2\\Ejercicio2_Structure\\Ejercicio2_Structure\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio2_Structure\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana1\\Clase2\\Ejercicio2_Structure\\Ejercicio2_Structure\\Program.cs",
+              "RelativeToolTip": "Ejercicio2_Structure\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:01:40.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

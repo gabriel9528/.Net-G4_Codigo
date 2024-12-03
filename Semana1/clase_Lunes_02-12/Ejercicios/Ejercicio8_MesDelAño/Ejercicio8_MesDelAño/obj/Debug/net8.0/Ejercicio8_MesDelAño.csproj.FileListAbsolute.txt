@@ -1,0 +1,14 @@
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio8_MesDelAño\Ejercicio8_MesDelAño\bin\Debug\net8.0\Ejercicio8_MesDelAño.exe
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio8_MesDelAño\Ejercicio8_MesDelAño\bin\Debug\net8.0\Ejercicio8_MesDelAño.deps.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio8_MesDelAño\Ejercicio8_MesDelAño\bin\Debug\net8.0\Ejercicio8_MesDelAño.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio8_MesDelAño\Ejercicio8_MesDelAño\bin\Debug\net8.0\Ejercicio8_MesDelAño.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio8_MesDelAño\Ejercicio8_MesDelAño\bin\Debug\net8.0\Ejercicio8_MesDelAño.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio8_MesDelAño\Ejercicio8_MesDelAño\obj\Debug\net8.0\Ejercicio8_MesDelAño.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio8_MesDelAño\Ejercicio8_MesDelAño\obj\Debug\net8.0\Ejercicio8_MesDelAño.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio8_MesDelAño\Ejercicio8_MesDelAño\obj\Debug\net8.0\Ejercicio8_MesDelAño.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio8_MesDelAño\Ejercicio8_MesDelAño\obj\Debug\net8.0\Ejercicio8_MesDelAño.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio8_MesDelAño\Ejercicio8_MesDelAño\obj\Debug\net8.0\Ejercicio8_MesDelAño.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio8_MesDelAño\Ejercicio8_MesDelAño\obj\Debug\net8.0\refint\Ejercicio8_MesDelAño.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio8_MesDelAño\Ejercicio8_MesDelAño\obj\Debug\net8.0\Ejercicio8_MesDelAño.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio8_MesDelAño\Ejercicio8_MesDelAño\obj\Debug\net8.0\Ejercicio8_MesDelAño.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase2\Ejercicio8_MesDelAño\Ejercicio8_MesDelAño\obj\Debug\net8.0\ref\Ejercicio8_MesDelAño.dll
