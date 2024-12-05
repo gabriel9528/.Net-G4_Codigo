@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\ContarVocales\ContarVocales\bin\Debug\net8.0\ContarVocales.exe
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\ContarVocales\ContarVocales\bin\Debug\net8.0\ContarVocales.deps.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\ContarVocales\ContarVocales\bin\Debug\net8.0\ContarVocales.runtimeconfig.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\ContarVocales\ContarVocales\bin\Debug\net8.0\ContarVocales.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\ContarVocales\ContarVocales\bin\Debug\net8.0\ContarVocales.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\ContarVocales\ContarVocales\obj\Debug\net8.0\ContarVocales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\ContarVocales\ContarVocales\obj\Debug\net8.0\ContarVocales.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\ContarVocales\ContarVocales\obj\Debug\net8.0\ContarVocales.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\ContarVocales\ContarVocales\obj\Debug\net8.0\ContarVocales.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\ContarVocales\ContarVocales\obj\Debug\net8.0\ContarVocales.sourcelink.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\ContarVocales\ContarVocales\obj\Debug\net8.0\ContarVocales.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\ContarVocales\ContarVocales\obj\Debug\net8.0\refint\ContarVocales.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\ContarVocales\ContarVocales\obj\Debug\net8.0\ContarVocales.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\ContarVocales\ContarVocales\obj\Debug\net8.0\ContarVocales.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\ContarVocales\ContarVocales\obj\Debug\net8.0\ref\ContarVocales.dll

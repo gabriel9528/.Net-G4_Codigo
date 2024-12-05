@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Diccionarios\Diccionarios\bin\Debug\net8.0\Diccionarios.exe
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Diccionarios\Diccionarios\bin\Debug\net8.0\Diccionarios.deps.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Diccionarios\Diccionarios\bin\Debug\net8.0\Diccionarios.runtimeconfig.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Diccionarios\Diccionarios\bin\Debug\net8.0\Diccionarios.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Diccionarios\Diccionarios\bin\Debug\net8.0\Diccionarios.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Diccionarios\Diccionarios\obj\Debug\net8.0\Diccionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Diccionarios\Diccionarios\obj\Debug\net8.0\Diccionarios.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Diccionarios\Diccionarios\obj\Debug\net8.0\Diccionarios.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Diccionarios\Diccionarios\obj\Debug\net8.0\Diccionarios.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Diccionarios\Diccionarios\obj\Debug\net8.0\Diccionarios.sourcelink.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Diccionarios\Diccionarios\obj\Debug\net8.0\Diccionarios.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Diccionarios\Diccionarios\obj\Debug\net8.0\refint\Diccionarios.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Diccionarios\Diccionarios\obj\Debug\net8.0\Diccionarios.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Diccionarios\Diccionarios\obj\Debug\net8.0\Diccionarios.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Diccionarios\Diccionarios\obj\Debug\net8.0\ref\Diccionarios.dll

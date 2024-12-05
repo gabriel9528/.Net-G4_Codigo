@@ -1,0 +1,14 @@
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Conjuntos\Conjuntos_Ejercicio4\Conjuntos_Ejercicio4\bin\Debug\net8.0\Conjuntos_Ejercicio4.exe
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Conjuntos\Conjuntos_Ejercicio4\Conjuntos_Ejercicio4\bin\Debug\net8.0\Conjuntos_Ejercicio4.deps.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Conjuntos\Conjuntos_Ejercicio4\Conjuntos_Ejercicio4\bin\Debug\net8.0\Conjuntos_Ejercicio4.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Conjuntos\Conjuntos_Ejercicio4\Conjuntos_Ejercicio4\bin\Debug\net8.0\Conjuntos_Ejercicio4.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Conjuntos\Conjuntos_Ejercicio4\Conjuntos_Ejercicio4\bin\Debug\net8.0\Conjuntos_Ejercicio4.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Conjuntos\Conjuntos_Ejercicio4\Conjuntos_Ejercicio4\obj\Debug\net8.0\Conjuntos_Ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Conjuntos\Conjuntos_Ejercicio4\Conjuntos_Ejercicio4\obj\Debug\net8.0\Conjuntos_Ejercicio4.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Conjuntos\Conjuntos_Ejercicio4\Conjuntos_Ejercicio4\obj\Debug\net8.0\Conjuntos_Ejercicio4.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Conjuntos\Conjuntos_Ejercicio4\Conjuntos_Ejercicio4\obj\Debug\net8.0\Conjuntos_Ejercicio4.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Conjuntos\Conjuntos_Ejercicio4\Conjuntos_Ejercicio4\obj\Debug\net8.0\Conjuntos_Ejercicio4.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Conjuntos\Conjuntos_Ejercicio4\Conjuntos_Ejercicio4\obj\Debug\net8.0\refint\Conjuntos_Ejercicio4.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Conjuntos\Conjuntos_Ejercicio4\Conjuntos_Ejercicio4\obj\Debug\net8.0\Conjuntos_Ejercicio4.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Conjuntos\Conjuntos_Ejercicio4\Conjuntos_Ejercicio4\obj\Debug\net8.0\Conjuntos_Ejercicio4.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Conjuntos\Conjuntos_Ejercicio4\Conjuntos_Ejercicio4\obj\Debug\net8.0\ref\Conjuntos_Ejercicio4.dll

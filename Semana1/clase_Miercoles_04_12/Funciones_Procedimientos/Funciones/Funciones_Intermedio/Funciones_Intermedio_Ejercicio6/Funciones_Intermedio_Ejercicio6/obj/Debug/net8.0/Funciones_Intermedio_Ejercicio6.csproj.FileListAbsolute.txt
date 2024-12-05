@@ -1,0 +1,14 @@
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Funciones_Intermedio_Ejercicio6\Funciones_Intermedio_Ejercicio6\bin\Debug\net8.0\Funciones_Intermedio_Ejercicio6.exe
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Funciones_Intermedio_Ejercicio6\Funciones_Intermedio_Ejercicio6\bin\Debug\net8.0\Funciones_Intermedio_Ejercicio6.deps.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Funciones_Intermedio_Ejercicio6\Funciones_Intermedio_Ejercicio6\bin\Debug\net8.0\Funciones_Intermedio_Ejercicio6.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Funciones_Intermedio_Ejercicio6\Funciones_Intermedio_Ejercicio6\bin\Debug\net8.0\Funciones_Intermedio_Ejercicio6.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Funciones_Intermedio_Ejercicio6\Funciones_Intermedio_Ejercicio6\bin\Debug\net8.0\Funciones_Intermedio_Ejercicio6.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Funciones_Intermedio_Ejercicio6\Funciones_Intermedio_Ejercicio6\obj\Debug\net8.0\Funciones_Intermedio_Ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Funciones_Intermedio_Ejercicio6\Funciones_Intermedio_Ejercicio6\obj\Debug\net8.0\Funciones_Intermedio_Ejercicio6.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Funciones_Intermedio_Ejercicio6\Funciones_Intermedio_Ejercicio6\obj\Debug\net8.0\Funciones_Intermedio_Ejercicio6.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Funciones_Intermedio_Ejercicio6\Funciones_Intermedio_Ejercicio6\obj\Debug\net8.0\Funciones_Intermedio_Ejercicio6.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Funciones_Intermedio_Ejercicio6\Funciones_Intermedio_Ejercicio6\obj\Debug\net8.0\Funciones_Intermedio_Ejercicio6.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Funciones_Intermedio_Ejercicio6\Funciones_Intermedio_Ejercicio6\obj\Debug\net8.0\refint\Funciones_Intermedio_Ejercicio6.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Funciones_Intermedio_Ejercicio6\Funciones_Intermedio_Ejercicio6\obj\Debug\net8.0\Funciones_Intermedio_Ejercicio6.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Funciones_Intermedio_Ejercicio6\Funciones_Intermedio_Ejercicio6\obj\Debug\net8.0\Funciones_Intermedio_Ejercicio6.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Funciones_Intermedio_Ejercicio6\Funciones_Intermedio_Ejercicio6\obj\Debug\net8.0\ref\Funciones_Intermedio_Ejercicio6.dll

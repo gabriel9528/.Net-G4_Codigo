@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\AreaCirculo\AreaCirculo\bin\Debug\net8.0\AreaCirculo.exe
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\AreaCirculo\AreaCirculo\bin\Debug\net8.0\AreaCirculo.deps.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\AreaCirculo\AreaCirculo\bin\Debug\net8.0\AreaCirculo.runtimeconfig.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\AreaCirculo\AreaCirculo\bin\Debug\net8.0\AreaCirculo.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\AreaCirculo\AreaCirculo\bin\Debug\net8.0\AreaCirculo.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.sourcelink.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\AreaCirculo\AreaCirculo\obj\Debug\net8.0\refint\AreaCirculo.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\AreaCirculo\AreaCirculo\obj\Debug\net8.0\ref\AreaCirculo.dll

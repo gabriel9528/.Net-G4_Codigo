@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Listas_NumerosPares\Listas_NumerosPares\bin\Debug\net8.0\Listas_NumerosPares.exe
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Listas_NumerosPares\Listas_NumerosPares\bin\Debug\net8.0\Listas_NumerosPares.deps.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Listas_NumerosPares\Listas_NumerosPares\bin\Debug\net8.0\Listas_NumerosPares.runtimeconfig.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Listas_NumerosPares\Listas_NumerosPares\bin\Debug\net8.0\Listas_NumerosPares.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Listas_NumerosPares\Listas_NumerosPares\bin\Debug\net8.0\Listas_NumerosPares.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Listas_NumerosPares\Listas_NumerosPares\obj\Debug\net8.0\Listas_NumerosPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Listas_NumerosPares\Listas_NumerosPares\obj\Debug\net8.0\Listas_NumerosPares.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Listas_NumerosPares\Listas_NumerosPares\obj\Debug\net8.0\Listas_NumerosPares.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Listas_NumerosPares\Listas_NumerosPares\obj\Debug\net8.0\Listas_NumerosPares.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Listas_NumerosPares\Listas_NumerosPares\obj\Debug\net8.0\Listas_NumerosPares.sourcelink.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Listas_NumerosPares\Listas_NumerosPares\obj\Debug\net8.0\Listas_NumerosPares.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Listas_NumerosPares\Listas_NumerosPares\obj\Debug\net8.0\refint\Listas_NumerosPares.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Listas_NumerosPares\Listas_NumerosPares\obj\Debug\net8.0\Listas_NumerosPares.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Listas_NumerosPares\Listas_NumerosPares\obj\Debug\net8.0\Listas_NumerosPares.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Listas_NumerosPares\Listas_NumerosPares\obj\Debug\net8.0\ref\Listas_NumerosPares.dll

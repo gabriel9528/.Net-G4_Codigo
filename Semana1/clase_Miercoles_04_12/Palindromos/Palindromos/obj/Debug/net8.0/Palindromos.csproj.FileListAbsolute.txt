@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Palindromos\Palindromos\bin\Debug\net8.0\Palindromos.exe
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Palindromos\Palindromos\bin\Debug\net8.0\Palindromos.deps.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Palindromos\Palindromos\bin\Debug\net8.0\Palindromos.runtimeconfig.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Palindromos\Palindromos\bin\Debug\net8.0\Palindromos.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Palindromos\Palindromos\bin\Debug\net8.0\Palindromos.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Palindromos\Palindromos\obj\Debug\net8.0\Palindromos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Palindromos\Palindromos\obj\Debug\net8.0\Palindromos.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Palindromos\Palindromos\obj\Debug\net8.0\Palindromos.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Palindromos\Palindromos\obj\Debug\net8.0\Palindromos.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Palindromos\Palindromos\obj\Debug\net8.0\Palindromos.sourcelink.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Palindromos\Palindromos\obj\Debug\net8.0\Palindromos.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Palindromos\Palindromos\obj\Debug\net8.0\refint\Palindromos.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Palindromos\Palindromos\obj\Debug\net8.0\Palindromos.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Palindromos\Palindromos\obj\Debug\net8.0\Palindromos.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\Palindromos\Palindromos\obj\Debug\net8.0\ref\Palindromos.dll

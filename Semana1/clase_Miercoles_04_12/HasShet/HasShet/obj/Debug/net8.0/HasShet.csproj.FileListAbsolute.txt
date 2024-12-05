@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\HasShet\HasShet\bin\Debug\net8.0\HasShet.exe
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\HasShet\HasShet\bin\Debug\net8.0\HasShet.deps.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\HasShet\HasShet\bin\Debug\net8.0\HasShet.runtimeconfig.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\HasShet\HasShet\bin\Debug\net8.0\HasShet.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\HasShet\HasShet\bin\Debug\net8.0\HasShet.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\HasShet\HasShet\obj\Debug\net8.0\HasShet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\HasShet\HasShet\obj\Debug\net8.0\HasShet.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\HasShet\HasShet\obj\Debug\net8.0\HasShet.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\HasShet\HasShet\obj\Debug\net8.0\HasShet.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\HasShet\HasShet\obj\Debug\net8.0\HasShet.sourcelink.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\HasShet\HasShet\obj\Debug\net8.0\HasShet.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\HasShet\HasShet\obj\Debug\net8.0\refint\HasShet.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\HasShet\HasShet\obj\Debug\net8.0\HasShet.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\HasShet\HasShet\obj\Debug\net8.0\HasShet.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Miercoles_04_12\HasShet\HasShet\obj\Debug\net8.0\ref\HasShet.dll
