@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_lunes_09_12\Statics\Statics_Ejercicio1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_lunes_09_12\Statics\Statics_Ejercicio1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_lunes_09_12\Statics\Statics_Ejercicio1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_lunes_09_12\Statics\Statics_Ejercicio1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_lunes_09_12\Statics\Statics_Ejercicio1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_lunes_09_12\Statics\Statics_Ejercicio1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_lunes_09_12\Statics\Statics_Ejercicio1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_lunes_09_12\Statics\Statics_Ejercicio1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_lunes_09_12\Statics\Statics_Ejercicio1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_lunes_09_12\Statics\Statics_Ejercicio1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_lunes_09_12\Statics\Statics_Ejercicio1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_lunes_09_12\Statics\Statics_Ejercicio1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_lunes_09_12\Statics\Statics_Ejercicio1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_lunes_09_12\Statics\Statics_Ejercicio1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_lunes_09_12\Statics\Statics_Ejercicio1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

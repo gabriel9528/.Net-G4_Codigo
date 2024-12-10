@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase1\\3.Getters_Setters_MetodosStatics\\1. Getters_Setters\\Propiedades_Ejercicio5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB202838-70F7-4FA0-8D6A-FF252C14578F}|Propiedades_Ejercicio5\\Propiedades_Ejercicio5.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase1\\3.getters_setters_metodosstatics\\1. getters_setters\\propiedades_ejercicio5\\propiedades_ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB202838-70F7-4FA0-8D6A-FF252C14578F}|Propiedades_Ejercicio5\\Propiedades_Ejercicio5.csproj|solutionrelative:propiedades_ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase1\\3.Getters_Setters_MetodosStatics\\1. Getters_Setters\\Propiedades_Ejercicio5\\Propiedades_Ejercicio5\\Program.cs",
+              "RelativeDocumentMoniker": "Propiedades_Ejercicio5\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase1\\3.Getters_Setters_MetodosStatics\\1. Getters_Setters\\Propiedades_Ejercicio5\\Propiedades_Ejercicio5\\Program.cs",
+              "RelativeToolTip": "Propiedades_Ejercicio5\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:21:59.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

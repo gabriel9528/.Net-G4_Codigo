@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Statics_Ejercicio1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Statics_Ejercicio1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Statics_Ejercicio1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Statics_Ejercicio1/1.0.0": {
+      "type": "project",
+      "path": "../Statics_Ejercicio1/Statics_Ejercicio1.csproj",
+      "msbuildProject": "../Statics_Ejercicio1/Statics_Ejercicio1.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Statics_Ejercicio1 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\gabriel\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_lunes_09_12\\Statics\\Statics_Ejercicio1\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectName": "ClassLibrary1",
+      "projectPath": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_lunes_09_12\\Statics\\Statics_Ejercicio1\\ClassLibrary1\\ClassLibrary1.csproj",
+      "packagesPath": "C:\\Users\\gabriel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_lunes_09_12\\Statics\\Statics_Ejercicio1\\ClassLibrary1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_lunes_09_12\\Statics\\Statics_Ejercicio1\\Statics_Ejercicio1\\Statics_Ejercicio1.csproj": {
+              "projectPath": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_lunes_09_12\\Statics\\Statics_Ejercicio1\\Statics_Ejercicio1\\Statics_Ejercicio1.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
