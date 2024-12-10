@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_lunes_09_12\\Clases\\Clases_Ejercicio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B046C2F1-BA54-45D8-A300-C87798843DCE}|Clases_Ejercicio1\\Clases_Ejercicio1.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana2\\clase_lunes_09_12\\clases\\clases_ejercicio1\\clases_ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B046C2F1-BA54-45D8-A300-C87798843DCE}|Clases_Ejercicio1\\Clases_Ejercicio1.csproj|solutionrelative:clases_ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B046C2F1-BA54-45D8-A300-C87798843DCE}|Clases_Ejercicio1\\Clases_Ejercicio1.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana2\\clase_lunes_09_12\\clases\\clases_ejercicio1\\clases_ejercicio1\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B046C2F1-BA54-45D8-A300-C87798843DCE}|Clases_Ejercicio1\\Clases_Ejercicio1.csproj|solutionrelative:clases_ejercicio1\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B046C2F1-BA54-45D8-A300-C87798843DCE}|Clases_Ejercicio1\\Clases_Ejercicio1.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana2\\clase_lunes_09_12\\clases\\clases_ejercicio1\\clases_ejercicio1\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B046C2F1-BA54-45D8-A300-C87798843DCE}|Clases_Ejercicio1\\Clases_Ejercicio1.csproj|solutionrelative:clases_ejercicio1\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tienda.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_lunes_09_12\\Clases\\Clases_Ejercicio1\\Clases_Ejercicio1\\Tienda.cs",
+              "RelativeDocumentMoniker": "Clases_Ejercicio1\\Tienda.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_lunes_09_12\\Clases\\Clases_Ejercicio1\\Clases_Ejercicio1\\Tienda.cs",
+              "RelativeToolTip": "Clases_Ejercicio1\\Tienda.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T01:14:20.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_lunes_09_12\\Clases\\Clases_Ejercicio1\\Clases_Ejercicio1\\Producto.cs",
+              "RelativeDocumentMoniker": "Clases_Ejercicio1\\Producto.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_lunes_09_12\\Clases\\Clases_Ejercicio1\\Clases_Ejercicio1\\Producto.cs",
+              "RelativeToolTip": "Clases_Ejercicio1\\Producto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T01:08:49.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_lunes_09_12\\Clases\\Clases_Ejercicio1\\Clases_Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Clases_Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_lunes_09_12\\Clases\\Clases_Ejercicio1\\Clases_Ejercicio1\\Program.cs",
+              "RelativeToolTip": "Clases_Ejercicio1\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T01:07:30.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

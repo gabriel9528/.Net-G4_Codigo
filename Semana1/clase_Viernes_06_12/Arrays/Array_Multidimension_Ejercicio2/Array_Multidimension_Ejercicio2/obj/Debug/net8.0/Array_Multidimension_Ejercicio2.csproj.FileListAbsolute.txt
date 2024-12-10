@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Multidimension_Ejercicio2\Array_Multidimension_Ejercicio2\bin\Debug\net8.0\Array_Multidimension_Ejercicio2.exe
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Multidimension_Ejercicio2\Array_Multidimension_Ejercicio2\bin\Debug\net8.0\Array_Multidimension_Ejercicio2.deps.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Multidimension_Ejercicio2\Array_Multidimension_Ejercicio2\bin\Debug\net8.0\Array_Multidimension_Ejercicio2.runtimeconfig.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Multidimension_Ejercicio2\Array_Multidimension_Ejercicio2\bin\Debug\net8.0\Array_Multidimension_Ejercicio2.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Multidimension_Ejercicio2\Array_Multidimension_Ejercicio2\bin\Debug\net8.0\Array_Multidimension_Ejercicio2.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Multidimension_Ejercicio2\Array_Multidimension_Ejercicio2\obj\Debug\net8.0\Array_Multidimension_Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Multidimension_Ejercicio2\Array_Multidimension_Ejercicio2\obj\Debug\net8.0\Array_Multidimension_Ejercicio2.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Multidimension_Ejercicio2\Array_Multidimension_Ejercicio2\obj\Debug\net8.0\Array_Multidimension_Ejercicio2.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Multidimension_Ejercicio2\Array_Multidimension_Ejercicio2\obj\Debug\net8.0\Array_Multidimension_Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Multidimension_Ejercicio2\Array_Multidimension_Ejercicio2\obj\Debug\net8.0\Array_Multidimension_Ejercicio2.sourcelink.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Multidimension_Ejercicio2\Array_Multidimension_Ejercicio2\obj\Debug\net8.0\Array_Multidimension_Ejercicio2.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Multidimension_Ejercicio2\Array_Multidimension_Ejercicio2\obj\Debug\net8.0\refint\Array_Multidimension_Ejercicio2.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Multidimension_Ejercicio2\Array_Multidimension_Ejercicio2\obj\Debug\net8.0\Array_Multidimension_Ejercicio2.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Multidimension_Ejercicio2\Array_Multidimension_Ejercicio2\obj\Debug\net8.0\Array_Multidimension_Ejercicio2.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Multidimension_Ejercicio2\Array_Multidimension_Ejercicio2\obj\Debug\net8.0\ref\Array_Multidimension_Ejercicio2.dll

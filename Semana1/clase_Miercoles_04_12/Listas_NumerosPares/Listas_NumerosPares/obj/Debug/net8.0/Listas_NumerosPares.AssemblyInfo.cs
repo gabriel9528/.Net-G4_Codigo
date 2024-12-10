@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Listas_NumerosPares")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b137bd2475cd5aff98cdb3f06e84a42606530ab3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4995e90f2e8ea789a0a6468c67b71e5936e84cba")]
 [assembly: System.Reflection.AssemblyProductAttribute("Listas_NumerosPares")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Listas_NumerosPares")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Ejercicio1\Array_Ejercicio1\bin\Debug\net8.0\Array_Ejercicio1.exe
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Ejercicio1\Array_Ejercicio1\bin\Debug\net8.0\Array_Ejercicio1.deps.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Ejercicio1\Array_Ejercicio1\bin\Debug\net8.0\Array_Ejercicio1.runtimeconfig.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Ejercicio1\Array_Ejercicio1\bin\Debug\net8.0\Array_Ejercicio1.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Ejercicio1\Array_Ejercicio1\bin\Debug\net8.0\Array_Ejercicio1.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Ejercicio1\Array_Ejercicio1\obj\Debug\net8.0\Array_Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Ejercicio1\Array_Ejercicio1\obj\Debug\net8.0\Array_Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Ejercicio1\Array_Ejercicio1\obj\Debug\net8.0\Array_Ejercicio1.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Ejercicio1\Array_Ejercicio1\obj\Debug\net8.0\Array_Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Ejercicio1\Array_Ejercicio1\obj\Debug\net8.0\Array_Ejercicio1.sourcelink.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Ejercicio1\Array_Ejercicio1\obj\Debug\net8.0\Array_Ejercicio1.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Ejercicio1\Array_Ejercicio1\obj\Debug\net8.0\refint\Array_Ejercicio1.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Ejercicio1\Array_Ejercicio1\obj\Debug\net8.0\Array_Ejercicio1.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Ejercicio1\Array_Ejercicio1\obj\Debug\net8.0\Array_Ejercicio1.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana1\clase_Viernes_06_12\Arrays\Array_Ejercicio1\Array_Ejercicio1\obj\Debug\net8.0\ref\Array_Ejercicio1.dll
