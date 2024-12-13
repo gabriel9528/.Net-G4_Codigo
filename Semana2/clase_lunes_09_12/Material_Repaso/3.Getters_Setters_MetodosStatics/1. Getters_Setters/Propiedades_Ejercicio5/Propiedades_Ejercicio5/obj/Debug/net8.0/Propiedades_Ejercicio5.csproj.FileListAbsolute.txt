@@ -1,0 +1,14 @@
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase1\Getters_Setters\Propiedades_Ejercicio5\Propiedades_Ejercicio5\bin\Debug\net8.0\Propiedades_Ejercicio5.exe
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase1\Getters_Setters\Propiedades_Ejercicio5\Propiedades_Ejercicio5\bin\Debug\net8.0\Propiedades_Ejercicio5.deps.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase1\Getters_Setters\Propiedades_Ejercicio5\Propiedades_Ejercicio5\bin\Debug\net8.0\Propiedades_Ejercicio5.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase1\Getters_Setters\Propiedades_Ejercicio5\Propiedades_Ejercicio5\bin\Debug\net8.0\Propiedades_Ejercicio5.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase1\Getters_Setters\Propiedades_Ejercicio5\Propiedades_Ejercicio5\bin\Debug\net8.0\Propiedades_Ejercicio5.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase1\Getters_Setters\Propiedades_Ejercicio5\Propiedades_Ejercicio5\obj\Debug\net8.0\Propiedades_Ejercicio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase1\Getters_Setters\Propiedades_Ejercicio5\Propiedades_Ejercicio5\obj\Debug\net8.0\Propiedades_Ejercicio5.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase1\Getters_Setters\Propiedades_Ejercicio5\Propiedades_Ejercicio5\obj\Debug\net8.0\Propiedades_Ejercicio5.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase1\Getters_Setters\Propiedades_Ejercicio5\Propiedades_Ejercicio5\obj\Debug\net8.0\Propiedades_Ejercicio5.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase1\Getters_Setters\Propiedades_Ejercicio5\Propiedades_Ejercicio5\obj\Debug\net8.0\Propiedades_Ejercicio5.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase1\Getters_Setters\Propiedades_Ejercicio5\Propiedades_Ejercicio5\obj\Debug\net8.0\refint\Propiedades_Ejercicio5.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase1\Getters_Setters\Propiedades_Ejercicio5\Propiedades_Ejercicio5\obj\Debug\net8.0\Propiedades_Ejercicio5.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase1\Getters_Setters\Propiedades_Ejercicio5\Propiedades_Ejercicio5\obj\Debug\net8.0\Propiedades_Ejercicio5.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase1\Getters_Setters\Propiedades_Ejercicio5\Propiedades_Ejercicio5\obj\Debug\net8.0\ref\Propiedades_Ejercicio5.dll
