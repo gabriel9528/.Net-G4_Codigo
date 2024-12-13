@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio3_Herencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3341DD9-ACA1-4B91-B5A4-F1DC187C54DA}|Herencia2\\Herencia2.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase2\\2.herencia\\ejercicio3_herencia\\herencia2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3341DD9-ACA1-4B91-B5A4-F1DC187C54DA}|Herencia2\\Herencia2.csproj|solutionrelative:herencia2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3341DD9-ACA1-4B91-B5A4-F1DC187C54DA}|Herencia2\\Herencia2.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase2\\2.herencia\\ejercicio3_herencia\\herencia2\\materialbibliografico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3341DD9-ACA1-4B91-B5A4-F1DC187C54DA}|Herencia2\\Herencia2.csproj|solutionrelative:herencia2\\materialbibliografico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3341DD9-ACA1-4B91-B5A4-F1DC187C54DA}|Herencia2\\Herencia2.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase2\\2.herencia\\ejercicio3_herencia\\herencia2\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3341DD9-ACA1-4B91-B5A4-F1DC187C54DA}|Herencia2\\Herencia2.csproj|solutionrelative:herencia2\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3341DD9-ACA1-4B91-B5A4-F1DC187C54DA}|Herencia2\\Herencia2.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase2\\2.herencia\\ejercicio3_herencia\\herencia2\\revista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3341DD9-ACA1-4B91-B5A4-F1DC187C54DA}|Herencia2\\Herencia2.csproj|solutionrelative:herencia2\\revista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3341DD9-ACA1-4B91-B5A4-F1DC187C54DA}|Herencia2\\Herencia2.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase2\\2.herencia\\ejercicio3_herencia\\herencia2\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3341DD9-ACA1-4B91-B5A4-F1DC187C54DA}|Herencia2\\Herencia2.csproj|solutionrelative:herencia2\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio3_Herencia\\Herencia2\\Pelicula.cs",
+              "RelativeDocumentMoniker": "Herencia2\\Pelicula.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio3_Herencia\\Herencia2\\Pelicula.cs",
+              "RelativeToolTip": "Herencia2\\Pelicula.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:31:56.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Revista.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio3_Herencia\\Herencia2\\Revista.cs",
+              "RelativeDocumentMoniker": "Herencia2\\Revista.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio3_Herencia\\Herencia2\\Revista.cs",
+              "RelativeToolTip": "Herencia2\\Revista.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:31:26.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio3_Herencia\\Herencia2\\Libro.cs",
+              "RelativeDocumentMoniker": "Herencia2\\Libro.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio3_Herencia\\Herencia2\\Libro.cs",
+              "RelativeToolTip": "Herencia2\\Libro.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:29:50.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaterialBibliografico.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio3_Herencia\\Herencia2\\MaterialBibliografico.cs",
+              "RelativeDocumentMoniker": "Herencia2\\MaterialBibliografico.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio3_Herencia\\Herencia2\\MaterialBibliografico.cs",
+              "RelativeToolTip": "Herencia2\\MaterialBibliografico.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:28:54.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio3_Herencia\\Herencia2\\Program.cs",
+              "RelativeDocumentMoniker": "Herencia2\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio3_Herencia\\Herencia2\\Program.cs",
+              "RelativeToolTip": "Herencia2\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:28:39.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

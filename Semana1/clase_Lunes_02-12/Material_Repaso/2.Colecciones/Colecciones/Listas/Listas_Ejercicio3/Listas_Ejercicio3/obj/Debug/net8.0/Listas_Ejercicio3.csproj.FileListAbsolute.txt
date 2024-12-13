@@ -1,0 +1,14 @@
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Listas\Listas_Ejercicio3\Listas_Ejercicio3\bin\Debug\net8.0\Listas_Ejercicio3.exe
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Listas\Listas_Ejercicio3\Listas_Ejercicio3\bin\Debug\net8.0\Listas_Ejercicio3.deps.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Listas\Listas_Ejercicio3\Listas_Ejercicio3\bin\Debug\net8.0\Listas_Ejercicio3.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Listas\Listas_Ejercicio3\Listas_Ejercicio3\bin\Debug\net8.0\Listas_Ejercicio3.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Listas\Listas_Ejercicio3\Listas_Ejercicio3\bin\Debug\net8.0\Listas_Ejercicio3.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Listas\Listas_Ejercicio3\Listas_Ejercicio3\obj\Debug\net8.0\Listas_Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Listas\Listas_Ejercicio3\Listas_Ejercicio3\obj\Debug\net8.0\Listas_Ejercicio3.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Listas\Listas_Ejercicio3\Listas_Ejercicio3\obj\Debug\net8.0\Listas_Ejercicio3.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Listas\Listas_Ejercicio3\Listas_Ejercicio3\obj\Debug\net8.0\Listas_Ejercicio3.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Listas\Listas_Ejercicio3\Listas_Ejercicio3\obj\Debug\net8.0\Listas_Ejercicio3.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Listas\Listas_Ejercicio3\Listas_Ejercicio3\obj\Debug\net8.0\refint\Listas_Ejercicio3.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Listas\Listas_Ejercicio3\Listas_Ejercicio3\obj\Debug\net8.0\Listas_Ejercicio3.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Listas\Listas_Ejercicio3\Listas_Ejercicio3\obj\Debug\net8.0\Listas_Ejercicio3.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Listas\Listas_Ejercicio3\Listas_Ejercicio3\obj\Debug\net8.0\ref\Listas_Ejercicio3.dll

@@ -1,0 +1,14 @@
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Diccionarios\Diccionarios_Ejercicio2\Diccionarios_Ejercicio2\bin\Debug\net8.0\Diccionarios_Ejercicio2.exe
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Diccionarios\Diccionarios_Ejercicio2\Diccionarios_Ejercicio2\bin\Debug\net8.0\Diccionarios_Ejercicio2.deps.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Diccionarios\Diccionarios_Ejercicio2\Diccionarios_Ejercicio2\bin\Debug\net8.0\Diccionarios_Ejercicio2.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Diccionarios\Diccionarios_Ejercicio2\Diccionarios_Ejercicio2\bin\Debug\net8.0\Diccionarios_Ejercicio2.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Diccionarios\Diccionarios_Ejercicio2\Diccionarios_Ejercicio2\bin\Debug\net8.0\Diccionarios_Ejercicio2.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Diccionarios\Diccionarios_Ejercicio2\Diccionarios_Ejercicio2\obj\Debug\net8.0\Diccionarios_Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Diccionarios\Diccionarios_Ejercicio2\Diccionarios_Ejercicio2\obj\Debug\net8.0\Diccionarios_Ejercicio2.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Diccionarios\Diccionarios_Ejercicio2\Diccionarios_Ejercicio2\obj\Debug\net8.0\Diccionarios_Ejercicio2.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Diccionarios\Diccionarios_Ejercicio2\Diccionarios_Ejercicio2\obj\Debug\net8.0\Diccionarios_Ejercicio2.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Diccionarios\Diccionarios_Ejercicio2\Diccionarios_Ejercicio2\obj\Debug\net8.0\Diccionarios_Ejercicio2.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Diccionarios\Diccionarios_Ejercicio2\Diccionarios_Ejercicio2\obj\Debug\net8.0\refint\Diccionarios_Ejercicio2.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Diccionarios\Diccionarios_Ejercicio2\Diccionarios_Ejercicio2\obj\Debug\net8.0\Diccionarios_Ejercicio2.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Diccionarios\Diccionarios_Ejercicio2\Diccionarios_Ejercicio2\obj\Debug\net8.0\Diccionarios_Ejercicio2.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana1\Clase3\Diccionarios\Diccionarios_Ejercicio2\Diccionarios_Ejercicio2\obj\Debug\net8.0\ref\Diccionarios_Ejercicio2.dll

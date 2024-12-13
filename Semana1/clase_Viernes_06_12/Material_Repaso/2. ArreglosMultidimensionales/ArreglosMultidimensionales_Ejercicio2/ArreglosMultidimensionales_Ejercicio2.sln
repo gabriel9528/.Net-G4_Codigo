@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArreglosMultidimensionales_Ejercicio2", "ArreglosMultidimensionales_Ejercicio2\ArreglosMultidimensionales_Ejercicio2.csproj", "{63967A3D-21F2-4594-B8E2-29C1E9880F74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63967A3D-21F2-4594-B8E2-29C1E9880F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63967A3D-21F2-4594-B8E2-29C1E9880F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63967A3D-21F2-4594-B8E2-29C1E9880F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63967A3D-21F2-4594-B8E2-29C1E9880F74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {569F945E-8E69-4B11-B0A1-9E7CBD017E8E}
+	EndGlobalSection
+EndGlobal

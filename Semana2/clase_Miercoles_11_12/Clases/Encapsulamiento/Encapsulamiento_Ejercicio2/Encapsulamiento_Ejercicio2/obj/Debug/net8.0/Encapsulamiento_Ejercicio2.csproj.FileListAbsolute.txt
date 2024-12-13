@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_Miercoles_11_12\Clases\Encapsulamiento\Encapsulamiento_Ejercicio2\Encapsulamiento_Ejercicio2\bin\Debug\net8.0\Encapsulamiento_Ejercicio2.exe
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_Miercoles_11_12\Clases\Encapsulamiento\Encapsulamiento_Ejercicio2\Encapsulamiento_Ejercicio2\bin\Debug\net8.0\Encapsulamiento_Ejercicio2.deps.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_Miercoles_11_12\Clases\Encapsulamiento\Encapsulamiento_Ejercicio2\Encapsulamiento_Ejercicio2\bin\Debug\net8.0\Encapsulamiento_Ejercicio2.runtimeconfig.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_Miercoles_11_12\Clases\Encapsulamiento\Encapsulamiento_Ejercicio2\Encapsulamiento_Ejercicio2\bin\Debug\net8.0\Encapsulamiento_Ejercicio2.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_Miercoles_11_12\Clases\Encapsulamiento\Encapsulamiento_Ejercicio2\Encapsulamiento_Ejercicio2\bin\Debug\net8.0\Encapsulamiento_Ejercicio2.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_Miercoles_11_12\Clases\Encapsulamiento\Encapsulamiento_Ejercicio2\Encapsulamiento_Ejercicio2\obj\Debug\net8.0\Encapsulamiento_Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_Miercoles_11_12\Clases\Encapsulamiento\Encapsulamiento_Ejercicio2\Encapsulamiento_Ejercicio2\obj\Debug\net8.0\Encapsulamiento_Ejercicio2.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_Miercoles_11_12\Clases\Encapsulamiento\Encapsulamiento_Ejercicio2\Encapsulamiento_Ejercicio2\obj\Debug\net8.0\Encapsulamiento_Ejercicio2.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_Miercoles_11_12\Clases\Encapsulamiento\Encapsulamiento_Ejercicio2\Encapsulamiento_Ejercicio2\obj\Debug\net8.0\Encapsulamiento_Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_Miercoles_11_12\Clases\Encapsulamiento\Encapsulamiento_Ejercicio2\Encapsulamiento_Ejercicio2\obj\Debug\net8.0\Encapsulamiento_Ejercicio2.sourcelink.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_Miercoles_11_12\Clases\Encapsulamiento\Encapsulamiento_Ejercicio2\Encapsulamiento_Ejercicio2\obj\Debug\net8.0\Encapsulamiento_Ejercicio2.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_Miercoles_11_12\Clases\Encapsulamiento\Encapsulamiento_Ejercicio2\Encapsulamiento_Ejercicio2\obj\Debug\net8.0\refint\Encapsulamiento_Ejercicio2.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_Miercoles_11_12\Clases\Encapsulamiento\Encapsulamiento_Ejercicio2\Encapsulamiento_Ejercicio2\obj\Debug\net8.0\Encapsulamiento_Ejercicio2.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_Miercoles_11_12\Clases\Encapsulamiento\Encapsulamiento_Ejercicio2\Encapsulamiento_Ejercicio2\obj\Debug\net8.0\Encapsulamiento_Ejercicio2.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_Miercoles_11_12\Clases\Encapsulamiento\Encapsulamiento_Ejercicio2\Encapsulamiento_Ejercicio2\obj\Debug\net8.0\ref\Encapsulamiento_Ejercicio2.dll

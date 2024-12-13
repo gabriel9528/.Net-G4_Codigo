@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Herencia\\Clases\\Herencia_Ejercicio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7F8C8D-DCCB-4318-A398-37B0446C5A83}|Herencia_Ejercicio1\\Herencia_Ejercicio1.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana2\\clase_miercoles_11_12\\clases\\herencia\\clases\\herencia_ejercicio1\\herencia_ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7F8C8D-DCCB-4318-A398-37B0446C5A83}|Herencia_Ejercicio1\\Herencia_Ejercicio1.csproj|solutionrelative:herencia_ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7F8C8D-DCCB-4318-A398-37B0446C5A83}|Herencia_Ejercicio1\\Herencia_Ejercicio1.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana2\\clase_miercoles_11_12\\clases\\herencia\\clases\\herencia_ejercicio1\\herencia_ejercicio1\\resta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7F8C8D-DCCB-4318-A398-37B0446C5A83}|Herencia_Ejercicio1\\Herencia_Ejercicio1.csproj|solutionrelative:herencia_ejercicio1\\resta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7F8C8D-DCCB-4318-A398-37B0446C5A83}|Herencia_Ejercicio1\\Herencia_Ejercicio1.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana2\\clase_miercoles_11_12\\clases\\herencia\\clases\\herencia_ejercicio1\\herencia_ejercicio1\\suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7F8C8D-DCCB-4318-A398-37B0446C5A83}|Herencia_Ejercicio1\\Herencia_Ejercicio1.csproj|solutionrelative:herencia_ejercicio1\\suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E7F8C8D-DCCB-4318-A398-37B0446C5A83}|Herencia_Ejercicio1\\Herencia_Ejercicio1.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana2\\clase_miercoles_11_12\\clases\\herencia\\clases\\herencia_ejercicio1\\herencia_ejercicio1\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E7F8C8D-DCCB-4318-A398-37B0446C5A83}|Herencia_Ejercicio1\\Herencia_Ejercicio1.csproj|solutionrelative:herencia_ejercicio1\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resta.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Herencia\\Clases\\Herencia_Ejercicio1\\Herencia_Ejercicio1\\Resta.cs",
+              "RelativeDocumentMoniker": "Herencia_Ejercicio1\\Resta.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Herencia\\Clases\\Herencia_Ejercicio1\\Herencia_Ejercicio1\\Resta.cs",
+              "RelativeToolTip": "Herencia_Ejercicio1\\Resta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:53:08.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Suma.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Herencia\\Clases\\Herencia_Ejercicio1\\Herencia_Ejercicio1\\Suma.cs",
+              "RelativeDocumentMoniker": "Herencia_Ejercicio1\\Suma.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Herencia\\Clases\\Herencia_Ejercicio1\\Herencia_Ejercicio1\\Suma.cs",
+              "RelativeToolTip": "Herencia_Ejercicio1\\Suma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:53:00.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Operacion.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Herencia\\Clases\\Herencia_Ejercicio1\\Herencia_Ejercicio1\\Operacion.cs",
+              "RelativeDocumentMoniker": "Herencia_Ejercicio1\\Operacion.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Herencia\\Clases\\Herencia_Ejercicio1\\Herencia_Ejercicio1\\Operacion.cs",
+              "RelativeToolTip": "Herencia_Ejercicio1\\Operacion.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:50:34.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Herencia\\Clases\\Herencia_Ejercicio1\\Herencia_Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Herencia_Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Herencia\\Clases\\Herencia_Ejercicio1\\Herencia_Ejercicio1\\Program.cs",
+              "RelativeToolTip": "Herencia_Ejercicio1\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:49:32.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

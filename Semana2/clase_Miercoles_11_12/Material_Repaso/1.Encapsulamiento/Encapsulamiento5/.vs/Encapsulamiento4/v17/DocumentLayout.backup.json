@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\8.Encapsulamiento\\Encapsulamiento4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{979FC63F-2E16-4480-AA7C-8E23EF21CC28}|Encapsulamiento4\\Encapsulamiento4.csproj|c:\\diskd\\codigotecsup\\c#\\poo\\8.encapsulamiento\\encapsulamiento4\\encapsulamiento4\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979FC63F-2E16-4480-AA7C-8E23EF21CC28}|Encapsulamiento4\\Encapsulamiento4.csproj|solutionrelative:encapsulamiento4\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979FC63F-2E16-4480-AA7C-8E23EF21CC28}|Encapsulamiento4\\Encapsulamiento4.csproj|c:\\diskd\\codigotecsup\\c#\\poo\\8.encapsulamiento\\encapsulamiento4\\encapsulamiento4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979FC63F-2E16-4480-AA7C-8E23EF21CC28}|Encapsulamiento4\\Encapsulamiento4.csproj|solutionrelative:encapsulamiento4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979FC63F-2E16-4480-AA7C-8E23EF21CC28}|Encapsulamiento4\\Encapsulamiento4.csproj|c:\\diskd\\codigotecsup\\c#\\poo\\8.encapsulamiento\\encapsulamiento4\\encapsulamiento4\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979FC63F-2E16-4480-AA7C-8E23EF21CC28}|Encapsulamiento4\\Encapsulamiento4.csproj|solutionrelative:encapsulamiento4\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979FC63F-2E16-4480-AA7C-8E23EF21CC28}|Encapsulamiento4\\Encapsulamiento4.csproj|c:\\diskd\\codigotecsup\\c#\\poo\\8.encapsulamiento\\encapsulamiento4\\encapsulamiento4\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979FC63F-2E16-4480-AA7C-8E23EF21CC28}|Encapsulamiento4\\Encapsulamiento4.csproj|solutionrelative:encapsulamiento4\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979FC63F-2E16-4480-AA7C-8E23EF21CC28}|Encapsulamiento4\\Encapsulamiento4.csproj|c:\\diskd\\codigotecsup\\c#\\poo\\8.encapsulamiento\\encapsulamiento4\\encapsulamiento4\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979FC63F-2E16-4480-AA7C-8E23EF21CC28}|Encapsulamiento4\\Encapsulamiento4.csproj|solutionrelative:encapsulamiento4\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\8.Encapsulamiento\\Encapsulamiento4\\Encapsulamiento4\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulamiento4\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\8.Encapsulamiento\\Encapsulamiento4\\Encapsulamiento4\\Program.cs",
+              "RelativeToolTip": "Encapsulamiento4\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T02:19:22.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Biblioteca.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\8.Encapsulamiento\\Encapsulamiento4\\Encapsulamiento4\\Biblioteca.cs",
+              "RelativeDocumentMoniker": "Encapsulamiento4\\Biblioteca.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\8.Encapsulamiento\\Encapsulamiento4\\Encapsulamiento4\\Biblioteca.cs",
+              "RelativeToolTip": "Encapsulamiento4\\Biblioteca.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T02:25:58.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\8.Encapsulamiento\\Encapsulamiento4\\Encapsulamiento4\\Prestamo.cs",
+              "RelativeDocumentMoniker": "Encapsulamiento4\\Prestamo.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\8.Encapsulamiento\\Encapsulamiento4\\Encapsulamiento4\\Prestamo.cs",
+              "RelativeToolTip": "Encapsulamiento4\\Prestamo.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T02:24:52.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\8.Encapsulamiento\\Encapsulamiento4\\Encapsulamiento4\\Usuario.cs",
+              "RelativeDocumentMoniker": "Encapsulamiento4\\Usuario.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\8.Encapsulamiento\\Encapsulamiento4\\Encapsulamiento4\\Usuario.cs",
+              "RelativeToolTip": "Encapsulamiento4\\Usuario.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T02:23:43.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\8.Encapsulamiento\\Encapsulamiento4\\Encapsulamiento4\\Libro.cs",
+              "RelativeDocumentMoniker": "Encapsulamiento4\\Libro.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\8.Encapsulamiento\\Encapsulamiento4\\Encapsulamiento4\\Libro.cs",
+              "RelativeToolTip": "Encapsulamiento4\\Libro.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T02:20:35.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

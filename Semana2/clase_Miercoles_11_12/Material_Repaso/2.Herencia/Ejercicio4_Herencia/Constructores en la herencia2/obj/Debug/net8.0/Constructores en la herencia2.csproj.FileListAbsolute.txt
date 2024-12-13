@@ -1,0 +1,56 @@
+C:\DiskD\CodigoTecsup\C#\Herencia\Constructores en la herencia2\Constructores en la herencia2\bin\Debug\net8.0\Constructores en la herencia2.exe
+C:\DiskD\CodigoTecsup\C#\Herencia\Constructores en la herencia2\Constructores en la herencia2\bin\Debug\net8.0\Constructores en la herencia2.deps.json
+C:\DiskD\CodigoTecsup\C#\Herencia\Constructores en la herencia2\Constructores en la herencia2\bin\Debug\net8.0\Constructores en la herencia2.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Herencia\Constructores en la herencia2\Constructores en la herencia2\bin\Debug\net8.0\Constructores en la herencia2.dll
+C:\DiskD\CodigoTecsup\C#\Herencia\Constructores en la herencia2\Constructores en la herencia2\bin\Debug\net8.0\Constructores en la herencia2.pdb
+C:\DiskD\CodigoTecsup\C#\Herencia\Constructores en la herencia2\Constructores en la herencia2\obj\Debug\net8.0\Constructores en la herencia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Herencia\Constructores en la herencia2\Constructores en la herencia2\obj\Debug\net8.0\Constructores en la herencia2.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Herencia\Constructores en la herencia2\Constructores en la herencia2\obj\Debug\net8.0\Constructores en la herencia2.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Herencia\Constructores en la herencia2\Constructores en la herencia2\obj\Debug\net8.0\Constructores en la herencia2.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Herencia\Constructores en la herencia2\Constructores en la herencia2\obj\Debug\net8.0\Constructores en la herencia2.dll
+C:\DiskD\CodigoTecsup\C#\Herencia\Constructores en la herencia2\Constructores en la herencia2\obj\Debug\net8.0\refint\Constructores en la herencia2.dll
+C:\DiskD\CodigoTecsup\C#\Herencia\Constructores en la herencia2\Constructores en la herencia2\obj\Debug\net8.0\Constructores en la herencia2.pdb
+C:\DiskD\CodigoTecsup\C#\Herencia\Constructores en la herencia2\Constructores en la herencia2\obj\Debug\net8.0\Constructores en la herencia2.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Herencia\Constructores en la herencia2\Constructores en la herencia2\obj\Debug\net8.0\ref\Constructores en la herencia2.dll
+C:\DiskD\CodigoTecsup\C#\POO\3.Herencia\Constructores en la herencia2\Constructores en la herencia2\bin\Debug\net8.0\Constructores en la herencia2.exe
+C:\DiskD\CodigoTecsup\C#\POO\3.Herencia\Constructores en la herencia2\Constructores en la herencia2\bin\Debug\net8.0\Constructores en la herencia2.deps.json
+C:\DiskD\CodigoTecsup\C#\POO\3.Herencia\Constructores en la herencia2\Constructores en la herencia2\bin\Debug\net8.0\Constructores en la herencia2.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\POO\3.Herencia\Constructores en la herencia2\Constructores en la herencia2\bin\Debug\net8.0\Constructores en la herencia2.dll
+C:\DiskD\CodigoTecsup\C#\POO\3.Herencia\Constructores en la herencia2\Constructores en la herencia2\bin\Debug\net8.0\Constructores en la herencia2.pdb
+C:\DiskD\CodigoTecsup\C#\POO\3.Herencia\Constructores en la herencia2\Constructores en la herencia2\obj\Debug\net8.0\Constructores en la herencia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\POO\3.Herencia\Constructores en la herencia2\Constructores en la herencia2\obj\Debug\net8.0\Constructores en la herencia2.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\POO\3.Herencia\Constructores en la herencia2\Constructores en la herencia2\obj\Debug\net8.0\Constructores en la herencia2.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\POO\3.Herencia\Constructores en la herencia2\Constructores en la herencia2\obj\Debug\net8.0\Constructores en la herencia2.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\POO\3.Herencia\Constructores en la herencia2\Constructores en la herencia2\obj\Debug\net8.0\Constructores en la herencia2.dll
+C:\DiskD\CodigoTecsup\C#\POO\3.Herencia\Constructores en la herencia2\Constructores en la herencia2\obj\Debug\net8.0\refint\Constructores en la herencia2.dll
+C:\DiskD\CodigoTecsup\C#\POO\3.Herencia\Constructores en la herencia2\Constructores en la herencia2\obj\Debug\net8.0\Constructores en la herencia2.pdb
+C:\DiskD\CodigoTecsup\C#\POO\3.Herencia\Constructores en la herencia2\Constructores en la herencia2\obj\Debug\net8.0\Constructores en la herencia2.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\POO\3.Herencia\Constructores en la herencia2\Constructores en la herencia2\obj\Debug\net8.0\ref\Constructores en la herencia2.dll
+C:\DiskD\CodigoTecsup\C#\POO\10.Herencia\Ejercicio4_Herencia\Constructores en la herencia2\bin\Debug\net8.0\Constructores en la herencia2.exe
+C:\DiskD\CodigoTecsup\C#\POO\10.Herencia\Ejercicio4_Herencia\Constructores en la herencia2\bin\Debug\net8.0\Constructores en la herencia2.deps.json
+C:\DiskD\CodigoTecsup\C#\POO\10.Herencia\Ejercicio4_Herencia\Constructores en la herencia2\bin\Debug\net8.0\Constructores en la herencia2.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\POO\10.Herencia\Ejercicio4_Herencia\Constructores en la herencia2\bin\Debug\net8.0\Constructores en la herencia2.dll
+C:\DiskD\CodigoTecsup\C#\POO\10.Herencia\Ejercicio4_Herencia\Constructores en la herencia2\bin\Debug\net8.0\Constructores en la herencia2.pdb
+C:\DiskD\CodigoTecsup\C#\POO\10.Herencia\Ejercicio4_Herencia\Constructores en la herencia2\obj\Debug\net8.0\Constructores en la herencia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\POO\10.Herencia\Ejercicio4_Herencia\Constructores en la herencia2\obj\Debug\net8.0\Constructores en la herencia2.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\POO\10.Herencia\Ejercicio4_Herencia\Constructores en la herencia2\obj\Debug\net8.0\Constructores en la herencia2.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\POO\10.Herencia\Ejercicio4_Herencia\Constructores en la herencia2\obj\Debug\net8.0\Constructores en la herencia2.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\POO\10.Herencia\Ejercicio4_Herencia\Constructores en la herencia2\obj\Debug\net8.0\Constructores en la herencia2.dll
+C:\DiskD\CodigoTecsup\C#\POO\10.Herencia\Ejercicio4_Herencia\Constructores en la herencia2\obj\Debug\net8.0\refint\Constructores en la herencia2.dll
+C:\DiskD\CodigoTecsup\C#\POO\10.Herencia\Ejercicio4_Herencia\Constructores en la herencia2\obj\Debug\net8.0\Constructores en la herencia2.pdb
+C:\DiskD\CodigoTecsup\C#\POO\10.Herencia\Ejercicio4_Herencia\Constructores en la herencia2\obj\Debug\net8.0\Constructores en la herencia2.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\POO\10.Herencia\Ejercicio4_Herencia\Constructores en la herencia2\obj\Debug\net8.0\ref\Constructores en la herencia2.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase2\2.Herencia\Ejercicio4_Herencia\Constructores en la herencia2\bin\Debug\net8.0\Constructores en la herencia2.exe
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase2\2.Herencia\Ejercicio4_Herencia\Constructores en la herencia2\bin\Debug\net8.0\Constructores en la herencia2.deps.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase2\2.Herencia\Ejercicio4_Herencia\Constructores en la herencia2\bin\Debug\net8.0\Constructores en la herencia2.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase2\2.Herencia\Ejercicio4_Herencia\Constructores en la herencia2\bin\Debug\net8.0\Constructores en la herencia2.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase2\2.Herencia\Ejercicio4_Herencia\Constructores en la herencia2\bin\Debug\net8.0\Constructores en la herencia2.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase2\2.Herencia\Ejercicio4_Herencia\Constructores en la herencia2\obj\Debug\net8.0\Constructores en la herencia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase2\2.Herencia\Ejercicio4_Herencia\Constructores en la herencia2\obj\Debug\net8.0\Constructores en la herencia2.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase2\2.Herencia\Ejercicio4_Herencia\Constructores en la herencia2\obj\Debug\net8.0\Constructores en la herencia2.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase2\2.Herencia\Ejercicio4_Herencia\Constructores en la herencia2\obj\Debug\net8.0\Constructores en la herencia2.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase2\2.Herencia\Ejercicio4_Herencia\Constructores en la herencia2\obj\Debug\net8.0\Constructores en la herencia2.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase2\2.Herencia\Ejercicio4_Herencia\Constructores en la herencia2\obj\Debug\net8.0\refint\Constructores en la herencia2.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase2\2.Herencia\Ejercicio4_Herencia\Constructores en la herencia2\obj\Debug\net8.0\Constructores en la herencia2.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase2\2.Herencia\Ejercicio4_Herencia\Constructores en la herencia2\obj\Debug\net8.0\Constructores en la herencia2.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase2\2.Herencia\Ejercicio4_Herencia\Constructores en la herencia2\obj\Debug\net8.0\ref\Constructores en la herencia2.dll

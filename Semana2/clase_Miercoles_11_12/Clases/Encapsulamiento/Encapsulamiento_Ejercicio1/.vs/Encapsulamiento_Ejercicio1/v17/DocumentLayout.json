@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Encapsulamiento\\Encapsulamiento_Ejercicio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D56E1340-85D5-4465-9452-E636AECBDAEB}|Encapsulamiento_Ejercicio1\\Encapsulamiento_Ejercicio1.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana2\\clase_miercoles_11_12\\clases\\encapsulamiento\\encapsulamiento_ejercicio1\\encapsulamiento_ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56E1340-85D5-4465-9452-E636AECBDAEB}|Encapsulamiento_Ejercicio1\\Encapsulamiento_Ejercicio1.csproj|solutionrelative:encapsulamiento_ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56E1340-85D5-4465-9452-E636AECBDAEB}|Encapsulamiento_Ejercicio1\\Encapsulamiento_Ejercicio1.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana2\\clase_miercoles_11_12\\clases\\encapsulamiento\\encapsulamiento_ejercicio1\\encapsulamiento_ejercicio1\\personapropiedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56E1340-85D5-4465-9452-E636AECBDAEB}|Encapsulamiento_Ejercicio1\\Encapsulamiento_Ejercicio1.csproj|solutionrelative:encapsulamiento_ejercicio1\\personapropiedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56E1340-85D5-4465-9452-E636AECBDAEB}|Encapsulamiento_Ejercicio1\\Encapsulamiento_Ejercicio1.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana2\\clase_miercoles_11_12\\clases\\encapsulamiento\\encapsulamiento_ejercicio1\\encapsulamiento_ejercicio1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56E1340-85D5-4465-9452-E636AECBDAEB}|Encapsulamiento_Ejercicio1\\Encapsulamiento_Ejercicio1.csproj|solutionrelative:encapsulamiento_ejercicio1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonaPropiedades.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Encapsulamiento\\Encapsulamiento_Ejercicio1\\Encapsulamiento_Ejercicio1\\PersonaPropiedades.cs",
+              "RelativeDocumentMoniker": "Encapsulamiento_Ejercicio1\\PersonaPropiedades.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Encapsulamiento\\Encapsulamiento_Ejercicio1\\Encapsulamiento_Ejercicio1\\PersonaPropiedades.cs",
+              "RelativeToolTip": "Encapsulamiento_Ejercicio1\\PersonaPropiedades.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T00:46:15.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Encapsulamiento\\Encapsulamiento_Ejercicio1\\Encapsulamiento_Ejercicio1\\Persona.cs",
+              "RelativeDocumentMoniker": "Encapsulamiento_Ejercicio1\\Persona.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Encapsulamiento\\Encapsulamiento_Ejercicio1\\Encapsulamiento_Ejercicio1\\Persona.cs",
+              "RelativeToolTip": "Encapsulamiento_Ejercicio1\\Persona.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T00:33:36.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Encapsulamiento\\Encapsulamiento_Ejercicio1\\Encapsulamiento_Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulamiento_Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Encapsulamiento\\Encapsulamiento_Ejercicio1\\Encapsulamiento_Ejercicio1\\Program.cs",
+              "RelativeToolTip": "Encapsulamiento_Ejercicio1\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T00:33:10.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

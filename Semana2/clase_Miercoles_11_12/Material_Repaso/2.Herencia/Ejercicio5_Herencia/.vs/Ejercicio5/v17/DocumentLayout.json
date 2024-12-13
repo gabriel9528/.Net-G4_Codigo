@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio5_Herencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86D38F27-4609-4BB0-9A34-D3E1130B76C8}|Ejercicio5\\Ejercicio5.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase2\\2.herencia\\ejercicio5_herencia\\ejercicio5\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D38F27-4609-4BB0-9A34-D3E1130B76C8}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D38F27-4609-4BB0-9A34-D3E1130B76C8}|Ejercicio5\\Ejercicio5.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase2\\2.herencia\\ejercicio5_herencia\\ejercicio5\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D38F27-4609-4BB0-9A34-D3E1130B76C8}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D38F27-4609-4BB0-9A34-D3E1130B76C8}|Ejercicio5\\Ejercicio5.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase2\\2.herencia\\ejercicio5_herencia\\ejercicio5\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D38F27-4609-4BB0-9A34-D3E1130B76C8}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D38F27-4609-4BB0-9A34-D3E1130B76C8}|Ejercicio5\\Ejercicio5.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase2\\2.herencia\\ejercicio5_herencia\\ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D38F27-4609-4BB0-9A34-D3E1130B76C8}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Camion.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio5_Herencia\\Ejercicio5\\Camion.cs",
+              "RelativeDocumentMoniker": "Ejercicio5\\Camion.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio5_Herencia\\Ejercicio5\\Camion.cs",
+              "RelativeToolTip": "Ejercicio5\\Camion.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA8wCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:51:41.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio5_Herencia\\Ejercicio5\\Carro.cs",
+              "RelativeDocumentMoniker": "Ejercicio5\\Carro.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio5_Herencia\\Ejercicio5\\Carro.cs",
+              "RelativeToolTip": "Ejercicio5\\Carro.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:51:13.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio5_Herencia\\Ejercicio5\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Ejercicio5\\Vehiculo.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio5_Herencia\\Ejercicio5\\Vehiculo.cs",
+              "RelativeToolTip": "Ejercicio5\\Vehiculo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:50:45.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio5_Herencia\\Ejercicio5\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio5\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio5_Herencia\\Ejercicio5\\Program.cs",
+              "RelativeToolTip": "Ejercicio5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:50:32.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

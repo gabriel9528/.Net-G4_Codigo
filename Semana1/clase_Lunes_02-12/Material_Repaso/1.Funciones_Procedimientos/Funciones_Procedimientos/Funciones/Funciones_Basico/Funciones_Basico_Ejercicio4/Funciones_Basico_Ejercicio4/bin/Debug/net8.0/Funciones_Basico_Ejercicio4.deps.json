@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Funciones_Basico_Ejercicio4/1.0.0": {
+        "runtime": {
+          "Funciones_Basico_Ejercicio4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Funciones_Basico_Ejercicio4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

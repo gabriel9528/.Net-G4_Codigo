@@ -1,0 +1,14 @@
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase2\Herencia\Ejercicio6\Ejercicio6\bin\Debug\net8.0\Ejercicio6.exe
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase2\Herencia\Ejercicio6\Ejercicio6\bin\Debug\net8.0\Ejercicio6.deps.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase2\Herencia\Ejercicio6\Ejercicio6\bin\Debug\net8.0\Ejercicio6.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase2\Herencia\Ejercicio6\Ejercicio6\bin\Debug\net8.0\Ejercicio6.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase2\Herencia\Ejercicio6\Ejercicio6\bin\Debug\net8.0\Ejercicio6.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase2\Herencia\Ejercicio6\Ejercicio6\obj\Debug\net8.0\Ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase2\Herencia\Ejercicio6\Ejercicio6\obj\Debug\net8.0\Ejercicio6.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase2\Herencia\Ejercicio6\Ejercicio6\obj\Debug\net8.0\Ejercicio6.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase2\Herencia\Ejercicio6\Ejercicio6\obj\Debug\net8.0\Ejercicio6.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase2\Herencia\Ejercicio6\Ejercicio6\obj\Debug\net8.0\Ejercicio6.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase2\Herencia\Ejercicio6\Ejercicio6\obj\Debug\net8.0\refint\Ejercicio6.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase2\Herencia\Ejercicio6\Ejercicio6\obj\Debug\net8.0\Ejercicio6.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase2\Herencia\Ejercicio6\Ejercicio6\obj\Debug\net8.0\Ejercicio6.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase2\Herencia\Ejercicio6\Ejercicio6\obj\Debug\net8.0\ref\Ejercicio6.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Diccionarios_Ejercicio4/1.0.0": {
+        "runtime": {
+          "Diccionarios_Ejercicio4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Diccionarios_Ejercicio4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

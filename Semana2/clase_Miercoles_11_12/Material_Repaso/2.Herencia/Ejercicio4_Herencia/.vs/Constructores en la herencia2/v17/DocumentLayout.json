@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio4_Herencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43952DA2-145C-4503-A906-A12F34A1483A}|Constructores en la herencia2\\Constructores en la herencia2.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase2\\2.herencia\\ejercicio4_herencia\\constructores en la herencia2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43952DA2-145C-4503-A906-A12F34A1483A}|Constructores en la herencia2\\Constructores en la herencia2.csproj|solutionrelative:constructores en la herencia2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43952DA2-145C-4503-A906-A12F34A1483A}|Constructores en la herencia2\\Constructores en la herencia2.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase2\\2.herencia\\ejercicio4_herencia\\constructores en la herencia2\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43952DA2-145C-4503-A906-A12F34A1483A}|Constructores en la herencia2\\Constructores en la herencia2.csproj|solutionrelative:constructores en la herencia2\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43952DA2-145C-4503-A906-A12F34A1483A}|Constructores en la herencia2\\Constructores en la herencia2.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase2\\2.herencia\\ejercicio4_herencia\\constructores en la herencia2\\cocinero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43952DA2-145C-4503-A906-A12F34A1483A}|Constructores en la herencia2\\Constructores en la herencia2.csproj|solutionrelative:constructores en la herencia2\\cocinero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43952DA2-145C-4503-A906-A12F34A1483A}|Constructores en la herencia2\\Constructores en la herencia2.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase2\\2.herencia\\ejercicio4_herencia\\constructores en la herencia2\\camarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43952DA2-145C-4503-A906-A12F34A1483A}|Constructores en la herencia2\\Constructores en la herencia2.csproj|solutionrelative:constructores en la herencia2\\camarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43952DA2-145C-4503-A906-A12F34A1483A}|Constructores en la herencia2\\Constructores en la herencia2.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase2\\2.herencia\\ejercicio4_herencia\\constructores en la herencia2\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43952DA2-145C-4503-A906-A12F34A1483A}|Constructores en la herencia2\\Constructores en la herencia2.csproj|solutionrelative:constructores en la herencia2\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio4_Herencia\\Constructores en la herencia2\\Gerente.cs",
+              "RelativeDocumentMoniker": "Constructores en la herencia2\\Gerente.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio4_Herencia\\Constructores en la herencia2\\Gerente.cs",
+              "RelativeToolTip": "Constructores en la herencia2\\Gerente.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:39:46.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Camarero.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio4_Herencia\\Constructores en la herencia2\\Camarero.cs",
+              "RelativeDocumentMoniker": "Constructores en la herencia2\\Camarero.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio4_Herencia\\Constructores en la herencia2\\Camarero.cs",
+              "RelativeToolTip": "Constructores en la herencia2\\Camarero.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:39:06.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cocinero.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio4_Herencia\\Constructores en la herencia2\\Cocinero.cs",
+              "RelativeDocumentMoniker": "Constructores en la herencia2\\Cocinero.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio4_Herencia\\Constructores en la herencia2\\Cocinero.cs",
+              "RelativeToolTip": "Constructores en la herencia2\\Cocinero.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:37:52.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio4_Herencia\\Constructores en la herencia2\\Empleado.cs",
+              "RelativeDocumentMoniker": "Constructores en la herencia2\\Empleado.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio4_Herencia\\Constructores en la herencia2\\Empleado.cs",
+              "RelativeToolTip": "Constructores en la herencia2\\Empleado.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:37:05.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio4_Herencia\\Constructores en la herencia2\\Program.cs",
+              "RelativeDocumentMoniker": "Constructores en la herencia2\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase2\\2.Herencia\\Ejercicio4_Herencia\\Constructores en la herencia2\\Program.cs",
+              "RelativeToolTip": "Constructores en la herencia2\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:36:54.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
