@@ -1,0 +1,14 @@
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\EjercicioFinal2Polimorfismo\EjercicioFinal2Polimorfismo\bin\Debug\net8.0\EjercicioFinal2Polimorfismo.exe
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\EjercicioFinal2Polimorfismo\EjercicioFinal2Polimorfismo\bin\Debug\net8.0\EjercicioFinal2Polimorfismo.deps.json
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\EjercicioFinal2Polimorfismo\EjercicioFinal2Polimorfismo\bin\Debug\net8.0\EjercicioFinal2Polimorfismo.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\EjercicioFinal2Polimorfismo\EjercicioFinal2Polimorfismo\bin\Debug\net8.0\EjercicioFinal2Polimorfismo.dll
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\EjercicioFinal2Polimorfismo\EjercicioFinal2Polimorfismo\bin\Debug\net8.0\EjercicioFinal2Polimorfismo.pdb
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\EjercicioFinal2Polimorfismo\EjercicioFinal2Polimorfismo\obj\Debug\net8.0\EjercicioFinal2Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\EjercicioFinal2Polimorfismo\EjercicioFinal2Polimorfismo\obj\Debug\net8.0\EjercicioFinal2Polimorfismo.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\EjercicioFinal2Polimorfismo\EjercicioFinal2Polimorfismo\obj\Debug\net8.0\EjercicioFinal2Polimorfismo.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\EjercicioFinal2Polimorfismo\EjercicioFinal2Polimorfismo\obj\Debug\net8.0\EjercicioFinal2Polimorfismo.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\EjercicioFinal2Polimorfismo\EjercicioFinal2Polimorfismo\obj\Debug\net8.0\EjercicioFinal2Polimorfismo.dll
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\EjercicioFinal2Polimorfismo\EjercicioFinal2Polimorfismo\obj\Debug\net8.0\refint\EjercicioFinal2Polimorfismo.dll
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\EjercicioFinal2Polimorfismo\EjercicioFinal2Polimorfismo\obj\Debug\net8.0\EjercicioFinal2Polimorfismo.pdb
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\EjercicioFinal2Polimorfismo\EjercicioFinal2Polimorfismo\obj\Debug\net8.0\EjercicioFinal2Polimorfismo.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\EjercicioFinal2Polimorfismo\EjercicioFinal2Polimorfismo\obj\Debug\net8.0\ref\EjercicioFinal2Polimorfismo.dll

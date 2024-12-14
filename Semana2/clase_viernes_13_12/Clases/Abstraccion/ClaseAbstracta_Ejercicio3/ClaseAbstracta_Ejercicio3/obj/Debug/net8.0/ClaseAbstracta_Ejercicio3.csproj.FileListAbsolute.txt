@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\ClaseAbstracta_Ejercicio3\ClaseAbstracta_Ejercicio3\bin\Debug\net8.0\ClaseAbstracta_Ejercicio3.exe
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\ClaseAbstracta_Ejercicio3\ClaseAbstracta_Ejercicio3\bin\Debug\net8.0\ClaseAbstracta_Ejercicio3.deps.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\ClaseAbstracta_Ejercicio3\ClaseAbstracta_Ejercicio3\bin\Debug\net8.0\ClaseAbstracta_Ejercicio3.runtimeconfig.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\ClaseAbstracta_Ejercicio3\ClaseAbstracta_Ejercicio3\bin\Debug\net8.0\ClaseAbstracta_Ejercicio3.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\ClaseAbstracta_Ejercicio3\ClaseAbstracta_Ejercicio3\bin\Debug\net8.0\ClaseAbstracta_Ejercicio3.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\ClaseAbstracta_Ejercicio3\ClaseAbstracta_Ejercicio3\obj\Debug\net8.0\ClaseAbstracta_Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\ClaseAbstracta_Ejercicio3\ClaseAbstracta_Ejercicio3\obj\Debug\net8.0\ClaseAbstracta_Ejercicio3.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\ClaseAbstracta_Ejercicio3\ClaseAbstracta_Ejercicio3\obj\Debug\net8.0\ClaseAbstracta_Ejercicio3.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\ClaseAbstracta_Ejercicio3\ClaseAbstracta_Ejercicio3\obj\Debug\net8.0\ClaseAbstracta_Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\ClaseAbstracta_Ejercicio3\ClaseAbstracta_Ejercicio3\obj\Debug\net8.0\ClaseAbstracta_Ejercicio3.sourcelink.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\ClaseAbstracta_Ejercicio3\ClaseAbstracta_Ejercicio3\obj\Debug\net8.0\ClaseAbstracta_Ejercicio3.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\ClaseAbstracta_Ejercicio3\ClaseAbstracta_Ejercicio3\obj\Debug\net8.0\refint\ClaseAbstracta_Ejercicio3.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\ClaseAbstracta_Ejercicio3\ClaseAbstracta_Ejercicio3\obj\Debug\net8.0\ClaseAbstracta_Ejercicio3.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\ClaseAbstracta_Ejercicio3\ClaseAbstracta_Ejercicio3\obj\Debug\net8.0\ClaseAbstracta_Ejercicio3.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\ClaseAbstracta_Ejercicio3\ClaseAbstracta_Ejercicio3\obj\Debug\net8.0\ref\ClaseAbstracta_Ejercicio3.dll

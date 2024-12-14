@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\7.Polimorfismo\\4.PolimorfismoDinamico_Clase_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66D55DAC-8AB8-44FD-9458-6CC527806819}|Polimorfismo1\\Polimorfismo1.csproj|c:\\diskd\\codigotecsup\\c#\\poo\\7.polimorfismo\\4.polimorfismodinamico_clase_1\\polimorfismo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D55DAC-8AB8-44FD-9458-6CC527806819}|Polimorfismo1\\Polimorfismo1.csproj|solutionrelative:polimorfismo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D55DAC-8AB8-44FD-9458-6CC527806819}|Polimorfismo1\\Polimorfismo1.csproj|c:\\diskd\\codigotecsup\\c#\\poo\\7.polimorfismo\\4.polimorfismodinamico_clase_1\\polimorfismo1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D55DAC-8AB8-44FD-9458-6CC527806819}|Polimorfismo1\\Polimorfismo1.csproj|solutionrelative:polimorfismo1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D55DAC-8AB8-44FD-9458-6CC527806819}|Polimorfismo1\\Polimorfismo1.csproj|c:\\diskd\\codigotecsup\\c#\\poo\\7.polimorfismo\\4.polimorfismodinamico_clase_1\\polimorfismo1\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D55DAC-8AB8-44FD-9458-6CC527806819}|Polimorfismo1\\Polimorfismo1.csproj|solutionrelative:polimorfismo1\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D55DAC-8AB8-44FD-9458-6CC527806819}|Polimorfismo1\\Polimorfismo1.csproj|c:\\diskd\\codigotecsup\\c#\\poo\\7.polimorfismo\\4.polimorfismodinamico_clase_1\\polimorfismo1\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D55DAC-8AB8-44FD-9458-6CC527806819}|Polimorfismo1\\Polimorfismo1.csproj|solutionrelative:polimorfismo1\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\7.Polimorfismo\\4.PolimorfismoDinamico_Clase_1\\Polimorfismo1\\Empleado.cs",
+              "RelativeDocumentMoniker": "Polimorfismo1\\Empleado.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\7.Polimorfismo\\4.PolimorfismoDinamico_Clase_1\\Polimorfismo1\\Empleado.cs",
+              "RelativeToolTip": "Polimorfismo1\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:32:15.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\7.Polimorfismo\\4.PolimorfismoDinamico_Clase_1\\Polimorfismo1\\Alumno.cs",
+              "RelativeDocumentMoniker": "Polimorfismo1\\Alumno.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\7.Polimorfismo\\4.PolimorfismoDinamico_Clase_1\\Polimorfismo1\\Alumno.cs",
+              "RelativeToolTip": "Polimorfismo1\\Alumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:32:06.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\7.Polimorfismo\\4.PolimorfismoDinamico_Clase_1\\Polimorfismo1\\Persona.cs",
+              "RelativeDocumentMoniker": "Polimorfismo1\\Persona.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\7.Polimorfismo\\4.PolimorfismoDinamico_Clase_1\\Polimorfismo1\\Persona.cs",
+              "RelativeToolTip": "Polimorfismo1\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:31:02.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\7.Polimorfismo\\4.PolimorfismoDinamico_Clase_1\\Polimorfismo1\\Program.cs",
+              "RelativeDocumentMoniker": "Polimorfismo1\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\7.Polimorfismo\\4.PolimorfismoDinamico_Clase_1\\Polimorfismo1\\Program.cs",
+              "RelativeToolTip": "Polimorfismo1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:30:30.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+C:\DiskD\CodigoTecsup\C#\Clases\Ejercicio con Clases2\Ejercicio con Clases2\bin\Debug\net8.0\Ejercicio con Clases2.exe
+C:\DiskD\CodigoTecsup\C#\Clases\Ejercicio con Clases2\Ejercicio con Clases2\bin\Debug\net8.0\Ejercicio con Clases2.deps.json
+C:\DiskD\CodigoTecsup\C#\Clases\Ejercicio con Clases2\Ejercicio con Clases2\bin\Debug\net8.0\Ejercicio con Clases2.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Clases\Ejercicio con Clases2\Ejercicio con Clases2\bin\Debug\net8.0\Ejercicio con Clases2.dll
+C:\DiskD\CodigoTecsup\C#\Clases\Ejercicio con Clases2\Ejercicio con Clases2\bin\Debug\net8.0\Ejercicio con Clases2.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\Ejercicio con Clases2\Ejercicio con Clases2\obj\Debug\net8.0\Ejercicio con Clases2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Clases\Ejercicio con Clases2\Ejercicio con Clases2\obj\Debug\net8.0\Ejercicio con Clases2.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\Ejercicio con Clases2\Ejercicio con Clases2\obj\Debug\net8.0\Ejercicio con Clases2.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Clases\Ejercicio con Clases2\Ejercicio con Clases2\obj\Debug\net8.0\Ejercicio con Clases2.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\Ejercicio con Clases2\Ejercicio con Clases2\obj\Debug\net8.0\Ejercicio con Clases2.dll
+C:\DiskD\CodigoTecsup\C#\Clases\Ejercicio con Clases2\Ejercicio con Clases2\obj\Debug\net8.0\refint\Ejercicio con Clases2.dll
+C:\DiskD\CodigoTecsup\C#\Clases\Ejercicio con Clases2\Ejercicio con Clases2\obj\Debug\net8.0\Ejercicio con Clases2.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\Ejercicio con Clases2\Ejercicio con Clases2\obj\Debug\net8.0\Ejercicio con Clases2.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Clases\Ejercicio con Clases2\Ejercicio con Clases2\obj\Debug\net8.0\ref\Ejercicio con Clases2.dll
+C:\DiskD\CodigoTecsup\C#\POO\9.Abstraccion\Ejercicio1_Abstraccion\Ejercicio con Clases2\bin\Debug\net8.0\Ejercicio con Clases2.exe
+C:\DiskD\CodigoTecsup\C#\POO\9.Abstraccion\Ejercicio1_Abstraccion\Ejercicio con Clases2\bin\Debug\net8.0\Ejercicio con Clases2.deps.json
+C:\DiskD\CodigoTecsup\C#\POO\9.Abstraccion\Ejercicio1_Abstraccion\Ejercicio con Clases2\bin\Debug\net8.0\Ejercicio con Clases2.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\POO\9.Abstraccion\Ejercicio1_Abstraccion\Ejercicio con Clases2\bin\Debug\net8.0\Ejercicio con Clases2.dll
+C:\DiskD\CodigoTecsup\C#\POO\9.Abstraccion\Ejercicio1_Abstraccion\Ejercicio con Clases2\bin\Debug\net8.0\Ejercicio con Clases2.pdb
+C:\DiskD\CodigoTecsup\C#\POO\9.Abstraccion\Ejercicio1_Abstraccion\Ejercicio con Clases2\obj\Debug\net8.0\Ejercicio con Clases2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\POO\9.Abstraccion\Ejercicio1_Abstraccion\Ejercicio con Clases2\obj\Debug\net8.0\Ejercicio con Clases2.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\POO\9.Abstraccion\Ejercicio1_Abstraccion\Ejercicio con Clases2\obj\Debug\net8.0\Ejercicio con Clases2.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\POO\9.Abstraccion\Ejercicio1_Abstraccion\Ejercicio con Clases2\obj\Debug\net8.0\Ejercicio con Clases2.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\POO\9.Abstraccion\Ejercicio1_Abstraccion\Ejercicio con Clases2\obj\Debug\net8.0\Ejercicio con Clases2.dll
+C:\DiskD\CodigoTecsup\C#\POO\9.Abstraccion\Ejercicio1_Abstraccion\Ejercicio con Clases2\obj\Debug\net8.0\refint\Ejercicio con Clases2.dll
+C:\DiskD\CodigoTecsup\C#\POO\9.Abstraccion\Ejercicio1_Abstraccion\Ejercicio con Clases2\obj\Debug\net8.0\Ejercicio con Clases2.pdb
+C:\DiskD\CodigoTecsup\C#\POO\9.Abstraccion\Ejercicio1_Abstraccion\Ejercicio con Clases2\obj\Debug\net8.0\Ejercicio con Clases2.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\POO\9.Abstraccion\Ejercicio1_Abstraccion\Ejercicio con Clases2\obj\Debug\net8.0\ref\Ejercicio con Clases2.dll
+C:\DiskD\CodigoTecsup\C#\POO\9.Abstraccion\Ejercicio1_Abstraccionn\Ejercicio con Clases2\bin\Debug\net8.0\Ejercicio con Clases2.exe
+C:\DiskD\CodigoTecsup\C#\POO\9.Abstraccion\Ejercicio1_Abstraccionn\Ejercicio con Clases2\bin\Debug\net8.0\Ejercicio con Clases2.deps.json
+C:\DiskD\CodigoTecsup\C#\POO\9.Abstraccion\Ejercicio1_Abstraccionn\Ejercicio con Clases2\bin\Debug\net8.0\Ejercicio con Clases2.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\POO\9.Abstraccion\Ejercicio1_Abstraccionn\Ejercicio con Clases2\bin\Debug\net8.0\Ejercicio con Clases2.dll
+C:\DiskD\CodigoTecsup\C#\POO\9.Abstraccion\Ejercicio1_Abstraccionn\Ejercicio con Clases2\bin\Debug\net8.0\Ejercicio con Clases2.pdb
+C:\DiskD\CodigoTecsup\C#\POO\9.Abstraccion\Ejercicio1_Abstraccionn\Ejercicio con Clases2\obj\Debug\net8.0\Ejercicio con Clases2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\POO\9.Abstraccion\Ejercicio1_Abstraccionn\Ejercicio con Clases2\obj\Debug\net8.0\Ejercicio con Clases2.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\POO\9.Abstraccion\Ejercicio1_Abstraccionn\Ejercicio con Clases2\obj\Debug\net8.0\Ejercicio con Clases2.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\POO\9.Abstraccion\Ejercicio1_Abstraccionn\Ejercicio con Clases2\obj\Debug\net8.0\Ejercicio con Clases2.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\POO\9.Abstraccion\Ejercicio1_Abstraccionn\Ejercicio con Clases2\obj\Debug\net8.0\Ejercicio con Clases2.dll
+C:\DiskD\CodigoTecsup\C#\POO\9.Abstraccion\Ejercicio1_Abstraccionn\Ejercicio con Clases2\obj\Debug\net8.0\refint\Ejercicio con Clases2.dll
+C:\DiskD\CodigoTecsup\C#\POO\9.Abstraccion\Ejercicio1_Abstraccionn\Ejercicio con Clases2\obj\Debug\net8.0\Ejercicio con Clases2.pdb
+C:\DiskD\CodigoTecsup\C#\POO\9.Abstraccion\Ejercicio1_Abstraccionn\Ejercicio con Clases2\obj\Debug\net8.0\Ejercicio con Clases2.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\POO\9.Abstraccion\Ejercicio1_Abstraccionn\Ejercicio con Clases2\obj\Debug\net8.0\ref\Ejercicio con Clases2.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase3\3.Abstraccion\Ejercicio2_Abstraccion\Ejercicio con Clases2\bin\Debug\net8.0\Ejercicio con Clases2.exe
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase3\3.Abstraccion\Ejercicio2_Abstraccion\Ejercicio con Clases2\bin\Debug\net8.0\Ejercicio con Clases2.deps.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase3\3.Abstraccion\Ejercicio2_Abstraccion\Ejercicio con Clases2\bin\Debug\net8.0\Ejercicio con Clases2.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase3\3.Abstraccion\Ejercicio2_Abstraccion\Ejercicio con Clases2\bin\Debug\net8.0\Ejercicio con Clases2.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase3\3.Abstraccion\Ejercicio2_Abstraccion\Ejercicio con Clases2\bin\Debug\net8.0\Ejercicio con Clases2.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase3\3.Abstraccion\Ejercicio2_Abstraccion\Ejercicio con Clases2\obj\Debug\net8.0\Ejercicio con Clases2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase3\3.Abstraccion\Ejercicio2_Abstraccion\Ejercicio con Clases2\obj\Debug\net8.0\Ejercicio con Clases2.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase3\3.Abstraccion\Ejercicio2_Abstraccion\Ejercicio con Clases2\obj\Debug\net8.0\Ejercicio con Clases2.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase3\3.Abstraccion\Ejercicio2_Abstraccion\Ejercicio con Clases2\obj\Debug\net8.0\Ejercicio con Clases2.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase3\3.Abstraccion\Ejercicio2_Abstraccion\Ejercicio con Clases2\obj\Debug\net8.0\Ejercicio con Clases2.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase3\3.Abstraccion\Ejercicio2_Abstraccion\Ejercicio con Clases2\obj\Debug\net8.0\refint\Ejercicio con Clases2.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase3\3.Abstraccion\Ejercicio2_Abstraccion\Ejercicio con Clases2\obj\Debug\net8.0\Ejercicio con Clases2.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase3\3.Abstraccion\Ejercicio2_Abstraccion\Ejercicio con Clases2\obj\Debug\net8.0\Ejercicio con Clases2.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase3\3.Abstraccion\Ejercicio2_Abstraccion\Ejercicio con Clases2\obj\Debug\net8.0\ref\Ejercicio con Clases2.dll

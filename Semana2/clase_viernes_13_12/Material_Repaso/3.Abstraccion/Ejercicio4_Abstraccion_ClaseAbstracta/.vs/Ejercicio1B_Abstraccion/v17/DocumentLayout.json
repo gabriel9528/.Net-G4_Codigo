@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio4_Abstraccion_ClaseAbstracta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA58D9F-A90D-421E-8D6E-B89C20B87505}|Ejercicio1B_Abstraccion\\Ejercicio1B_Abstraccion.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase3\\3.abstraccion\\ejercicio4_abstraccion_claseabstracta\\ejercicio1b_abstraccion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA58D9F-A90D-421E-8D6E-B89C20B87505}|Ejercicio1B_Abstraccion\\Ejercicio1B_Abstraccion.csproj|solutionrelative:ejercicio1b_abstraccion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA58D9F-A90D-421E-8D6E-B89C20B87505}|Ejercicio1B_Abstraccion\\Ejercicio1B_Abstraccion.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase3\\3.abstraccion\\ejercicio4_abstraccion_claseabstracta\\ejercicio1b_abstraccion\\telefonomovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA58D9F-A90D-421E-8D6E-B89C20B87505}|Ejercicio1B_Abstraccion\\Ejercicio1B_Abstraccion.csproj|solutionrelative:ejercicio1b_abstraccion\\telefonomovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA58D9F-A90D-421E-8D6E-B89C20B87505}|Ejercicio1B_Abstraccion\\Ejercicio1B_Abstraccion.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase3\\3.abstraccion\\ejercicio4_abstraccion_claseabstracta\\ejercicio1b_abstraccion\\tablet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA58D9F-A90D-421E-8D6E-B89C20B87505}|Ejercicio1B_Abstraccion\\Ejercicio1B_Abstraccion.csproj|solutionrelative:ejercicio1b_abstraccion\\tablet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA58D9F-A90D-421E-8D6E-B89C20B87505}|Ejercicio1B_Abstraccion\\Ejercicio1B_Abstraccion.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase3\\3.abstraccion\\ejercicio4_abstraccion_claseabstracta\\ejercicio1b_abstraccion\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA58D9F-A90D-421E-8D6E-B89C20B87505}|Ejercicio1B_Abstraccion\\Ejercicio1B_Abstraccion.csproj|solutionrelative:ejercicio1b_abstraccion\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA58D9F-A90D-421E-8D6E-B89C20B87505}|Ejercicio1B_Abstraccion\\Ejercicio1B_Abstraccion.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase3\\3.abstraccion\\ejercicio4_abstraccion_claseabstracta\\ejercicio1b_abstraccion\\dispositivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA58D9F-A90D-421E-8D6E-B89C20B87505}|Ejercicio1B_Abstraccion\\Ejercicio1B_Abstraccion.csproj|solutionrelative:ejercicio1b_abstraccion\\dispositivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio4_Abstraccion_ClaseAbstracta\\Ejercicio1B_Abstraccion\\Laptop.cs",
+              "RelativeDocumentMoniker": "Ejercicio1B_Abstraccion\\Laptop.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio4_Abstraccion_ClaseAbstracta\\Ejercicio1B_Abstraccion\\Laptop.cs",
+              "RelativeToolTip": "Ejercicio1B_Abstraccion\\Laptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:56:13.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tablet.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio4_Abstraccion_ClaseAbstracta\\Ejercicio1B_Abstraccion\\Tablet.cs",
+              "RelativeDocumentMoniker": "Ejercicio1B_Abstraccion\\Tablet.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio4_Abstraccion_ClaseAbstracta\\Ejercicio1B_Abstraccion\\Tablet.cs",
+              "RelativeToolTip": "Ejercicio1B_Abstraccion\\Tablet.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:55:48.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TelefonoMovil.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio4_Abstraccion_ClaseAbstracta\\Ejercicio1B_Abstraccion\\TelefonoMovil.cs",
+              "RelativeDocumentMoniker": "Ejercicio1B_Abstraccion\\TelefonoMovil.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio4_Abstraccion_ClaseAbstracta\\Ejercicio1B_Abstraccion\\TelefonoMovil.cs",
+              "RelativeToolTip": "Ejercicio1B_Abstraccion\\TelefonoMovil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:55:14.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dispositivo.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio4_Abstraccion_ClaseAbstracta\\Ejercicio1B_Abstraccion\\Dispositivo.cs",
+              "RelativeDocumentMoniker": "Ejercicio1B_Abstraccion\\Dispositivo.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio4_Abstraccion_ClaseAbstracta\\Ejercicio1B_Abstraccion\\Dispositivo.cs",
+              "RelativeToolTip": "Ejercicio1B_Abstraccion\\Dispositivo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:54:36.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio4_Abstraccion_ClaseAbstracta\\Ejercicio1B_Abstraccion\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1B_Abstraccion\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio4_Abstraccion_ClaseAbstracta\\Ejercicio1B_Abstraccion\\Program.cs",
+              "RelativeToolTip": "Ejercicio1B_Abstraccion\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:53:51.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

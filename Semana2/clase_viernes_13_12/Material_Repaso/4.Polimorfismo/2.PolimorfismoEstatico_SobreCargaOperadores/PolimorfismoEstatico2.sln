@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolimorfismoEstatico2", "PolimorfismoEstatico2\PolimorfismoEstatico2.csproj", "{24A382B7-431F-45D3-A54F-2B3A164D355E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24A382B7-431F-45D3-A54F-2B3A164D355E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A382B7-431F-45D3-A54F-2B3A164D355E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A382B7-431F-45D3-A54F-2B3A164D355E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A382B7-431F-45D3-A54F-2B3A164D355E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5D9E146-EAA5-4AB3-98C9-989E4D72FE08}
+	EndGlobalSection
+EndGlobal

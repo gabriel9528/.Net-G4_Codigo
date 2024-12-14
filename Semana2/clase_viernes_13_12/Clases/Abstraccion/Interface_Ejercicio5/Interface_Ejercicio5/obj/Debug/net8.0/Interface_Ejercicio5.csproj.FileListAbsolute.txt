@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\Interface_Ejercicio5\Interface_Ejercicio5\bin\Debug\net8.0\Interface_Ejercicio5.exe
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\Interface_Ejercicio5\Interface_Ejercicio5\bin\Debug\net8.0\Interface_Ejercicio5.deps.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\Interface_Ejercicio5\Interface_Ejercicio5\bin\Debug\net8.0\Interface_Ejercicio5.runtimeconfig.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\Interface_Ejercicio5\Interface_Ejercicio5\bin\Debug\net8.0\Interface_Ejercicio5.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\Interface_Ejercicio5\Interface_Ejercicio5\bin\Debug\net8.0\Interface_Ejercicio5.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\Interface_Ejercicio5\Interface_Ejercicio5\obj\Debug\net8.0\Interface_Ejercicio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\Interface_Ejercicio5\Interface_Ejercicio5\obj\Debug\net8.0\Interface_Ejercicio5.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\Interface_Ejercicio5\Interface_Ejercicio5\obj\Debug\net8.0\Interface_Ejercicio5.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\Interface_Ejercicio5\Interface_Ejercicio5\obj\Debug\net8.0\Interface_Ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\Interface_Ejercicio5\Interface_Ejercicio5\obj\Debug\net8.0\Interface_Ejercicio5.sourcelink.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\Interface_Ejercicio5\Interface_Ejercicio5\obj\Debug\net8.0\Interface_Ejercicio5.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\Interface_Ejercicio5\Interface_Ejercicio5\obj\Debug\net8.0\refint\Interface_Ejercicio5.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\Interface_Ejercicio5\Interface_Ejercicio5\obj\Debug\net8.0\Interface_Ejercicio5.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\Interface_Ejercicio5\Interface_Ejercicio5\obj\Debug\net8.0\Interface_Ejercicio5.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Clases\Interface_Ejercicio5\Interface_Ejercicio5\obj\Debug\net8.0\ref\Interface_Ejercicio5.dll

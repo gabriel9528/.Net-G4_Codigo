@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\9.Abstraccion\\Ejercicio7_Abstraccion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE418C3-BA42-4BC2-B155-F6F42D7E6042}|Ejercicio con Clases\\Ejercicio con Clases.csproj|c:\\diskd\\codigotecsup\\c#\\poo\\9.abstraccion\\ejercicio7_abstraccion\\ejercicio con clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE418C3-BA42-4BC2-B155-F6F42D7E6042}|Ejercicio con Clases\\Ejercicio con Clases.csproj|solutionrelative:ejercicio con clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE418C3-BA42-4BC2-B155-F6F42D7E6042}|Ejercicio con Clases\\Ejercicio con Clases.csproj|c:\\diskd\\codigotecsup\\c#\\poo\\9.abstraccion\\ejercicio7_abstraccion\\ejercicio con clases\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE418C3-BA42-4BC2-B155-F6F42D7E6042}|Ejercicio con Clases\\Ejercicio con Clases.csproj|solutionrelative:ejercicio con clases\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE418C3-BA42-4BC2-B155-F6F42D7E6042}|Ejercicio con Clases\\Ejercicio con Clases.csproj|c:\\diskd\\codigotecsup\\c#\\poo\\9.abstraccion\\ejercicio7_abstraccion\\ejercicio con clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE418C3-BA42-4BC2-B155-F6F42D7E6042}|Ejercicio con Clases\\Ejercicio con Clases.csproj|solutionrelative:ejercicio con clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\9.Abstraccion\\Ejercicio7_Abstraccion\\Ejercicio con Clases\\Banco.cs",
+              "RelativeDocumentMoniker": "Ejercicio con Clases\\Banco.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\9.Abstraccion\\Ejercicio7_Abstraccion\\Ejercicio con Clases\\Banco.cs",
+              "RelativeToolTip": "Ejercicio con Clases\\Banco.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T02:14:26.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\9.Abstraccion\\Ejercicio7_Abstraccion\\Ejercicio con Clases\\Cliente.cs",
+              "RelativeDocumentMoniker": "Ejercicio con Clases\\Cliente.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\9.Abstraccion\\Ejercicio7_Abstraccion\\Ejercicio con Clases\\Cliente.cs",
+              "RelativeToolTip": "Ejercicio con Clases\\Cliente.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T02:13:19.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\9.Abstraccion\\Ejercicio7_Abstraccion\\Ejercicio con Clases\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio con Clases\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\9.Abstraccion\\Ejercicio7_Abstraccion\\Ejercicio con Clases\\Program.cs",
+              "RelativeToolTip": "Ejercicio con Clases\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T02:11:54.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

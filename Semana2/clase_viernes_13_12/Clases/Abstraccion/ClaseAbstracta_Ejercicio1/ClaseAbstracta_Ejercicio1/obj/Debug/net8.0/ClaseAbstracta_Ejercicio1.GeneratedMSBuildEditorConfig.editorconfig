@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ClaseAbstracta_Ejercicio1
+build_property.ProjectDir = C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana2\clase_viernes_13_12\Material_Repaso\ClaseAbstracta_Ejercicio1\ClaseAbstracta_Ejercicio1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_viernes_13_12\\Clases\\ClaseAbstracta_Ejercicio3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42729E03-A559-4D50-9179-94A4DB3B1367}|ClaseAbstracta_Ejercicio3\\ClaseAbstracta_Ejercicio3.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana2\\clase_viernes_13_12\\clases\\claseabstracta_ejercicio3\\claseabstracta_ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42729E03-A559-4D50-9179-94A4DB3B1367}|ClaseAbstracta_Ejercicio3\\ClaseAbstracta_Ejercicio3.csproj|solutionrelative:claseabstracta_ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42729E03-A559-4D50-9179-94A4DB3B1367}|ClaseAbstracta_Ejercicio3\\ClaseAbstracta_Ejercicio3.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana2\\clase_viernes_13_12\\clases\\claseabstracta_ejercicio3\\claseabstracta_ejercicio3\\motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42729E03-A559-4D50-9179-94A4DB3B1367}|ClaseAbstracta_Ejercicio3\\ClaseAbstracta_Ejercicio3.csproj|solutionrelative:claseabstracta_ejercicio3\\motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42729E03-A559-4D50-9179-94A4DB3B1367}|ClaseAbstracta_Ejercicio3\\ClaseAbstracta_Ejercicio3.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana2\\clase_viernes_13_12\\clases\\claseabstracta_ejercicio3\\claseabstracta_ejercicio3\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42729E03-A559-4D50-9179-94A4DB3B1367}|ClaseAbstracta_Ejercicio3\\ClaseAbstracta_Ejercicio3.csproj|solutionrelative:claseabstracta_ejercicio3\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42729E03-A559-4D50-9179-94A4DB3B1367}|ClaseAbstracta_Ejercicio3\\ClaseAbstracta_Ejercicio3.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana2\\clase_viernes_13_12\\clases\\claseabstracta_ejercicio3\\claseabstracta_ejercicio3\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42729E03-A559-4D50-9179-94A4DB3B1367}|ClaseAbstracta_Ejercicio3\\ClaseAbstracta_Ejercicio3.csproj|solutionrelative:claseabstracta_ejercicio3\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42729E03-A559-4D50-9179-94A4DB3B1367}|ClaseAbstracta_Ejercicio3\\ClaseAbstracta_Ejercicio3.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana2\\clase_viernes_13_12\\clases\\claseabstracta_ejercicio3\\claseabstracta_ejercicio3\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42729E03-A559-4D50-9179-94A4DB3B1367}|ClaseAbstracta_Ejercicio3\\ClaseAbstracta_Ejercicio3.csproj|solutionrelative:claseabstracta_ejercicio3\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Camion.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_viernes_13_12\\Clases\\ClaseAbstracta_Ejercicio3\\ClaseAbstracta_Ejercicio3\\Camion.cs",
+              "RelativeDocumentMoniker": "ClaseAbstracta_Ejercicio3\\Camion.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_viernes_13_12\\Clases\\ClaseAbstracta_Ejercicio3\\ClaseAbstracta_Ejercicio3\\Camion.cs",
+              "RelativeToolTip": "ClaseAbstracta_Ejercicio3\\Camion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:03:54.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Motocicleta.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_viernes_13_12\\Clases\\ClaseAbstracta_Ejercicio3\\ClaseAbstracta_Ejercicio3\\Motocicleta.cs",
+              "RelativeDocumentMoniker": "ClaseAbstracta_Ejercicio3\\Motocicleta.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_viernes_13_12\\Clases\\ClaseAbstracta_Ejercicio3\\ClaseAbstracta_Ejercicio3\\Motocicleta.cs",
+              "RelativeToolTip": "ClaseAbstracta_Ejercicio3\\Motocicleta.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBwAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:03:46.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Coche.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_viernes_13_12\\Clases\\ClaseAbstracta_Ejercicio3\\ClaseAbstracta_Ejercicio3\\Coche.cs",
+              "RelativeDocumentMoniker": "ClaseAbstracta_Ejercicio3\\Coche.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_viernes_13_12\\Clases\\ClaseAbstracta_Ejercicio3\\ClaseAbstracta_Ejercicio3\\Coche.cs",
+              "RelativeToolTip": "ClaseAbstracta_Ejercicio3\\Coche.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:03:37.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_viernes_13_12\\Clases\\ClaseAbstracta_Ejercicio3\\ClaseAbstracta_Ejercicio3\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "ClaseAbstracta_Ejercicio3\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_viernes_13_12\\Clases\\ClaseAbstracta_Ejercicio3\\ClaseAbstracta_Ejercicio3\\Vehiculo.cs",
+              "RelativeToolTip": "ClaseAbstracta_Ejercicio3\\Vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:01:21.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_viernes_13_12\\Clases\\ClaseAbstracta_Ejercicio3\\ClaseAbstracta_Ejercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "ClaseAbstracta_Ejercicio3\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_viernes_13_12\\Clases\\ClaseAbstracta_Ejercicio3\\ClaseAbstracta_Ejercicio3\\Program.cs",
+              "RelativeToolTip": "ClaseAbstracta_Ejercicio3\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T00:58:56.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

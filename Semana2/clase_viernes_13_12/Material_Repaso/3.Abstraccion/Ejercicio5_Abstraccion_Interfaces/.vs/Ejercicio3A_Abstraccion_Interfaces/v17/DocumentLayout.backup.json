@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio5_Abstraccion_Interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42E43577-DB87-49ED-A3F1-2E69D653D648}|Ejercicio3A_Abstraccion_Interfaces\\Ejercicio3A_Abstraccion_Interfaces.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase3\\3.abstraccion\\ejercicio5_abstraccion_interfaces\\ejercicio3a_abstraccion_interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E43577-DB87-49ED-A3F1-2E69D653D648}|Ejercicio3A_Abstraccion_Interfaces\\Ejercicio3A_Abstraccion_Interfaces.csproj|solutionrelative:ejercicio3a_abstraccion_interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E43577-DB87-49ED-A3F1-2E69D653D648}|Ejercicio3A_Abstraccion_Interfaces\\Ejercicio3A_Abstraccion_Interfaces.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase3\\3.abstraccion\\ejercicio5_abstraccion_interfaces\\ejercicio3a_abstraccion_interfaces\\tarjetacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E43577-DB87-49ED-A3F1-2E69D653D648}|Ejercicio3A_Abstraccion_Interfaces\\Ejercicio3A_Abstraccion_Interfaces.csproj|solutionrelative:ejercicio3a_abstraccion_interfaces\\tarjetacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E43577-DB87-49ED-A3F1-2E69D653D648}|Ejercicio3A_Abstraccion_Interfaces\\Ejercicio3A_Abstraccion_Interfaces.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase3\\3.abstraccion\\ejercicio5_abstraccion_interfaces\\ejercicio3a_abstraccion_interfaces\\transferenciabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E43577-DB87-49ED-A3F1-2E69D653D648}|Ejercicio3A_Abstraccion_Interfaces\\Ejercicio3A_Abstraccion_Interfaces.csproj|solutionrelative:ejercicio3a_abstraccion_interfaces\\transferenciabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E43577-DB87-49ED-A3F1-2E69D653D648}|Ejercicio3A_Abstraccion_Interfaces\\Ejercicio3A_Abstraccion_Interfaces.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase3\\3.abstraccion\\ejercicio5_abstraccion_interfaces\\ejercicio3a_abstraccion_interfaces\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E43577-DB87-49ED-A3F1-2E69D653D648}|Ejercicio3A_Abstraccion_Interfaces\\Ejercicio3A_Abstraccion_Interfaces.csproj|solutionrelative:ejercicio3a_abstraccion_interfaces\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E43577-DB87-49ED-A3F1-2E69D653D648}|Ejercicio3A_Abstraccion_Interfaces\\Ejercicio3A_Abstraccion_Interfaces.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase3\\3.abstraccion\\ejercicio5_abstraccion_interfaces\\ejercicio3a_abstraccion_interfaces\\ipago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E43577-DB87-49ED-A3F1-2E69D653D648}|Ejercicio3A_Abstraccion_Interfaces\\Ejercicio3A_Abstraccion_Interfaces.csproj|solutionrelative:ejercicio3a_abstraccion_interfaces\\ipago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransferenciaBancaria.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio5_Abstraccion_Interfaces\\Ejercicio3A_Abstraccion_Interfaces\\TransferenciaBancaria.cs",
+              "RelativeDocumentMoniker": "Ejercicio3A_Abstraccion_Interfaces\\TransferenciaBancaria.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio5_Abstraccion_Interfaces\\Ejercicio3A_Abstraccion_Interfaces\\TransferenciaBancaria.cs",
+              "RelativeToolTip": "Ejercicio3A_Abstraccion_Interfaces\\TransferenciaBancaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T23:38:09.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PayPal.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio5_Abstraccion_Interfaces\\Ejercicio3A_Abstraccion_Interfaces\\PayPal.cs",
+              "RelativeDocumentMoniker": "Ejercicio3A_Abstraccion_Interfaces\\PayPal.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio5_Abstraccion_Interfaces\\Ejercicio3A_Abstraccion_Interfaces\\PayPal.cs",
+              "RelativeToolTip": "Ejercicio3A_Abstraccion_Interfaces\\PayPal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T23:37:39.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TarjetaCredito.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio5_Abstraccion_Interfaces\\Ejercicio3A_Abstraccion_Interfaces\\TarjetaCredito.cs",
+              "RelativeDocumentMoniker": "Ejercicio3A_Abstraccion_Interfaces\\TarjetaCredito.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio5_Abstraccion_Interfaces\\Ejercicio3A_Abstraccion_Interfaces\\TarjetaCredito.cs",
+              "RelativeToolTip": "Ejercicio3A_Abstraccion_Interfaces\\TarjetaCredito.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T23:36:59.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPago.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio5_Abstraccion_Interfaces\\Ejercicio3A_Abstraccion_Interfaces\\IPago.cs",
+              "RelativeDocumentMoniker": "Ejercicio3A_Abstraccion_Interfaces\\IPago.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio5_Abstraccion_Interfaces\\Ejercicio3A_Abstraccion_Interfaces\\IPago.cs",
+              "RelativeToolTip": "Ejercicio3A_Abstraccion_Interfaces\\IPago.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T23:36:27.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio5_Abstraccion_Interfaces\\Ejercicio3A_Abstraccion_Interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio3A_Abstraccion_Interfaces\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio5_Abstraccion_Interfaces\\Ejercicio3A_Abstraccion_Interfaces\\Program.cs",
+              "RelativeToolTip": "Ejercicio3A_Abstraccion_Interfaces\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T23:36:05.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

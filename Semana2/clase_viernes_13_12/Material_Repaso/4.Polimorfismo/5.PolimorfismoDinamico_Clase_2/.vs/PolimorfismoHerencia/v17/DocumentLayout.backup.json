@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\5.PolimorfismoDinamico_Clase_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48117A50-1E51-4563-8EE0-6FAE8A7A0DB3}|PolimorfismoHerencia\\PolimorfismoHerencia.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase3\\4.polimorfismo\\5.polimorfismodinamico_clase_2\\polimorfismoherencia\\inmueble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48117A50-1E51-4563-8EE0-6FAE8A7A0DB3}|PolimorfismoHerencia\\PolimorfismoHerencia.csproj|solutionrelative:polimorfismoherencia\\inmueble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48117A50-1E51-4563-8EE0-6FAE8A7A0DB3}|PolimorfismoHerencia\\PolimorfismoHerencia.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase3\\4.polimorfismo\\5.polimorfismodinamico_clase_2\\polimorfismoherencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48117A50-1E51-4563-8EE0-6FAE8A7A0DB3}|PolimorfismoHerencia\\PolimorfismoHerencia.csproj|solutionrelative:polimorfismoherencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48117A50-1E51-4563-8EE0-6FAE8A7A0DB3}|PolimorfismoHerencia\\PolimorfismoHerencia.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase3\\4.polimorfismo\\5.polimorfismodinamico_clase_2\\polimorfismoherencia\\terreno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48117A50-1E51-4563-8EE0-6FAE8A7A0DB3}|PolimorfismoHerencia\\PolimorfismoHerencia.csproj|solutionrelative:polimorfismoherencia\\terreno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48117A50-1E51-4563-8EE0-6FAE8A7A0DB3}|PolimorfismoHerencia\\PolimorfismoHerencia.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase3\\4.polimorfismo\\5.polimorfismodinamico_clase_2\\polimorfismoherencia\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48117A50-1E51-4563-8EE0-6FAE8A7A0DB3}|PolimorfismoHerencia\\PolimorfismoHerencia.csproj|solutionrelative:polimorfismoherencia\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48117A50-1E51-4563-8EE0-6FAE8A7A0DB3}|PolimorfismoHerencia\\PolimorfismoHerencia.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase3\\4.polimorfismo\\5.polimorfismodinamico_clase_2\\polimorfismoherencia\\casa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48117A50-1E51-4563-8EE0-6FAE8A7A0DB3}|PolimorfismoHerencia\\PolimorfismoHerencia.csproj|solutionrelative:polimorfismoherencia\\casa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Terreno.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\5.PolimorfismoDinamico_Clase_2\\PolimorfismoHerencia\\Terreno.cs",
+              "RelativeDocumentMoniker": "PolimorfismoHerencia\\Terreno.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\5.PolimorfismoDinamico_Clase_2\\PolimorfismoHerencia\\Terreno.cs",
+              "RelativeToolTip": "PolimorfismoHerencia\\Terreno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:22:06.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\5.PolimorfismoDinamico_Clase_2\\PolimorfismoHerencia\\Departamento.cs",
+              "RelativeDocumentMoniker": "PolimorfismoHerencia\\Departamento.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\5.PolimorfismoDinamico_Clase_2\\PolimorfismoHerencia\\Departamento.cs",
+              "RelativeToolTip": "PolimorfismoHerencia\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:21:25.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Casa.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\5.PolimorfismoDinamico_Clase_2\\PolimorfismoHerencia\\Casa.cs",
+              "RelativeDocumentMoniker": "PolimorfismoHerencia\\Casa.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\5.PolimorfismoDinamico_Clase_2\\PolimorfismoHerencia\\Casa.cs",
+              "RelativeToolTip": "PolimorfismoHerencia\\Casa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:20:50.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inmueble.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\5.PolimorfismoDinamico_Clase_2\\PolimorfismoHerencia\\Inmueble.cs",
+              "RelativeDocumentMoniker": "PolimorfismoHerencia\\Inmueble.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\5.PolimorfismoDinamico_Clase_2\\PolimorfismoHerencia\\Inmueble.cs",
+              "RelativeToolTip": "PolimorfismoHerencia\\Inmueble.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:19:56.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\5.PolimorfismoDinamico_Clase_2\\PolimorfismoHerencia\\Program.cs",
+              "RelativeDocumentMoniker": "PolimorfismoHerencia\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\5.PolimorfismoDinamico_Clase_2\\PolimorfismoHerencia\\Program.cs",
+              "RelativeToolTip": "PolimorfismoHerencia\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:19:21.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

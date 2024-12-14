@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Herencia\\Clases\\Herencia_Ejercicio4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDCDFC4-2E6D-42B0-9EE3-74FC8C832B3A}|Herencia_Ejercicio4\\Herencia_Ejercicio4.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana2\\clase_miercoles_11_12\\clases\\herencia\\clases\\herencia_ejercicio4\\herencia_ejercicio4\\cheff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDCDFC4-2E6D-42B0-9EE3-74FC8C832B3A}|Herencia_Ejercicio4\\Herencia_Ejercicio4.csproj|solutionrelative:herencia_ejercicio4\\cheff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDCDFC4-2E6D-42B0-9EE3-74FC8C832B3A}|Herencia_Ejercicio4\\Herencia_Ejercicio4.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana2\\clase_miercoles_11_12\\clases\\herencia\\clases\\herencia_ejercicio4\\herencia_ejercicio4\\cocinero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDCDFC4-2E6D-42B0-9EE3-74FC8C832B3A}|Herencia_Ejercicio4\\Herencia_Ejercicio4.csproj|solutionrelative:herencia_ejercicio4\\cocinero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDCDFC4-2E6D-42B0-9EE3-74FC8C832B3A}|Herencia_Ejercicio4\\Herencia_Ejercicio4.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana2\\clase_miercoles_11_12\\clases\\herencia\\clases\\herencia_ejercicio4\\herencia_ejercicio4\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDCDFC4-2E6D-42B0-9EE3-74FC8C832B3A}|Herencia_Ejercicio4\\Herencia_Ejercicio4.csproj|solutionrelative:herencia_ejercicio4\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDCDFC4-2E6D-42B0-9EE3-74FC8C832B3A}|Herencia_Ejercicio4\\Herencia_Ejercicio4.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana2\\clase_miercoles_11_12\\clases\\herencia\\clases\\herencia_ejercicio4\\herencia_ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDCDFC4-2E6D-42B0-9EE3-74FC8C832B3A}|Herencia_Ejercicio4\\Herencia_Ejercicio4.csproj|solutionrelative:herencia_ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDCDFC4-2E6D-42B0-9EE3-74FC8C832B3A}|Herencia_Ejercicio4\\Herencia_Ejercicio4.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana2\\clase_miercoles_11_12\\clases\\herencia\\clases\\herencia_ejercicio4\\herencia_ejercicio4\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDCDFC4-2E6D-42B0-9EE3-74FC8C832B3A}|Herencia_Ejercicio4\\Herencia_Ejercicio4.csproj|solutionrelative:herencia_ejercicio4\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDCDFC4-2E6D-42B0-9EE3-74FC8C832B3A}|Herencia_Ejercicio4\\Herencia_Ejercicio4.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana2\\clase_miercoles_11_12\\clases\\herencia\\clases\\herencia_ejercicio4\\herencia_ejercicio4\\camarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDCDFC4-2E6D-42B0-9EE3-74FC8C832B3A}|Herencia_Ejercicio4\\Herencia_Ejercicio4.csproj|solutionrelative:herencia_ejercicio4\\camarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cheff.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Herencia\\Clases\\Herencia_Ejercicio4\\Herencia_Ejercicio4\\Cheff.cs",
+              "RelativeDocumentMoniker": "Herencia_Ejercicio4\\Cheff.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Herencia\\Clases\\Herencia_Ejercicio4\\Herencia_Ejercicio4\\Cheff.cs",
+              "RelativeToolTip": "Herencia_Ejercicio4\\Cheff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:22:46.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Camarero.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Herencia\\Clases\\Herencia_Ejercicio4\\Herencia_Ejercicio4\\Camarero.cs",
+              "RelativeDocumentMoniker": "Herencia_Ejercicio4\\Camarero.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Herencia\\Clases\\Herencia_Ejercicio4\\Herencia_Ejercicio4\\Camarero.cs",
+              "RelativeToolTip": "Herencia_Ejercicio4\\Camarero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:02:53.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Herencia\\Clases\\Herencia_Ejercicio4\\Herencia_Ejercicio4\\Gerente.cs",
+              "RelativeDocumentMoniker": "Herencia_Ejercicio4\\Gerente.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Herencia\\Clases\\Herencia_Ejercicio4\\Herencia_Ejercicio4\\Gerente.cs",
+              "RelativeToolTip": "Herencia_Ejercicio4\\Gerente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T00:46:56.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cocinero.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Herencia\\Clases\\Herencia_Ejercicio4\\Herencia_Ejercicio4\\Cocinero.cs",
+              "RelativeDocumentMoniker": "Herencia_Ejercicio4\\Cocinero.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Herencia\\Clases\\Herencia_Ejercicio4\\Herencia_Ejercicio4\\Cocinero.cs",
+              "RelativeToolTip": "Herencia_Ejercicio4\\Cocinero.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T00:44:29.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Herencia\\Clases\\Herencia_Ejercicio4\\Herencia_Ejercicio4\\Empleado.cs",
+              "RelativeDocumentMoniker": "Herencia_Ejercicio4\\Empleado.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Herencia\\Clases\\Herencia_Ejercicio4\\Herencia_Ejercicio4\\Empleado.cs",
+              "RelativeToolTip": "Herencia_Ejercicio4\\Empleado.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T00:36:54.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Herencia\\Clases\\Herencia_Ejercicio4\\Herencia_Ejercicio4\\Program.cs",
+              "RelativeDocumentMoniker": "Herencia_Ejercicio4\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_Miercoles_11_12\\Clases\\Herencia\\Clases\\Herencia_Ejercicio4\\Herencia_Ejercicio4\\Program.cs",
+              "RelativeToolTip": "Herencia_Ejercicio4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T00:33:26.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

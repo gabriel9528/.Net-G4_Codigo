@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\8.PolimorfismoDinamico_ Interfaces_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE66F837-C8A2-492D-949C-9E8BC3561936}|PolimorfismoDinamico_ Interfaces_2\\PolimorfismoDinamico_ Interfaces_2.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase3\\4.polimorfismo\\8.polimorfismodinamico_ interfaces_2\\polimorfismodinamico_ interfaces_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE66F837-C8A2-492D-949C-9E8BC3561936}|PolimorfismoDinamico_ Interfaces_2\\PolimorfismoDinamico_ Interfaces_2.csproj|solutionrelative:polimorfismodinamico_ interfaces_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE66F837-C8A2-492D-949C-9E8BC3561936}|PolimorfismoDinamico_ Interfaces_2\\PolimorfismoDinamico_ Interfaces_2.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase3\\4.polimorfismo\\8.polimorfismodinamico_ interfaces_2\\polimorfismodinamico_ interfaces_2\\transferenciabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE66F837-C8A2-492D-949C-9E8BC3561936}|PolimorfismoDinamico_ Interfaces_2\\PolimorfismoDinamico_ Interfaces_2.csproj|solutionrelative:polimorfismodinamico_ interfaces_2\\transferenciabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE66F837-C8A2-492D-949C-9E8BC3561936}|PolimorfismoDinamico_ Interfaces_2\\PolimorfismoDinamico_ Interfaces_2.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase3\\4.polimorfismo\\8.polimorfismodinamico_ interfaces_2\\polimorfismodinamico_ interfaces_2\\tarjetacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE66F837-C8A2-492D-949C-9E8BC3561936}|PolimorfismoDinamico_ Interfaces_2\\PolimorfismoDinamico_ Interfaces_2.csproj|solutionrelative:polimorfismodinamico_ interfaces_2\\tarjetacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE66F837-C8A2-492D-949C-9E8BC3561936}|PolimorfismoDinamico_ Interfaces_2\\PolimorfismoDinamico_ Interfaces_2.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase3\\4.polimorfismo\\8.polimorfismodinamico_ interfaces_2\\polimorfismodinamico_ interfaces_2\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE66F837-C8A2-492D-949C-9E8BC3561936}|PolimorfismoDinamico_ Interfaces_2\\PolimorfismoDinamico_ Interfaces_2.csproj|solutionrelative:polimorfismodinamico_ interfaces_2\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE66F837-C8A2-492D-949C-9E8BC3561936}|PolimorfismoDinamico_ Interfaces_2\\PolimorfismoDinamico_ Interfaces_2.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase3\\4.polimorfismo\\8.polimorfismodinamico_ interfaces_2\\polimorfismodinamico_ interfaces_2\\ipago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE66F837-C8A2-492D-949C-9E8BC3561936}|PolimorfismoDinamico_ Interfaces_2\\PolimorfismoDinamico_ Interfaces_2.csproj|solutionrelative:polimorfismodinamico_ interfaces_2\\ipago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransferenciaBancaria.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\8.PolimorfismoDinamico_ Interfaces_2\\PolimorfismoDinamico_ Interfaces_2\\TransferenciaBancaria.cs",
+              "RelativeDocumentMoniker": "PolimorfismoDinamico_ Interfaces_2\\TransferenciaBancaria.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\8.PolimorfismoDinamico_ Interfaces_2\\PolimorfismoDinamico_ Interfaces_2\\TransferenciaBancaria.cs",
+              "RelativeToolTip": "PolimorfismoDinamico_ Interfaces_2\\TransferenciaBancaria.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:22:57.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PayPal.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\8.PolimorfismoDinamico_ Interfaces_2\\PolimorfismoDinamico_ Interfaces_2\\PayPal.cs",
+              "RelativeDocumentMoniker": "PolimorfismoDinamico_ Interfaces_2\\PayPal.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\8.PolimorfismoDinamico_ Interfaces_2\\PolimorfismoDinamico_ Interfaces_2\\PayPal.cs",
+              "RelativeToolTip": "PolimorfismoDinamico_ Interfaces_2\\PayPal.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:22:24.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TarjetaCredito.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\8.PolimorfismoDinamico_ Interfaces_2\\PolimorfismoDinamico_ Interfaces_2\\TarjetaCredito.cs",
+              "RelativeDocumentMoniker": "PolimorfismoDinamico_ Interfaces_2\\TarjetaCredito.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\8.PolimorfismoDinamico_ Interfaces_2\\PolimorfismoDinamico_ Interfaces_2\\TarjetaCredito.cs",
+              "RelativeToolTip": "PolimorfismoDinamico_ Interfaces_2\\TarjetaCredito.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:21:24.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPago.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\8.PolimorfismoDinamico_ Interfaces_2\\PolimorfismoDinamico_ Interfaces_2\\IPago.cs",
+              "RelativeDocumentMoniker": "PolimorfismoDinamico_ Interfaces_2\\IPago.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\8.PolimorfismoDinamico_ Interfaces_2\\PolimorfismoDinamico_ Interfaces_2\\IPago.cs",
+              "RelativeToolTip": "PolimorfismoDinamico_ Interfaces_2\\IPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:20:47.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\8.PolimorfismoDinamico_ Interfaces_2\\PolimorfismoDinamico_ Interfaces_2\\Program.cs",
+              "RelativeDocumentMoniker": "PolimorfismoDinamico_ Interfaces_2\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\8.PolimorfismoDinamico_ Interfaces_2\\PolimorfismoDinamico_ Interfaces_2\\Program.cs",
+              "RelativeToolTip": "PolimorfismoDinamico_ Interfaces_2\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA6wBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:20:04.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

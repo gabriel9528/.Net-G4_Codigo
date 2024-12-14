@@ -1,0 +1,42 @@
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\PolimorfismoInterfaces\PolimorfismoInterfaces\bin\Debug\net8.0\PolimorfismoInterfaces.exe
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\PolimorfismoInterfaces\PolimorfismoInterfaces\bin\Debug\net8.0\PolimorfismoInterfaces.deps.json
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\PolimorfismoInterfaces\PolimorfismoInterfaces\bin\Debug\net8.0\PolimorfismoInterfaces.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\PolimorfismoInterfaces\PolimorfismoInterfaces\bin\Debug\net8.0\PolimorfismoInterfaces.dll
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\PolimorfismoInterfaces\PolimorfismoInterfaces\bin\Debug\net8.0\PolimorfismoInterfaces.pdb
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\PolimorfismoInterfaces\PolimorfismoInterfaces\obj\Debug\net8.0\PolimorfismoInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\PolimorfismoInterfaces\PolimorfismoInterfaces\obj\Debug\net8.0\PolimorfismoInterfaces.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\PolimorfismoInterfaces\PolimorfismoInterfaces\obj\Debug\net8.0\PolimorfismoInterfaces.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\PolimorfismoInterfaces\PolimorfismoInterfaces\obj\Debug\net8.0\PolimorfismoInterfaces.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\PolimorfismoInterfaces\PolimorfismoInterfaces\obj\Debug\net8.0\PolimorfismoInterfaces.dll
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\PolimorfismoInterfaces\PolimorfismoInterfaces\obj\Debug\net8.0\refint\PolimorfismoInterfaces.dll
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\PolimorfismoInterfaces\PolimorfismoInterfaces\obj\Debug\net8.0\PolimorfismoInterfaces.pdb
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\PolimorfismoInterfaces\PolimorfismoInterfaces\obj\Debug\net8.0\PolimorfismoInterfaces.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\PolimorfismoInterfaces\PolimorfismoInterfaces\obj\Debug\net8.0\ref\PolimorfismoInterfaces.dll
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\7.PolimorfismoDinamico_ Interfaces_1\PolimorfismoInterfaces\bin\Debug\net8.0\PolimorfismoInterfaces.exe
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\7.PolimorfismoDinamico_ Interfaces_1\PolimorfismoInterfaces\bin\Debug\net8.0\PolimorfismoInterfaces.deps.json
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\7.PolimorfismoDinamico_ Interfaces_1\PolimorfismoInterfaces\bin\Debug\net8.0\PolimorfismoInterfaces.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\7.PolimorfismoDinamico_ Interfaces_1\PolimorfismoInterfaces\bin\Debug\net8.0\PolimorfismoInterfaces.dll
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\7.PolimorfismoDinamico_ Interfaces_1\PolimorfismoInterfaces\bin\Debug\net8.0\PolimorfismoInterfaces.pdb
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\7.PolimorfismoDinamico_ Interfaces_1\PolimorfismoInterfaces\obj\Debug\net8.0\PolimorfismoInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\7.PolimorfismoDinamico_ Interfaces_1\PolimorfismoInterfaces\obj\Debug\net8.0\PolimorfismoInterfaces.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\7.PolimorfismoDinamico_ Interfaces_1\PolimorfismoInterfaces\obj\Debug\net8.0\PolimorfismoInterfaces.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\7.PolimorfismoDinamico_ Interfaces_1\PolimorfismoInterfaces\obj\Debug\net8.0\PolimorfismoInterfaces.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\7.PolimorfismoDinamico_ Interfaces_1\PolimorfismoInterfaces\obj\Debug\net8.0\PolimorfismoInterfaces.dll
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\7.PolimorfismoDinamico_ Interfaces_1\PolimorfismoInterfaces\obj\Debug\net8.0\refint\PolimorfismoInterfaces.dll
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\7.PolimorfismoDinamico_ Interfaces_1\PolimorfismoInterfaces\obj\Debug\net8.0\PolimorfismoInterfaces.pdb
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\7.PolimorfismoDinamico_ Interfaces_1\PolimorfismoInterfaces\obj\Debug\net8.0\PolimorfismoInterfaces.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\POO\7.Polimorfismo\7.PolimorfismoDinamico_ Interfaces_1\PolimorfismoInterfaces\obj\Debug\net8.0\ref\PolimorfismoInterfaces.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase3\4.Polimorfismo\7.PolimorfismoDinamico_ Interfaces_1\PolimorfismoInterfaces\bin\Debug\net8.0\PolimorfismoInterfaces.exe
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase3\4.Polimorfismo\7.PolimorfismoDinamico_ Interfaces_1\PolimorfismoInterfaces\bin\Debug\net8.0\PolimorfismoInterfaces.deps.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase3\4.Polimorfismo\7.PolimorfismoDinamico_ Interfaces_1\PolimorfismoInterfaces\bin\Debug\net8.0\PolimorfismoInterfaces.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase3\4.Polimorfismo\7.PolimorfismoDinamico_ Interfaces_1\PolimorfismoInterfaces\bin\Debug\net8.0\PolimorfismoInterfaces.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase3\4.Polimorfismo\7.PolimorfismoDinamico_ Interfaces_1\PolimorfismoInterfaces\bin\Debug\net8.0\PolimorfismoInterfaces.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase3\4.Polimorfismo\7.PolimorfismoDinamico_ Interfaces_1\PolimorfismoInterfaces\obj\Debug\net8.0\PolimorfismoInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase3\4.Polimorfismo\7.PolimorfismoDinamico_ Interfaces_1\PolimorfismoInterfaces\obj\Debug\net8.0\PolimorfismoInterfaces.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase3\4.Polimorfismo\7.PolimorfismoDinamico_ Interfaces_1\PolimorfismoInterfaces\obj\Debug\net8.0\PolimorfismoInterfaces.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase3\4.Polimorfismo\7.PolimorfismoDinamico_ Interfaces_1\PolimorfismoInterfaces\obj\Debug\net8.0\PolimorfismoInterfaces.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase3\4.Polimorfismo\7.PolimorfismoDinamico_ Interfaces_1\PolimorfismoInterfaces\obj\Debug\net8.0\PolimorfismoInterfaces.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase3\4.Polimorfismo\7.PolimorfismoDinamico_ Interfaces_1\PolimorfismoInterfaces\obj\Debug\net8.0\refint\PolimorfismoInterfaces.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase3\4.Polimorfismo\7.PolimorfismoDinamico_ Interfaces_1\PolimorfismoInterfaces\obj\Debug\net8.0\PolimorfismoInterfaces.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase3\4.Polimorfismo\7.PolimorfismoDinamico_ Interfaces_1\PolimorfismoInterfaces\obj\Debug\net8.0\PolimorfismoInterfaces.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana2\clase3\4.Polimorfismo\7.PolimorfismoDinamico_ Interfaces_1\PolimorfismoInterfaces\obj\Debug\net8.0\ref\PolimorfismoInterfaces.dll

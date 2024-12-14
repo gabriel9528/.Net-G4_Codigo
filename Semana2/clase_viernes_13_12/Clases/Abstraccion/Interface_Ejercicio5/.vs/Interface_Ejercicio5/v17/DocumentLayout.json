@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_viernes_13_12\\Clases\\Interface_Ejercicio5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC0619C-35D5-40F4-A430-5D73F669F1F2}|Interface_Ejercicio5\\Interface_Ejercicio5.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana2\\clase_viernes_13_12\\clases\\interface_ejercicio5\\interface_ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC0619C-35D5-40F4-A430-5D73F669F1F2}|Interface_Ejercicio5\\Interface_Ejercicio5.csproj|solutionrelative:interface_ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC0619C-35D5-40F4-A430-5D73F669F1F2}|Interface_Ejercicio5\\Interface_Ejercicio5.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana2\\clase_viernes_13_12\\clases\\interface_ejercicio5\\interface_ejercicio5\\transferenciabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC0619C-35D5-40F4-A430-5D73F669F1F2}|Interface_Ejercicio5\\Interface_Ejercicio5.csproj|solutionrelative:interface_ejercicio5\\transferenciabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC0619C-35D5-40F4-A430-5D73F669F1F2}|Interface_Ejercicio5\\Interface_Ejercicio5.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana2\\clase_viernes_13_12\\clases\\interface_ejercicio5\\interface_ejercicio5\\tarjetacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC0619C-35D5-40F4-A430-5D73F669F1F2}|Interface_Ejercicio5\\Interface_Ejercicio5.csproj|solutionrelative:interface_ejercicio5\\tarjetacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC0619C-35D5-40F4-A430-5D73F669F1F2}|Interface_Ejercicio5\\Interface_Ejercicio5.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana2\\clase_viernes_13_12\\clases\\interface_ejercicio5\\interface_ejercicio5\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC0619C-35D5-40F4-A430-5D73F669F1F2}|Interface_Ejercicio5\\Interface_Ejercicio5.csproj|solutionrelative:interface_ejercicio5\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC0619C-35D5-40F4-A430-5D73F669F1F2}|Interface_Ejercicio5\\Interface_Ejercicio5.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana2\\clase_viernes_13_12\\clases\\interface_ejercicio5\\interface_ejercicio5\\ipago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC0619C-35D5-40F4-A430-5D73F669F1F2}|Interface_Ejercicio5\\Interface_Ejercicio5.csproj|solutionrelative:interface_ejercicio5\\ipago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransferenciaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_viernes_13_12\\Clases\\Interface_Ejercicio5\\Interface_Ejercicio5\\TransferenciaBancaria.cs",
+              "RelativeDocumentMoniker": "Interface_Ejercicio5\\TransferenciaBancaria.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_viernes_13_12\\Clases\\Interface_Ejercicio5\\Interface_Ejercicio5\\TransferenciaBancaria.cs",
+              "RelativeToolTip": "Interface_Ejercicio5\\TransferenciaBancaria.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:30:59.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PayPal.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_viernes_13_12\\Clases\\Interface_Ejercicio5\\Interface_Ejercicio5\\PayPal.cs",
+              "RelativeDocumentMoniker": "Interface_Ejercicio5\\PayPal.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_viernes_13_12\\Clases\\Interface_Ejercicio5\\Interface_Ejercicio5\\PayPal.cs",
+              "RelativeToolTip": "Interface_Ejercicio5\\PayPal.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:30:49.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TarjetaCredito.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_viernes_13_12\\Clases\\Interface_Ejercicio5\\Interface_Ejercicio5\\TarjetaCredito.cs",
+              "RelativeDocumentMoniker": "Interface_Ejercicio5\\TarjetaCredito.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_viernes_13_12\\Clases\\Interface_Ejercicio5\\Interface_Ejercicio5\\TarjetaCredito.cs",
+              "RelativeToolTip": "Interface_Ejercicio5\\TarjetaCredito.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:30:37.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPago.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_viernes_13_12\\Clases\\Interface_Ejercicio5\\Interface_Ejercicio5\\IPago.cs",
+              "RelativeDocumentMoniker": "Interface_Ejercicio5\\IPago.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_viernes_13_12\\Clases\\Interface_Ejercicio5\\Interface_Ejercicio5\\IPago.cs",
+              "RelativeToolTip": "Interface_Ejercicio5\\IPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:28:56.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_viernes_13_12\\Clases\\Interface_Ejercicio5\\Interface_Ejercicio5\\Program.cs",
+              "RelativeDocumentMoniker": "Interface_Ejercicio5\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana2\\clase_viernes_13_12\\Clases\\Interface_Ejercicio5\\Interface_Ejercicio5\\Program.cs",
+              "RelativeToolTip": "Interface_Ejercicio5\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:26:40.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

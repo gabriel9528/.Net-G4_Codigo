@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\9.Abstraccion\\Ejercicio8_ Abstraccion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47793CA2-6AF6-4F2A-9AF4-ADF1A37DFB95}|Ejercicio con Clases1\\Ejercicio con Clases1.csproj|c:\\diskd\\codigotecsup\\c#\\poo\\9.abstraccion\\ejercicio8_ abstraccion\\ejercicio con clases1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47793CA2-6AF6-4F2A-9AF4-ADF1A37DFB95}|Ejercicio con Clases1\\Ejercicio con Clases1.csproj|solutionrelative:ejercicio con clases1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47793CA2-6AF6-4F2A-9AF4-ADF1A37DFB95}|Ejercicio con Clases1\\Ejercicio con Clases1.csproj|c:\\diskd\\codigotecsup\\c#\\poo\\9.abstraccion\\ejercicio8_ abstraccion\\ejercicio con clases1\\juegodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47793CA2-6AF6-4F2A-9AF4-ADF1A37DFB95}|Ejercicio con Clases1\\Ejercicio con Clases1.csproj|solutionrelative:ejercicio con clases1\\juegodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47793CA2-6AF6-4F2A-9AF4-ADF1A37DFB95}|Ejercicio con Clases1\\Ejercicio con Clases1.csproj|c:\\diskd\\codigotecsup\\c#\\poo\\9.abstraccion\\ejercicio8_ abstraccion\\ejercicio con clases1\\dado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47793CA2-6AF6-4F2A-9AF4-ADF1A37DFB95}|Ejercicio con Clases1\\Ejercicio con Clases1.csproj|solutionrelative:ejercicio con clases1\\dado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JuegoDeDados.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\9.Abstraccion\\Ejercicio8_ Abstraccion\\Ejercicio con Clases1\\JuegoDeDados.cs",
+              "RelativeDocumentMoniker": "Ejercicio con Clases1\\JuegoDeDados.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\9.Abstraccion\\Ejercicio8_ Abstraccion\\Ejercicio con Clases1\\JuegoDeDados.cs",
+              "RelativeToolTip": "Ejercicio con Clases1\\JuegoDeDados.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T02:22:51.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dado.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\9.Abstraccion\\Ejercicio8_ Abstraccion\\Ejercicio con Clases1\\Dado.cs",
+              "RelativeDocumentMoniker": "Ejercicio con Clases1\\Dado.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\9.Abstraccion\\Ejercicio8_ Abstraccion\\Ejercicio con Clases1\\Dado.cs",
+              "RelativeToolTip": "Ejercicio con Clases1\\Dado.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T02:21:15.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\9.Abstraccion\\Ejercicio8_ Abstraccion\\Ejercicio con Clases1\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio con Clases1\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\POO\\9.Abstraccion\\Ejercicio8_ Abstraccion\\Ejercicio con Clases1\\Program.cs",
+              "RelativeToolTip": "Ejercicio con Clases1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T02:17:23.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

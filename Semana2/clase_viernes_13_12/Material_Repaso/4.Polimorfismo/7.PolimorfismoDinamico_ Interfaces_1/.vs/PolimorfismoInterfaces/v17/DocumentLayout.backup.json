@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\7.PolimorfismoDinamico_ Interfaces_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87AE5B82-0E3A-4769-9FA8-98088C7257EC}|PolimorfismoInterfaces\\PolimorfismoInterfaces.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase3\\4.polimorfismo\\7.polimorfismodinamico_ interfaces_1\\polimorfismointerfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AE5B82-0E3A-4769-9FA8-98088C7257EC}|PolimorfismoInterfaces\\PolimorfismoInterfaces.csproj|solutionrelative:polimorfismointerfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AE5B82-0E3A-4769-9FA8-98088C7257EC}|PolimorfismoInterfaces\\PolimorfismoInterfaces.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase3\\4.polimorfismo\\7.polimorfismodinamico_ interfaces_1\\polimorfismointerfaces\\ipersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AE5B82-0E3A-4769-9FA8-98088C7257EC}|PolimorfismoInterfaces\\PolimorfismoInterfaces.csproj|solutionrelative:polimorfismointerfaces\\ipersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AE5B82-0E3A-4769-9FA8-98088C7257EC}|PolimorfismoInterfaces\\PolimorfismoInterfaces.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase3\\4.polimorfismo\\7.polimorfismodinamico_ interfaces_1\\polimorfismointerfaces\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AE5B82-0E3A-4769-9FA8-98088C7257EC}|PolimorfismoInterfaces\\PolimorfismoInterfaces.csproj|solutionrelative:polimorfismointerfaces\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AE5B82-0E3A-4769-9FA8-98088C7257EC}|PolimorfismoInterfaces\\PolimorfismoInterfaces.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase3\\4.polimorfismo\\7.polimorfismodinamico_ interfaces_1\\polimorfismointerfaces\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AE5B82-0E3A-4769-9FA8-98088C7257EC}|PolimorfismoInterfaces\\PolimorfismoInterfaces.csproj|solutionrelative:polimorfismointerfaces\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\7.PolimorfismoDinamico_ Interfaces_1\\PolimorfismoInterfaces\\Empleado.cs",
+              "RelativeDocumentMoniker": "PolimorfismoInterfaces\\Empleado.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\7.PolimorfismoDinamico_ Interfaces_1\\PolimorfismoInterfaces\\Empleado.cs",
+              "RelativeToolTip": "PolimorfismoInterfaces\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:39:39.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\7.PolimorfismoDinamico_ Interfaces_1\\PolimorfismoInterfaces\\Alumno.cs",
+              "RelativeDocumentMoniker": "PolimorfismoInterfaces\\Alumno.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\7.PolimorfismoDinamico_ Interfaces_1\\PolimorfismoInterfaces\\Alumno.cs",
+              "RelativeToolTip": "PolimorfismoInterfaces\\Alumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:38:56.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPersona.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\7.PolimorfismoDinamico_ Interfaces_1\\PolimorfismoInterfaces\\IPersona.cs",
+              "RelativeDocumentMoniker": "PolimorfismoInterfaces\\IPersona.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\7.PolimorfismoDinamico_ Interfaces_1\\PolimorfismoInterfaces\\IPersona.cs",
+              "RelativeToolTip": "PolimorfismoInterfaces\\IPersona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:38:23.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\7.PolimorfismoDinamico_ Interfaces_1\\PolimorfismoInterfaces\\Program.cs",
+              "RelativeDocumentMoniker": "PolimorfismoInterfaces\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\4.Polimorfismo\\7.PolimorfismoDinamico_ Interfaces_1\\PolimorfismoInterfaces\\Program.cs",
+              "RelativeToolTip": "PolimorfismoInterfaces\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:37:37.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

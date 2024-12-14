@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio1_Abstraccion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC883E1-CD17-4F89-9047-C95734948928}|Ejercicio con Clases3\\Ejercicio con Clases3.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase3\\3.abstraccion\\ejercicio1_abstraccion\\ejercicio con clases3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC883E1-CD17-4F89-9047-C95734948928}|Ejercicio con Clases3\\Ejercicio con Clases3.csproj|solutionrelative:ejercicio con clases3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC883E1-CD17-4F89-9047-C95734948928}|Ejercicio con Clases3\\Ejercicio con Clases3.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase3\\3.abstraccion\\ejercicio1_abstraccion\\ejercicio con clases3\\productoelectronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC883E1-CD17-4F89-9047-C95734948928}|Ejercicio con Clases3\\Ejercicio con Clases3.csproj|solutionrelative:ejercicio con clases3\\productoelectronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC883E1-CD17-4F89-9047-C95734948928}|Ejercicio con Clases3\\Ejercicio con Clases3.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana2\\clase3\\3.abstraccion\\ejercicio1_abstraccion\\ejercicio con clases3\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC883E1-CD17-4F89-9047-C95734948928}|Ejercicio con Clases3\\Ejercicio con Clases3.csproj|solutionrelative:ejercicio con clases3\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoElectronico.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio1_Abstraccion\\Ejercicio con Clases3\\ProductoElectronico.cs",
+              "RelativeDocumentMoniker": "Ejercicio con Clases3\\ProductoElectronico.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio1_Abstraccion\\Ejercicio con Clases3\\ProductoElectronico.cs",
+              "RelativeToolTip": "Ejercicio con Clases3\\ProductoElectronico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:36:40.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio1_Abstraccion\\Ejercicio con Clases3\\Producto.cs",
+              "RelativeDocumentMoniker": "Ejercicio con Clases3\\Producto.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio1_Abstraccion\\Ejercicio con Clases3\\Producto.cs",
+              "RelativeToolTip": "Ejercicio con Clases3\\Producto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T02:45:13.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio1_Abstraccion\\Ejercicio con Clases3\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio con Clases3\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana2\\clase3\\3.Abstraccion\\Ejercicio1_Abstraccion\\Ejercicio con Clases3\\Program.cs*",
+              "RelativeToolTip": "Ejercicio con Clases3\\Program.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T02:41:38.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
