@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Lunes_16_12\\Clases\\SRP\\Ejercicio1\\SRP_After\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA368DBC-D657-4E04-904C-5496CB7F137C}|SRP_After\\SRP_After.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana3\\lunes_16_12\\clases\\srp\\ejercicio1\\srp_after\\srp_after\\validationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA368DBC-D657-4E04-904C-5496CB7F137C}|SRP_After\\SRP_After.csproj|solutionrelative:srp_after\\validationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA368DBC-D657-4E04-904C-5496CB7F137C}|SRP_After\\SRP_After.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana3\\lunes_16_12\\clases\\srp\\ejercicio1\\srp_after\\srp_after\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA368DBC-D657-4E04-904C-5496CB7F137C}|SRP_After\\SRP_After.csproj|solutionrelative:srp_after\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA368DBC-D657-4E04-904C-5496CB7F137C}|SRP_After\\SRP_After.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana3\\lunes_16_12\\clases\\srp\\ejercicio1\\srp_after\\srp_after\\appoinmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA368DBC-D657-4E04-904C-5496CB7F137C}|SRP_After\\SRP_After.csproj|solutionrelative:srp_after\\appoinmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA368DBC-D657-4E04-904C-5496CB7F137C}|SRP_After\\SRP_After.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana3\\lunes_16_12\\clases\\srp\\ejercicio1\\srp_after\\srp_after\\appoinmentservicevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA368DBC-D657-4E04-904C-5496CB7F137C}|SRP_After\\SRP_After.csproj|solutionrelative:srp_after\\appoinmentservicevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA368DBC-D657-4E04-904C-5496CB7F137C}|SRP_After\\SRP_After.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana3\\lunes_16_12\\clases\\srp\\ejercicio1\\srp_after\\srp_after\\appoinment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA368DBC-D657-4E04-904C-5496CB7F137C}|SRP_After\\SRP_After.csproj|solutionrelative:srp_after\\appoinment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA368DBC-D657-4E04-904C-5496CB7F137C}|SRP_After\\SRP_After.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana3\\lunes_16_12\\clases\\srp\\ejercicio1\\srp_after\\srp_after\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA368DBC-D657-4E04-904C-5496CB7F137C}|SRP_After\\SRP_After.csproj|solutionrelative:srp_after\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Lunes_16_12\\Clases\\SRP\\Ejercicio1\\SRP_After\\SRP_After\\Patient.cs",
+              "RelativeDocumentMoniker": "SRP_After\\Patient.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Lunes_16_12\\Clases\\SRP\\Ejercicio1\\SRP_After\\SRP_After\\Patient.cs",
+              "RelativeToolTip": "SRP_After\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T01:37:53.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidationResult.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Lunes_16_12\\Clases\\SRP\\Ejercicio1\\SRP_After\\SRP_After\\ValidationResult.cs",
+              "RelativeDocumentMoniker": "SRP_After\\ValidationResult.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Lunes_16_12\\Clases\\SRP\\Ejercicio1\\SRP_After\\SRP_After\\ValidationResult.cs",
+              "RelativeToolTip": "SRP_After\\ValidationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T01:25:44.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Appoinment.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Lunes_16_12\\Clases\\SRP\\Ejercicio1\\SRP_After\\SRP_After\\Appoinment.cs",
+              "RelativeDocumentMoniker": "SRP_After\\Appoinment.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Lunes_16_12\\Clases\\SRP\\Ejercicio1\\SRP_After\\SRP_After\\Appoinment.cs",
+              "RelativeToolTip": "SRP_After\\Appoinment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T01:12:53.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppoinmentServiceValidator.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Lunes_16_12\\Clases\\SRP\\Ejercicio1\\SRP_After\\SRP_After\\AppoinmentServiceValidator.cs",
+              "RelativeDocumentMoniker": "SRP_After\\AppoinmentServiceValidator.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Lunes_16_12\\Clases\\SRP\\Ejercicio1\\SRP_After\\SRP_After\\AppoinmentServiceValidator.cs",
+              "RelativeToolTip": "SRP_After\\AppoinmentServiceValidator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T00:47:40.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppoinmentService.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Lunes_16_12\\Clases\\SRP\\Ejercicio1\\SRP_After\\SRP_After\\AppoinmentService.cs",
+              "RelativeDocumentMoniker": "SRP_After\\AppoinmentService.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Lunes_16_12\\Clases\\SRP\\Ejercicio1\\SRP_After\\SRP_After\\AppoinmentService.cs",
+              "RelativeToolTip": "SRP_After\\AppoinmentService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T00:42:07.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Lunes_16_12\\Clases\\SRP\\Ejercicio1\\SRP_After\\SRP_After\\Program.cs",
+              "RelativeDocumentMoniker": "SRP_After\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Lunes_16_12\\Clases\\SRP\\Ejercicio1\\SRP_After\\SRP_After\\Program.cs",
+              "RelativeToolTip": "SRP_After\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T00:40:44.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
