@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\patronesDiseño\Labs-Curso-DesignPattern-CSharp\2-OCP\Prueba\Ejercicio1-Doctor\Ejercicio1\bin\Debug\net6.0\Ejercicio1-Doctor.exe
+C:\Users\gabriel\Desktop\patronesDiseño\Labs-Curso-DesignPattern-CSharp\2-OCP\Prueba\Ejercicio1-Doctor\Ejercicio1\bin\Debug\net6.0\Ejercicio1-Doctor.deps.json
+C:\Users\gabriel\Desktop\patronesDiseño\Labs-Curso-DesignPattern-CSharp\2-OCP\Prueba\Ejercicio1-Doctor\Ejercicio1\bin\Debug\net6.0\Ejercicio1-Doctor.runtimeconfig.json
+C:\Users\gabriel\Desktop\patronesDiseño\Labs-Curso-DesignPattern-CSharp\2-OCP\Prueba\Ejercicio1-Doctor\Ejercicio1\bin\Debug\net6.0\Ejercicio1-Doctor.dll
+C:\Users\gabriel\Desktop\patronesDiseño\Labs-Curso-DesignPattern-CSharp\2-OCP\Prueba\Ejercicio1-Doctor\Ejercicio1\bin\Debug\net6.0\Ejercicio1-Doctor.pdb
+C:\Users\gabriel\Desktop\patronesDiseño\Labs-Curso-DesignPattern-CSharp\2-OCP\Prueba\Ejercicio1-Doctor\Ejercicio1\obj\Debug\net6.0\Ejercicio1-Doctor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\patronesDiseño\Labs-Curso-DesignPattern-CSharp\2-OCP\Prueba\Ejercicio1-Doctor\Ejercicio1\obj\Debug\net6.0\Ejercicio1-Doctor.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\patronesDiseño\Labs-Curso-DesignPattern-CSharp\2-OCP\Prueba\Ejercicio1-Doctor\Ejercicio1\obj\Debug\net6.0\Ejercicio1-Doctor.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\patronesDiseño\Labs-Curso-DesignPattern-CSharp\2-OCP\Prueba\Ejercicio1-Doctor\Ejercicio1\obj\Debug\net6.0\Ejercicio1-Doctor.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\patronesDiseño\Labs-Curso-DesignPattern-CSharp\2-OCP\Prueba\Ejercicio1-Doctor\Ejercicio1\obj\Debug\net6.0\Ejercicio1-Doctor.sourcelink.json
+C:\Users\gabriel\Desktop\patronesDiseño\Labs-Curso-DesignPattern-CSharp\2-OCP\Prueba\Ejercicio1-Doctor\Ejercicio1\obj\Debug\net6.0\Ejercicio1-Doctor.dll
+C:\Users\gabriel\Desktop\patronesDiseño\Labs-Curso-DesignPattern-CSharp\2-OCP\Prueba\Ejercicio1-Doctor\Ejercicio1\obj\Debug\net6.0\refint\Ejercicio1-Doctor.dll
+C:\Users\gabriel\Desktop\patronesDiseño\Labs-Curso-DesignPattern-CSharp\2-OCP\Prueba\Ejercicio1-Doctor\Ejercicio1\obj\Debug\net6.0\Ejercicio1-Doctor.pdb
+C:\Users\gabriel\Desktop\patronesDiseño\Labs-Curso-DesignPattern-CSharp\2-OCP\Prueba\Ejercicio1-Doctor\Ejercicio1\obj\Debug\net6.0\Ejercicio1-Doctor.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\patronesDiseño\Labs-Curso-DesignPattern-CSharp\2-OCP\Prueba\Ejercicio1-Doctor\Ejercicio1\obj\Debug\net6.0\ref\Ejercicio1-Doctor.dll

@@ -1,0 +1,2 @@
+Curso: Patrones de diseño3, Estudiantes: 1000, Valoración: 5
+Curso: Flutter3, Estudiantes: 1900, Valoración: 4.5

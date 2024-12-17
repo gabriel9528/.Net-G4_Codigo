@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\1-OCP\\After\\Ejercicio1.3-Solucion-After\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3328B172-E42E-456A-B815-EA6B3CC35E02}|Ejercicio1\\Ejercicio1Solucion.csproj|c:\\diskd\\codigotecsup\\c#\\solid\\2-ocp\\1-ocp\\after\\ejercicio1.3-solucion-after\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3328B172-E42E-456A-B815-EA6B3CC35E02}|Ejercicio1\\Ejercicio1Solucion.csproj|solutionrelative:ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3328B172-E42E-456A-B815-EA6B3CC35E02}|Ejercicio1\\Ejercicio1Solucion.csproj|c:\\diskd\\codigotecsup\\c#\\solid\\2-ocp\\1-ocp\\after\\ejercicio1.3-solucion-after\\ejercicio1\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3328B172-E42E-456A-B815-EA6B3CC35E02}|Ejercicio1\\Ejercicio1Solucion.csproj|solutionrelative:ejercicio1\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3328B172-E42E-456A-B815-EA6B3CC35E02}|Ejercicio1\\Ejercicio1Solucion.csproj|c:\\diskd\\codigotecsup\\c#\\solid\\2-ocp\\1-ocp\\after\\ejercicio1.3-solucion-after\\ejercicio1\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3328B172-E42E-456A-B815-EA6B3CC35E02}|Ejercicio1\\Ejercicio1Solucion.csproj|solutionrelative:ejercicio1\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3328B172-E42E-456A-B815-EA6B3CC35E02}|Ejercicio1\\Ejercicio1Solucion.csproj|c:\\diskd\\codigotecsup\\c#\\solid\\2-ocp\\1-ocp\\after\\ejercicio1.3-solucion-after\\ejercicio1\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3328B172-E42E-456A-B815-EA6B3CC35E02}|Ejercicio1\\Ejercicio1Solucion.csproj|solutionrelative:ejercicio1\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3328B172-E42E-456A-B815-EA6B3CC35E02}|Ejercicio1\\Ejercicio1Solucion.csproj|c:\\diskd\\codigotecsup\\c#\\solid\\2-ocp\\1-ocp\\after\\ejercicio1.3-solucion-after\\ejercicio1\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3328B172-E42E-456A-B815-EA6B3CC35E02}|Ejercicio1\\Ejercicio1Solucion.csproj|solutionrelative:ejercicio1\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3328B172-E42E-456A-B815-EA6B3CC35E02}|Ejercicio1\\Ejercicio1Solucion.csproj|c:\\diskd\\codigotecsup\\c#\\solid\\2-ocp\\1-ocp\\after\\ejercicio1.3-solucion-after\\ejercicio1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3328B172-E42E-456A-B815-EA6B3CC35E02}|Ejercicio1\\Ejercicio1Solucion.csproj|solutionrelative:ejercicio1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3328B172-E42E-456A-B815-EA6B3CC35E02}|Ejercicio1\\Ejercicio1Solucion.csproj|c:\\diskd\\codigotecsup\\c#\\solid\\2-ocp\\1-ocp\\after\\ejercicio1.3-solucion-after\\ejercicio1\\accountdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3328B172-E42E-456A-B815-EA6B3CC35E02}|Ejercicio1\\Ejercicio1Solucion.csproj|solutionrelative:ejercicio1\\accountdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3328B172-E42E-456A-B815-EA6B3CC35E02}|Ejercicio1\\Ejercicio1Solucion.csproj|c:\\diskd\\codigotecsup\\c#\\solid\\2-ocp\\1-ocp\\after\\ejercicio1.3-solucion-after\\ejercicio1\\accountnurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3328B172-E42E-456A-B815-EA6B3CC35E02}|Ejercicio1\\Ejercicio1Solucion.csproj|solutionrelative:ejercicio1\\accountnurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3328B172-E42E-456A-B815-EA6B3CC35E02}|Ejercicio1\\Ejercicio1Solucion.csproj|c:\\diskd\\codigotecsup\\c#\\solid\\2-ocp\\1-ocp\\after\\ejercicio1.3-solucion-after\\ejercicio1\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3328B172-E42E-456A-B815-EA6B3CC35E02}|Ejercicio1\\Ejercicio1Solucion.csproj|solutionrelative:ejercicio1\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3328B172-E42E-456A-B815-EA6B3CC35E02}|Ejercicio1\\Ejercicio1Solucion.csproj|c:\\diskd\\codigotecsup\\c#\\solid\\2-ocp\\1-ocp\\after\\ejercicio1.3-solucion-after\\ejercicio1\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3328B172-E42E-456A-B815-EA6B3CC35E02}|Ejercicio1\\Ejercicio1Solucion.csproj|solutionrelative:ejercicio1\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\1-OCP\\After\\Ejercicio1.3-Solucion-After\\Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\1-OCP\\After\\Ejercicio1.3-Solucion-After\\Ejercicio1\\Program.cs",
+              "RelativeToolTip": "Ejercicio1\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:26:12.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountDoctor.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\1-OCP\\After\\Ejercicio1.3-Solucion-After\\Ejercicio1\\AccountDoctor.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\AccountDoctor.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\1-OCP\\After\\Ejercicio1.3-Solucion-After\\Ejercicio1\\AccountDoctor.cs",
+              "RelativeToolTip": "Ejercicio1\\AccountDoctor.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:20:19.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\1-OCP\\After\\Ejercicio1.3-Solucion-After\\Ejercicio1\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\IAccountService.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\1-OCP\\After\\Ejercicio1.3-Solucion-After\\Ejercicio1\\IAccountService.cs",
+              "RelativeToolTip": "Ejercicio1\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:19:08.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\1-OCP\\After\\Ejercicio1.3-Solucion-After\\Ejercicio1\\AccountService.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\AccountService.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\1-OCP\\After\\Ejercicio1.3-Solucion-After\\Ejercicio1\\AccountService.cs",
+              "RelativeToolTip": "Ejercicio1\\AccountService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:18:57.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\1-OCP\\After\\Ejercicio1.3-Solucion-After\\Ejercicio1\\Person.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Person.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\1-OCP\\After\\Ejercicio1.3-Solucion-After\\Ejercicio1\\Person.cs",
+              "RelativeToolTip": "Ejercicio1\\Person.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:16:28.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\1-OCP\\After\\Ejercicio1.3-Solucion-After\\Ejercicio1\\Staff.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Staff.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\1-OCP\\After\\Ejercicio1.3-Solucion-After\\Ejercicio1\\Staff.cs",
+              "RelativeToolTip": "Ejercicio1\\Staff.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T23:16:21.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\1-OCP\\After\\Ejercicio1.3-Solucion-After\\Ejercicio1\\IPerson.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\IPerson.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\1-OCP\\After\\Ejercicio1.3-Solucion-After\\Ejercicio1\\IPerson.cs",
+              "RelativeToolTip": "Ejercicio1\\IPerson.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADgvwYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:17:21.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nurse.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\1-OCP\\After\\Ejercicio1.3-Solucion-After\\Ejercicio1\\Nurse.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Nurse.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\1-OCP\\After\\Ejercicio1.3-Solucion-After\\Ejercicio1\\Nurse.cs",
+              "RelativeToolTip": "Ejercicio1\\Nurse.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:32:28.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountNurse.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\1-OCP\\After\\Ejercicio1.3-Solucion-After\\Ejercicio1\\AccountNurse.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\AccountNurse.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\1-OCP\\After\\Ejercicio1.3-Solucion-After\\Ejercicio1\\AccountNurse.cs",
+              "RelativeToolTip": "Ejercicio1\\AccountNurse.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAEwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:20:50.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\1-OCP\\After\\Ejercicio1.3-Solucion-After\\Ejercicio1\\Doctor.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Doctor.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\1-OCP\\After\\Ejercicio1.3-Solucion-After\\Ejercicio1\\Doctor.cs",
+              "RelativeToolTip": "Ejercicio1\\Doctor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:32:02.579Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\3.OCP\\Exercises\\After\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBAA4D4-F057-4319-AA56-D551F57B6586}|OCP\\OCP.csproj|c:\\diskd\\codigotecsup\\c#\\solid\\2-ocp\\3.ocp\\exercises\\after\\ocp\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBAA4D4-F057-4319-AA56-D551F57B6586}|OCP\\OCP.csproj|solutionrelative:ocp\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBAA4D4-F057-4319-AA56-D551F57B6586}|OCP\\OCP.csproj|c:\\diskd\\codigotecsup\\c#\\solid\\2-ocp\\3.ocp\\exercises\\after\\ocp\\animalorderandtypespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBAA4D4-F057-4319-AA56-D551F57B6586}|OCP\\OCP.csproj|solutionrelative:ocp\\animalorderandtypespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBAA4D4-F057-4319-AA56-D551F57B6586}|OCP\\OCP.csproj|c:\\diskd\\codigotecsup\\c#\\solid\\2-ocp\\3.ocp\\exercises\\after\\ocp\\animalfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBAA4D4-F057-4319-AA56-D551F57B6586}|OCP\\OCP.csproj|solutionrelative:ocp\\animalfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBAA4D4-F057-4319-AA56-D551F57B6586}|OCP\\OCP.csproj|c:\\diskd\\codigotecsup\\c#\\solid\\2-ocp\\3.ocp\\exercises\\after\\ocp\\animalclassspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBAA4D4-F057-4319-AA56-D551F57B6586}|OCP\\OCP.csproj|solutionrelative:ocp\\animalclassspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBAA4D4-F057-4319-AA56-D551F57B6586}|OCP\\OCP.csproj|c:\\diskd\\codigotecsup\\c#\\solid\\2-ocp\\3.ocp\\exercises\\after\\ocp\\enumeration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBAA4D4-F057-4319-AA56-D551F57B6586}|OCP\\OCP.csproj|solutionrelative:ocp\\enumeration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBAA4D4-F057-4319-AA56-D551F57B6586}|OCP\\OCP.csproj|c:\\diskd\\codigotecsup\\c#\\solid\\2-ocp\\3.ocp\\exercises\\after\\ocp\\ifilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBAA4D4-F057-4319-AA56-D551F57B6586}|OCP\\OCP.csproj|solutionrelative:ocp\\ifilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBAA4D4-F057-4319-AA56-D551F57B6586}|OCP\\OCP.csproj|c:\\diskd\\codigotecsup\\c#\\solid\\2-ocp\\3.ocp\\exercises\\after\\ocp\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBAA4D4-F057-4319-AA56-D551F57B6586}|OCP\\OCP.csproj|solutionrelative:ocp\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F49FEBA-272D-49FA-B290-D2C3855709B5}|Solution\\Solution.csproj|C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\3.OCP\\Exercises\\After\\solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F49FEBA-272D-49FA-B290-D2C3855709B5}|Solution\\Solution.csproj|solutionrelative:solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enumeration.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\3.OCP\\Exercises\\After\\OCP\\Enumeration.cs",
+              "RelativeDocumentMoniker": "OCP\\Enumeration.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\3.OCP\\Exercises\\After\\OCP\\Enumeration.cs",
+              "RelativeToolTip": "OCP\\Enumeration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:02:07.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnimalClassSpecification.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\3.OCP\\Exercises\\After\\OCP\\AnimalClassSpecification.cs",
+              "RelativeDocumentMoniker": "OCP\\AnimalClassSpecification.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\3.OCP\\Exercises\\After\\OCP\\AnimalClassSpecification.cs",
+              "RelativeToolTip": "OCP\\AnimalClassSpecification.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T22:10:04.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimalOrderAndTypeSpecification.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\3.OCP\\Exercises\\After\\OCP\\AnimalOrderAndTypeSpecification.cs",
+              "RelativeDocumentMoniker": "OCP\\AnimalOrderAndTypeSpecification.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\3.OCP\\Exercises\\After\\OCP\\AnimalOrderAndTypeSpecification.cs",
+              "RelativeToolTip": "OCP\\AnimalOrderAndTypeSpecification.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T22:08:38.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFilter.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\3.OCP\\Exercises\\After\\OCP\\IFilter.cs",
+              "RelativeDocumentMoniker": "OCP\\IFilter.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\3.OCP\\Exercises\\After\\OCP\\IFilter.cs",
+              "RelativeToolTip": "OCP\\IFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T22:08:17.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnimalFilter.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\3.OCP\\Exercises\\After\\OCP\\AnimalFilter.cs",
+              "RelativeDocumentMoniker": "OCP\\AnimalFilter.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\3.OCP\\Exercises\\After\\OCP\\AnimalFilter.cs",
+              "RelativeToolTip": "OCP\\AnimalFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:34:30.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\3.OCP\\Exercises\\After\\OCP\\ISpecification.cs",
+              "RelativeDocumentMoniker": "OCP\\ISpecification.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\3.OCP\\Exercises\\After\\OCP\\ISpecification.cs",
+              "RelativeToolTip": "OCP\\ISpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:34:27.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\3.OCP\\Exercises\\After\\OCP\\Animal.cs",
+              "RelativeDocumentMoniker": "OCP\\Animal.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\3.OCP\\Exercises\\After\\OCP\\Animal.cs",
+              "RelativeToolTip": "OCP\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T22:09:59.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\3.OCP\\Exercises\\After\\Solution\\Program.cs",
+              "RelativeDocumentMoniker": "Solution\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\2-OCP\\3.OCP\\Exercises\\After\\Solution\\Program.cs",
+              "RelativeToolTip": "Solution\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:34:20.773Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
