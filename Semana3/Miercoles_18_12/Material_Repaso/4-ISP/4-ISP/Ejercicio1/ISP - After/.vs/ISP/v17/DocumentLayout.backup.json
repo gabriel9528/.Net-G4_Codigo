@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\4-ISP\\4-ISP\\Ejercicio1\\ISP - After\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6660A9FE-5F50-4846-A0D4-C11F4623E1BF}|ISP\\ISP.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana3_principiossolid\\clase2\\4-isp\\4-isp\\ejercicio1\\isp - after\\isp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6660A9FE-5F50-4846-A0D4-C11F4623E1BF}|ISP\\ISP.csproj|solutionrelative:isp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6660A9FE-5F50-4846-A0D4-C11F4623E1BF}|ISP\\ISP.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana3_principiossolid\\clase2\\4-isp\\4-isp\\ejercicio1\\isp - after\\isp\\hpprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6660A9FE-5F50-4846-A0D4-C11F4623E1BF}|ISP\\ISP.csproj|solutionrelative:isp\\hpprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6660A9FE-5F50-4846-A0D4-C11F4623E1BF}|ISP\\ISP.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana3_principiossolid\\clase2\\4-isp\\4-isp\\ejercicio1\\isp - after\\isp\\epsonprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6660A9FE-5F50-4846-A0D4-C11F4623E1BF}|ISP\\ISP.csproj|solutionrelative:isp\\epsonprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6660A9FE-5F50-4846-A0D4-C11F4623E1BF}|ISP\\ISP.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana3_principiossolid\\clase2\\4-isp\\4-isp\\ejercicio1\\isp - after\\isp\\iscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6660A9FE-5F50-4846-A0D4-C11F4623E1BF}|ISP\\ISP.csproj|solutionrelative:isp\\iscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6660A9FE-5F50-4846-A0D4-C11F4623E1BF}|ISP\\ISP.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana3_principiossolid\\clase2\\4-isp\\4-isp\\ejercicio1\\isp - after\\isp\\iprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6660A9FE-5F50-4846-A0D4-C11F4623E1BF}|ISP\\ISP.csproj|solutionrelative:isp\\iprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6660A9FE-5F50-4846-A0D4-C11F4623E1BF}|ISP\\ISP.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana3_principiossolid\\clase2\\4-isp\\4-isp\\ejercicio1\\isp - after\\isp\\ifax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6660A9FE-5F50-4846-A0D4-C11F4623E1BF}|ISP\\ISP.csproj|solutionrelative:isp\\ifax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IScan.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\4-ISP\\4-ISP\\Ejercicio1\\ISP - After\\ISP\\IScan.cs",
+              "RelativeDocumentMoniker": "ISP\\IScan.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\4-ISP\\4-ISP\\Ejercicio1\\ISP - After\\ISP\\IScan.cs",
+              "RelativeToolTip": "ISP\\IScan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:19:04.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPrint.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\4-ISP\\4-ISP\\Ejercicio1\\ISP - After\\ISP\\IPrint.cs",
+              "RelativeDocumentMoniker": "ISP\\IPrint.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\4-ISP\\4-ISP\\Ejercicio1\\ISP - After\\ISP\\IPrint.cs",
+              "RelativeToolTip": "ISP\\IPrint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:18:49.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFax.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\4-ISP\\4-ISP\\Ejercicio1\\ISP - After\\ISP\\IFax.cs",
+              "RelativeDocumentMoniker": "ISP\\IFax.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\4-ISP\\4-ISP\\Ejercicio1\\ISP - After\\ISP\\IFax.cs",
+              "RelativeToolTip": "ISP\\IFax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:18:36.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EpsonPrinter.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\4-ISP\\4-ISP\\Ejercicio1\\ISP - After\\ISP\\EpsonPrinter.cs",
+              "RelativeDocumentMoniker": "ISP\\EpsonPrinter.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\4-ISP\\4-ISP\\Ejercicio1\\ISP - After\\ISP\\EpsonPrinter.cs",
+              "RelativeToolTip": "ISP\\EpsonPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:12:51.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HPPrinter.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\4-ISP\\4-ISP\\Ejercicio1\\ISP - After\\ISP\\HPPrinter.cs",
+              "RelativeDocumentMoniker": "ISP\\HPPrinter.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\4-ISP\\4-ISP\\Ejercicio1\\ISP - After\\ISP\\HPPrinter.cs",
+              "RelativeToolTip": "ISP\\HPPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:22:46.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\4-ISP\\4-ISP\\Ejercicio1\\ISP - After\\ISP\\Program.cs",
+              "RelativeDocumentMoniker": "ISP\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\4-ISP\\4-ISP\\Ejercicio1\\ISP - After\\ISP\\Program.cs",
+              "RelativeToolTip": "ISP\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:20:51.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

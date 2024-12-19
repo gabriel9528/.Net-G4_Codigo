@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "ISPLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ISPLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ISPLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ISPLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ISPLibrary/ISPLibrary.csproj",
+      "msbuildProject": "../ISPLibrary/ISPLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "ISPLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\gabriel\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\4-ISP\\4-ISP\\Ejercicio2\\Before\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\4-ISP\\4-ISP\\Ejercicio2\\Before\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\gabriel\\.nuget\\packages\\",
+      "outputPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\4-ISP\\4-ISP\\Ejercicio2\\Before\\ConsoleApp1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\4-ISP\\4-ISP\\Ejercicio2\\Before\\ISPLibrary\\ISPLibrary.csproj": {
+              "projectPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\4-ISP\\4-ISP\\Ejercicio2\\Before\\ISPLibrary\\ISPLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

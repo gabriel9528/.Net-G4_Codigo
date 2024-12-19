@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\3-LSP\\3-LSP\\Ejercicio2\\After\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27401BB9-9243-4144-AFE4-D94894D7067F}|Solution\\Solution.csproj|C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\3-LSP\\3-LSP\\Ejercicio2\\After\\solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27401BB9-9243-4144-AFE4-D94894D7067F}|Solution\\Solution.csproj|solutionrelative:solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB6B1D7-6E48-40D4-974A-E62B8023C3F7}|LSPLibrary\\LSPLibrary.csproj|c:\\diskd\\codigotecsup\\c#\\solid\\3-lsp\\3-lsp\\ejercicio2\\after\\lsplibrary\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB6B1D7-6E48-40D4-974A-E62B8023C3F7}|LSPLibrary\\LSPLibrary.csproj|solutionrelative:lsplibrary\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB6B1D7-6E48-40D4-974A-E62B8023C3F7}|LSPLibrary\\LSPLibrary.csproj|c:\\diskd\\codigotecsup\\c#\\solid\\3-lsp\\3-lsp\\ejercicio2\\after\\lsplibrary\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB6B1D7-6E48-40D4-974A-E62B8023C3F7}|LSPLibrary\\LSPLibrary.csproj|solutionrelative:lsplibrary\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB6B1D7-6E48-40D4-974A-E62B8023C3F7}|LSPLibrary\\LSPLibrary.csproj|c:\\diskd\\codigotecsup\\c#\\solid\\3-lsp\\3-lsp\\ejercicio2\\after\\lsplibrary\\icanfly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB6B1D7-6E48-40D4-974A-E62B8023C3F7}|LSPLibrary\\LSPLibrary.csproj|solutionrelative:lsplibrary\\icanfly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB6B1D7-6E48-40D4-974A-E62B8023C3F7}|LSPLibrary\\LSPLibrary.csproj|c:\\diskd\\codigotecsup\\c#\\solid\\3-lsp\\3-lsp\\ejercicio2\\after\\lsplibrary\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB6B1D7-6E48-40D4-974A-E62B8023C3F7}|LSPLibrary\\LSPLibrary.csproj|solutionrelative:lsplibrary\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB6B1D7-6E48-40D4-974A-E62B8023C3F7}|LSPLibrary\\LSPLibrary.csproj|c:\\diskd\\codigotecsup\\c#\\solid\\3-lsp\\3-lsp\\ejercicio2\\after\\lsplibrary\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB6B1D7-6E48-40D4-974A-E62B8023C3F7}|LSPLibrary\\LSPLibrary.csproj|solutionrelative:lsplibrary\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\3-LSP\\3-LSP\\Ejercicio2\\After\\LSPLibrary\\Dog.cs",
+              "RelativeDocumentMoniker": "LSPLibrary\\Dog.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\3-LSP\\3-LSP\\Ejercicio2\\After\\LSPLibrary\\Dog.cs",
+              "RelativeToolTip": "LSPLibrary\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T00:44:58.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\3-LSP\\3-LSP\\Ejercicio2\\After\\LSPLibrary\\Bird.cs",
+              "RelativeDocumentMoniker": "LSPLibrary\\Bird.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\3-LSP\\3-LSP\\Ejercicio2\\After\\LSPLibrary\\Bird.cs",
+              "RelativeToolTip": "LSPLibrary\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:50:41.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICanFly.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\3-LSP\\3-LSP\\Ejercicio2\\After\\LSPLibrary\\ICanFly.cs",
+              "RelativeDocumentMoniker": "LSPLibrary\\ICanFly.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\3-LSP\\3-LSP\\Ejercicio2\\After\\LSPLibrary\\ICanFly.cs",
+              "RelativeToolTip": "LSPLibrary\\ICanFly.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:50:42.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\3-LSP\\3-LSP\\Ejercicio2\\After\\LSPLibrary\\Animal.cs",
+              "RelativeDocumentMoniker": "LSPLibrary\\Animal.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\3-LSP\\3-LSP\\Ejercicio2\\After\\LSPLibrary\\Animal.cs",
+              "RelativeToolTip": "LSPLibrary\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:50:31.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\3-LSP\\3-LSP\\Ejercicio2\\After\\LSPLibrary\\IAnimal.cs",
+              "RelativeDocumentMoniker": "LSPLibrary\\IAnimal.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\3-LSP\\3-LSP\\Ejercicio2\\After\\LSPLibrary\\IAnimal.cs",
+              "RelativeToolTip": "LSPLibrary\\IAnimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:50:19.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\3-LSP\\3-LSP\\Ejercicio2\\After\\Solution\\Program.cs",
+              "RelativeDocumentMoniker": "Solution\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\SOLID\\3-LSP\\3-LSP\\Ejercicio2\\After\\Solution\\Program.cs",
+              "RelativeToolTip": "Solution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:50:11.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

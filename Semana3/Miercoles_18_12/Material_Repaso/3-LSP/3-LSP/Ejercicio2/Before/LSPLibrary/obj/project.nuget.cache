@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5PB5W0R1W3I=",
+  "success": true,
+  "projectFilePath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\3-LSP\\3-LSP\\Ejercicio2\\Before\\LSPLibrary\\LSPLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gabriel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

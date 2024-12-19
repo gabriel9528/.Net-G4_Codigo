@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Miercoles_18_12\\Clases\\4.ISP\\Ejercicio1\\After\\Ejericio1_ISP_After\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA3989F-6F34-4750-AF52-0BFF8A9787BA}|Ejericio1_ISP_Before\\Ejericio1_ISP_Before.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana3\\miercoles_18_12\\clases\\4.isp\\ejercicio1\\after\\ejericio1_isp_after\\ejericio1_isp_before\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA3989F-6F34-4750-AF52-0BFF8A9787BA}|Ejericio1_ISP_Before\\Ejericio1_ISP_Before.csproj|solutionrelative:ejericio1_isp_before\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA3989F-6F34-4750-AF52-0BFF8A9787BA}|Ejericio1_ISP_Before\\Ejericio1_ISP_Before.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana3\\miercoles_18_12\\clases\\4.isp\\ejercicio1\\after\\ejericio1_isp_after\\ejericio1_isp_before\\epsonprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA3989F-6F34-4750-AF52-0BFF8A9787BA}|Ejericio1_ISP_Before\\Ejericio1_ISP_Before.csproj|solutionrelative:ejericio1_isp_before\\epsonprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA3989F-6F34-4750-AF52-0BFF8A9787BA}|Ejericio1_ISP_Before\\Ejericio1_ISP_Before.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana3\\miercoles_18_12\\clases\\4.isp\\ejercicio1\\after\\ejericio1_isp_after\\ejericio1_isp_before\\hpprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA3989F-6F34-4750-AF52-0BFF8A9787BA}|Ejericio1_ISP_Before\\Ejericio1_ISP_Before.csproj|solutionrelative:ejericio1_isp_before\\hpprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA3989F-6F34-4750-AF52-0BFF8A9787BA}|Ejericio1_ISP_Before\\Ejericio1_ISP_Before.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana3\\miercoles_18_12\\clases\\4.isp\\ejercicio1\\after\\ejericio1_isp_after\\ejericio1_isp_before\\ifax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA3989F-6F34-4750-AF52-0BFF8A9787BA}|Ejericio1_ISP_Before\\Ejericio1_ISP_Before.csproj|solutionrelative:ejericio1_isp_before\\ifax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA3989F-6F34-4750-AF52-0BFF8A9787BA}|Ejericio1_ISP_Before\\Ejericio1_ISP_Before.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana3\\miercoles_18_12\\clases\\4.isp\\ejercicio1\\after\\ejericio1_isp_after\\ejericio1_isp_before\\iscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA3989F-6F34-4750-AF52-0BFF8A9787BA}|Ejericio1_ISP_Before\\Ejericio1_ISP_Before.csproj|solutionrelative:ejericio1_isp_before\\iscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA3989F-6F34-4750-AF52-0BFF8A9787BA}|Ejericio1_ISP_Before\\Ejericio1_ISP_Before.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana3\\miercoles_18_12\\clases\\4.isp\\ejercicio1\\after\\ejericio1_isp_after\\ejericio1_isp_before\\iprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA3989F-6F34-4750-AF52-0BFF8A9787BA}|Ejericio1_ISP_Before\\Ejericio1_ISP_Before.csproj|solutionrelative:ejericio1_isp_before\\iprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IScan.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Miercoles_18_12\\Clases\\4.ISP\\Ejercicio1\\After\\Ejericio1_ISP_After\\Ejericio1_ISP_Before\\IScan.cs",
+              "RelativeDocumentMoniker": "Ejericio1_ISP_Before\\IScan.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Miercoles_18_12\\Clases\\4.ISP\\Ejercicio1\\After\\Ejericio1_ISP_After\\Ejericio1_ISP_Before\\IScan.cs",
+              "RelativeToolTip": "Ejericio1_ISP_Before\\IScan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:55:54.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFax.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Miercoles_18_12\\Clases\\4.ISP\\Ejercicio1\\After\\Ejericio1_ISP_After\\Ejericio1_ISP_Before\\IFax.cs",
+              "RelativeDocumentMoniker": "Ejericio1_ISP_Before\\IFax.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Miercoles_18_12\\Clases\\4.ISP\\Ejercicio1\\After\\Ejericio1_ISP_After\\Ejericio1_ISP_Before\\IFax.cs",
+              "RelativeToolTip": "Ejericio1_ISP_Before\\IFax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:55:39.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPrint.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Miercoles_18_12\\Clases\\4.ISP\\Ejercicio1\\After\\Ejericio1_ISP_After\\Ejericio1_ISP_Before\\IPrint.cs",
+              "RelativeDocumentMoniker": "Ejericio1_ISP_Before\\IPrint.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Miercoles_18_12\\Clases\\4.ISP\\Ejercicio1\\After\\Ejericio1_ISP_After\\Ejericio1_ISP_Before\\IPrint.cs",
+              "RelativeToolTip": "Ejericio1_ISP_Before\\IPrint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:55:29.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EpsonPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Miercoles_18_12\\Clases\\4.ISP\\Ejercicio1\\After\\Ejericio1_ISP_After\\Ejericio1_ISP_Before\\EpsonPrinter.cs",
+              "RelativeDocumentMoniker": "Ejericio1_ISP_Before\\EpsonPrinter.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Miercoles_18_12\\Clases\\4.ISP\\Ejercicio1\\After\\Ejericio1_ISP_After\\Ejericio1_ISP_Before\\EpsonPrinter.cs",
+              "RelativeToolTip": "Ejericio1_ISP_Before\\EpsonPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:28:48.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HPPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Miercoles_18_12\\Clases\\4.ISP\\Ejercicio1\\After\\Ejericio1_ISP_After\\Ejericio1_ISP_Before\\HPPrinter.cs",
+              "RelativeDocumentMoniker": "Ejericio1_ISP_Before\\HPPrinter.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Miercoles_18_12\\Clases\\4.ISP\\Ejercicio1\\After\\Ejericio1_ISP_After\\Ejericio1_ISP_Before\\HPPrinter.cs",
+              "RelativeToolTip": "Ejericio1_ISP_Before\\HPPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:27:32.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Miercoles_18_12\\Clases\\4.ISP\\Ejercicio1\\After\\Ejericio1_ISP_After\\Ejericio1_ISP_Before\\Program.cs",
+              "RelativeDocumentMoniker": "Ejericio1_ISP_Before\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Miercoles_18_12\\Clases\\4.ISP\\Ejercicio1\\After\\Ejericio1_ISP_After\\Ejericio1_ISP_Before\\Program.cs",
+              "RelativeToolTip": "Ejericio1_ISP_Before\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:24:24.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

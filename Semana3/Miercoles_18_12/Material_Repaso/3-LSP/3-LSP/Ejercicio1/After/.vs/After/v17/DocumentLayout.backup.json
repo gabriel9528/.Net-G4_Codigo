@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\3-LSP\\3-LSP\\Ejercicio1\\After\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F03942-639F-4DD6-8217-26E243905693}|After\\After.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana3_principiossolid\\clase2\\3-lsp\\3-lsp\\ejercicio1\\after\\after\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F03942-639F-4DD6-8217-26E243905693}|After\\After.csproj|solutionrelative:after\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2381BFC3-C415-4797-8519-382A36C071C2}|LSPLibrary\\LSPLibrary.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana3_principiossolid\\clase2\\3-lsp\\3-lsp\\ejercicio1\\after\\lsplibrary\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2381BFC3-C415-4797-8519-382A36C071C2}|LSPLibrary\\LSPLibrary.csproj|solutionrelative:lsplibrary\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2381BFC3-C415-4797-8519-382A36C071C2}|LSPLibrary\\LSPLibrary.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana3_principiossolid\\clase2\\3-lsp\\3-lsp\\ejercicio1\\after\\lsplibrary\\tennisplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2381BFC3-C415-4797-8519-382A36C071C2}|LSPLibrary\\LSPLibrary.csproj|solutionrelative:lsplibrary\\tennisplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2381BFC3-C415-4797-8519-382A36C071C2}|LSPLibrary\\LSPLibrary.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana3_principiossolid\\clase2\\3-lsp\\3-lsp\\ejercicio1\\after\\lsplibrary\\footballplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2381BFC3-C415-4797-8519-382A36C071C2}|LSPLibrary\\LSPLibrary.csproj|solutionrelative:lsplibrary\\footballplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2381BFC3-C415-4797-8519-382A36C071C2}|LSPLibrary\\LSPLibrary.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana3_principiossolid\\clase2\\3-lsp\\3-lsp\\ejercicio1\\after\\lsplibrary\\iplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2381BFC3-C415-4797-8519-382A36C071C2}|LSPLibrary\\LSPLibrary.csproj|solutionrelative:lsplibrary\\iplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2381BFC3-C415-4797-8519-382A36C071C2}|LSPLibrary\\LSPLibrary.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana3_principiossolid\\clase2\\3-lsp\\3-lsp\\ejercicio1\\after\\lsplibrary\\iplayerteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2381BFC3-C415-4797-8519-382A36C071C2}|LSPLibrary\\LSPLibrary.csproj|solutionrelative:lsplibrary\\iplayerteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2381BFC3-C415-4797-8519-382A36C071C2}|LSPLibrary\\LSPLibrary.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana3_principiossolid\\clase2\\3-lsp\\3-lsp\\ejercicio1\\after\\lsplibrary\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2381BFC3-C415-4797-8519-382A36C071C2}|LSPLibrary\\LSPLibrary.csproj|solutionrelative:lsplibrary\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2381BFC3-C415-4797-8519-382A36C071C2}|LSPLibrary\\LSPLibrary.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana3_principiossolid\\clase2\\3-lsp\\3-lsp\\ejercicio1\\after\\lsplibrary\\enumeration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2381BFC3-C415-4797-8519-382A36C071C2}|LSPLibrary\\LSPLibrary.csproj|solutionrelative:lsplibrary\\enumeration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enumeration.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\3-LSP\\3-LSP\\Ejercicio1\\After\\LSPLibrary\\Enumeration.cs",
+              "RelativeDocumentMoniker": "LSPLibrary\\Enumeration.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\3-LSP\\3-LSP\\Ejercicio1\\After\\LSPLibrary\\Enumeration.cs",
+              "RelativeToolTip": "LSPLibrary\\Enumeration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:25:04.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TennisPlayer.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\3-LSP\\3-LSP\\Ejercicio1\\After\\LSPLibrary\\TennisPlayer.cs",
+              "RelativeDocumentMoniker": "LSPLibrary\\TennisPlayer.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\3-LSP\\3-LSP\\Ejercicio1\\After\\LSPLibrary\\TennisPlayer.cs",
+              "RelativeToolTip": "LSPLibrary\\TennisPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:24:52.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FootballPlayer.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\3-LSP\\3-LSP\\Ejercicio1\\After\\LSPLibrary\\FootballPlayer.cs",
+              "RelativeDocumentMoniker": "LSPLibrary\\FootballPlayer.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\3-LSP\\3-LSP\\Ejercicio1\\After\\LSPLibrary\\FootballPlayer.cs",
+              "RelativeToolTip": "LSPLibrary\\FootballPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:21:57.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPlayerTeam.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\3-LSP\\3-LSP\\Ejercicio1\\After\\LSPLibrary\\IPlayerTeam.cs",
+              "RelativeDocumentMoniker": "LSPLibrary\\IPlayerTeam.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\3-LSP\\3-LSP\\Ejercicio1\\After\\LSPLibrary\\IPlayerTeam.cs",
+              "RelativeToolTip": "LSPLibrary\\IPlayerTeam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:21:49.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPlayer.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\3-LSP\\3-LSP\\Ejercicio1\\After\\LSPLibrary\\IPlayer.cs",
+              "RelativeDocumentMoniker": "LSPLibrary\\IPlayer.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\3-LSP\\3-LSP\\Ejercicio1\\After\\LSPLibrary\\IPlayer.cs",
+              "RelativeToolTip": "LSPLibrary\\IPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:20:43.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\3-LSP\\3-LSP\\Ejercicio1\\After\\LSPLibrary\\Player.cs",
+              "RelativeDocumentMoniker": "LSPLibrary\\Player.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\3-LSP\\3-LSP\\Ejercicio1\\After\\LSPLibrary\\Player.cs",
+              "RelativeToolTip": "LSPLibrary\\Player.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:20:54.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\3-LSP\\3-LSP\\Ejercicio1\\After\\After\\Program.cs",
+              "RelativeDocumentMoniker": "After\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\3-LSP\\3-LSP\\Ejercicio1\\After\\After\\Program.cs",
+              "RelativeToolTip": "After\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAEwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:20:05.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\3-LSP\\3-LSP\\Ejercicio1\\After\\LSPLibrary\\Team.cs",
+              "RelativeDocumentMoniker": "LSPLibrary\\Team.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase2\\3-LSP\\3-LSP\\Ejercicio1\\After\\LSPLibrary\\Team.cs",
+              "RelativeToolTip": "LSPLibrary\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:16:49.541Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejericio1_ISP_Before", "Ejericio1_ISP_Before\Ejericio1_ISP_Before.csproj", "{4CA3989F-6F34-4750-AF52-0BFF8A9787BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CA3989F-6F34-4750-AF52-0BFF8A9787BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA3989F-6F34-4750-AF52-0BFF8A9787BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA3989F-6F34-4750-AF52-0BFF8A9787BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA3989F-6F34-4750-AF52-0BFF8A9787BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {486D16F3-4706-44CE-970B-FE06275B2022}
+	EndGlobalSection
+EndGlobal
