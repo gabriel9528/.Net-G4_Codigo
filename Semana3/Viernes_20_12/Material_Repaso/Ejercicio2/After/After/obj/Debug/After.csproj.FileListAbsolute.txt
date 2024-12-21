@@ -1,0 +1,6 @@
+C:\Users\gabriel\Desktop\patronesDiseño\Labs-Curso-DesignPattern-CSharp\5-DIP\Exercises\After\After\bin\Debug\After.dll
+C:\Users\gabriel\Desktop\patronesDiseño\Labs-Curso-DesignPattern-CSharp\5-DIP\Exercises\After\After\bin\Debug\After.pdb
+C:\Users\gabriel\Desktop\patronesDiseño\Labs-Curso-DesignPattern-CSharp\5-DIP\Exercises\After\After\obj\Debug\After.csproj.AssemblyReference.cache
+C:\Users\gabriel\Desktop\patronesDiseño\Labs-Curso-DesignPattern-CSharp\5-DIP\Exercises\After\After\obj\Debug\After.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\patronesDiseño\Labs-Curso-DesignPattern-CSharp\5-DIP\Exercises\After\After\obj\Debug\After.dll
+C:\Users\gabriel\Desktop\patronesDiseño\Labs-Curso-DesignPattern-CSharp\5-DIP\Exercises\After\After\obj\Debug\After.pdb

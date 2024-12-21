@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio2\Before\Ejercicio2_DIP_Bedore\Ejercicio2_DIP_Bedore\bin\Debug\net8.0\Ejercicio2_DIP_Bedore.exe
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio2\Before\Ejercicio2_DIP_Bedore\Ejercicio2_DIP_Bedore\bin\Debug\net8.0\Ejercicio2_DIP_Bedore.deps.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio2\Before\Ejercicio2_DIP_Bedore\Ejercicio2_DIP_Bedore\bin\Debug\net8.0\Ejercicio2_DIP_Bedore.runtimeconfig.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio2\Before\Ejercicio2_DIP_Bedore\Ejercicio2_DIP_Bedore\bin\Debug\net8.0\Ejercicio2_DIP_Bedore.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio2\Before\Ejercicio2_DIP_Bedore\Ejercicio2_DIP_Bedore\bin\Debug\net8.0\Ejercicio2_DIP_Bedore.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio2\Before\Ejercicio2_DIP_Bedore\Ejercicio2_DIP_Bedore\obj\Debug\net8.0\Ejercicio2_DIP_Bedore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio2\Before\Ejercicio2_DIP_Bedore\Ejercicio2_DIP_Bedore\obj\Debug\net8.0\Ejercicio2_DIP_Bedore.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio2\Before\Ejercicio2_DIP_Bedore\Ejercicio2_DIP_Bedore\obj\Debug\net8.0\Ejercicio2_DIP_Bedore.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio2\Before\Ejercicio2_DIP_Bedore\Ejercicio2_DIP_Bedore\obj\Debug\net8.0\Ejercicio2_DIP_Bedore.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio2\Before\Ejercicio2_DIP_Bedore\Ejercicio2_DIP_Bedore\obj\Debug\net8.0\Ejercicio2_DIP_Bedore.sourcelink.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio2\Before\Ejercicio2_DIP_Bedore\Ejercicio2_DIP_Bedore\obj\Debug\net8.0\Ejercicio2_DIP_Bedore.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio2\Before\Ejercicio2_DIP_Bedore\Ejercicio2_DIP_Bedore\obj\Debug\net8.0\refint\Ejercicio2_DIP_Bedore.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio2\Before\Ejercicio2_DIP_Bedore\Ejercicio2_DIP_Bedore\obj\Debug\net8.0\Ejercicio2_DIP_Bedore.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio2\Before\Ejercicio2_DIP_Bedore\Ejercicio2_DIP_Bedore\obj\Debug\net8.0\Ejercicio2_DIP_Bedore.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio2\Before\Ejercicio2_DIP_Bedore\Ejercicio2_DIP_Bedore\obj\Debug\net8.0\ref\Ejercicio2_DIP_Bedore.dll

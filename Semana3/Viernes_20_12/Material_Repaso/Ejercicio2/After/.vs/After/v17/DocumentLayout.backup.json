@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase3\\Ejercicio2\\After\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE4924E-9B6A-41F8-A6AA-AAF6D5771569}|Program\\Program.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana3_principiossolid\\clase3\\ejercicio2\\after\\program\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE4924E-9B6A-41F8-A6AA-AAF6D5771569}|Program\\Program.csproj|solutionrelative:program\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE4924E-9B6A-41F8-A6AA-AAF6D5771569}|Program\\Program.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana3_principiossolid\\clase3\\ejercicio2\\after\\program\\sms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE4924E-9B6A-41F8-A6AA-AAF6D5771569}|Program\\Program.csproj|solutionrelative:program\\sms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE4924E-9B6A-41F8-A6AA-AAF6D5771569}|Program\\Program.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana3_principiossolid\\clase3\\ejercicio2\\after\\program\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE4924E-9B6A-41F8-A6AA-AAF6D5771569}|Program\\Program.csproj|solutionrelative:program\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE4924E-9B6A-41F8-A6AA-AAF6D5771569}|Program\\Program.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana3_principiossolid\\clase3\\ejercicio2\\after\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE4924E-9B6A-41F8-A6AA-AAF6D5771569}|Program\\Program.csproj|solutionrelative:program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE4924E-9B6A-41F8-A6AA-AAF6D5771569}|Program\\Program.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana3_principiossolid\\clase3\\ejercicio2\\after\\program\\imessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE4924E-9B6A-41F8-A6AA-AAF6D5771569}|Program\\Program.csproj|solutionrelative:program\\imessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMessage.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase3\\Ejercicio2\\After\\Program\\IMessage.cs",
+              "RelativeDocumentMoniker": "Program\\IMessage.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase3\\Ejercicio2\\After\\Program\\IMessage.cs",
+              "RelativeToolTip": "Program\\IMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:32:02.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase3\\Ejercicio2\\After\\Program\\Employee.cs",
+              "RelativeDocumentMoniker": "Program\\Employee.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase3\\Ejercicio2\\After\\Program\\Employee.cs",
+              "RelativeToolTip": "Program\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:31:54.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SMS.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase3\\Ejercicio2\\After\\Program\\SMS.cs",
+              "RelativeDocumentMoniker": "Program\\SMS.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase3\\Ejercicio2\\After\\Program\\SMS.cs",
+              "RelativeToolTip": "Program\\SMS.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T12:28:29.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase3\\Ejercicio2\\After\\Program\\Email.cs",
+              "RelativeDocumentMoniker": "Program\\Email.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase3\\Ejercicio2\\After\\Program\\Email.cs",
+              "RelativeToolTip": "Program\\Email.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T12:27:54.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase3\\Ejercicio2\\After\\Program\\Program.cs",
+              "RelativeDocumentMoniker": "Program\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase3\\Ejercicio2\\After\\Program\\Program.cs",
+              "RelativeToolTip": "Program\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T12:25:43.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

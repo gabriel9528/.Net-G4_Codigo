@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Viernes_20_12\\Clases\\DIP\\Ejercicio2\\Before\\Ejercicio2_DIP_Bedore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C59D2386-3C95-447E-822C-B8F7D914C764}|Ejercicio2_DIP_Bedore\\Ejercicio2_DIP_Bedore.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana3\\viernes_20_12\\clases\\dip\\ejercicio2\\before\\ejercicio2_dip_bedore\\ejercicio2_dip_bedore\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C59D2386-3C95-447E-822C-B8F7D914C764}|Ejercicio2_DIP_Bedore\\Ejercicio2_DIP_Bedore.csproj|solutionrelative:ejercicio2_dip_bedore\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59D2386-3C95-447E-822C-B8F7D914C764}|Ejercicio2_DIP_Bedore\\Ejercicio2_DIP_Bedore.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana3\\viernes_20_12\\clases\\dip\\ejercicio2\\before\\ejercicio2_dip_bedore\\ejercicio2_dip_bedore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C59D2386-3C95-447E-822C-B8F7D914C764}|Ejercicio2_DIP_Bedore\\Ejercicio2_DIP_Bedore.csproj|solutionrelative:ejercicio2_dip_bedore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59D2386-3C95-447E-822C-B8F7D914C764}|Ejercicio2_DIP_Bedore\\Ejercicio2_DIP_Bedore.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana3\\viernes_20_12\\clases\\dip\\ejercicio2\\before\\ejercicio2_dip_bedore\\ejercicio2_dip_bedore\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C59D2386-3C95-447E-822C-B8F7D914C764}|Ejercicio2_DIP_Bedore\\Ejercicio2_DIP_Bedore.csproj|solutionrelative:ejercicio2_dip_bedore\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59D2386-3C95-447E-822C-B8F7D914C764}|Ejercicio2_DIP_Bedore\\Ejercicio2_DIP_Bedore.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana3\\viernes_20_12\\clases\\dip\\ejercicio2\\before\\ejercicio2_dip_bedore\\ejercicio2_dip_bedore\\sms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C59D2386-3C95-447E-822C-B8F7D914C764}|Ejercicio2_DIP_Bedore\\Ejercicio2_DIP_Bedore.csproj|solutionrelative:ejercicio2_dip_bedore\\sms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Viernes_20_12\\Clases\\DIP\\Ejercicio2\\Before\\Ejercicio2_DIP_Bedore\\Ejercicio2_DIP_Bedore\\Employee.cs",
+              "RelativeDocumentMoniker": "Ejercicio2_DIP_Bedore\\Employee.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Viernes_20_12\\Clases\\DIP\\Ejercicio2\\Before\\Ejercicio2_DIP_Bedore\\Ejercicio2_DIP_Bedore\\Employee.cs",
+              "RelativeToolTip": "Ejercicio2_DIP_Bedore\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:34:07.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SMS.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Viernes_20_12\\Clases\\DIP\\Ejercicio2\\Before\\Ejercicio2_DIP_Bedore\\Ejercicio2_DIP_Bedore\\SMS.cs",
+              "RelativeDocumentMoniker": "Ejercicio2_DIP_Bedore\\SMS.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Viernes_20_12\\Clases\\DIP\\Ejercicio2\\Before\\Ejercicio2_DIP_Bedore\\Ejercicio2_DIP_Bedore\\SMS.cs",
+              "RelativeToolTip": "Ejercicio2_DIP_Bedore\\SMS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:31:52.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Viernes_20_12\\Clases\\DIP\\Ejercicio2\\Before\\Ejercicio2_DIP_Bedore\\Ejercicio2_DIP_Bedore\\Email.cs",
+              "RelativeDocumentMoniker": "Ejercicio2_DIP_Bedore\\Email.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Viernes_20_12\\Clases\\DIP\\Ejercicio2\\Before\\Ejercicio2_DIP_Bedore\\Ejercicio2_DIP_Bedore\\Email.cs",
+              "RelativeToolTip": "Ejercicio2_DIP_Bedore\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:29:38.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Viernes_20_12\\Clases\\DIP\\Ejercicio2\\Before\\Ejercicio2_DIP_Bedore\\Ejercicio2_DIP_Bedore\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio2_DIP_Bedore\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Viernes_20_12\\Clases\\DIP\\Ejercicio2\\Before\\Ejercicio2_DIP_Bedore\\Ejercicio2_DIP_Bedore\\Program.cs",
+              "RelativeToolTip": "Ejercicio2_DIP_Bedore\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:29:20.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

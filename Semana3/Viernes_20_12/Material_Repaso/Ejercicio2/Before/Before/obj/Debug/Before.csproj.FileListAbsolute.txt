@@ -1,0 +1,12 @@
+C:\DiskD\CodigoTecsup\C#\SOLID\5-DIP\5-DIP\Exercises\Before\Before\bin\Debug\Before.dll
+C:\DiskD\CodigoTecsup\C#\SOLID\5-DIP\5-DIP\Exercises\Before\Before\bin\Debug\Before.pdb
+C:\DiskD\CodigoTecsup\C#\SOLID\5-DIP\5-DIP\Exercises\Before\Before\obj\Debug\Before.csproj.AssemblyReference.cache
+C:\DiskD\CodigoTecsup\C#\SOLID\5-DIP\5-DIP\Exercises\Before\Before\obj\Debug\Before.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\SOLID\5-DIP\5-DIP\Exercises\Before\Before\obj\Debug\Before.dll
+C:\DiskD\CodigoTecsup\C#\SOLID\5-DIP\5-DIP\Exercises\Before\Before\obj\Debug\Before.pdb
+C:\DiskD\CodigoTecsup\C#\SOLID\5-DIP\5-DIP\Ejercicio2\Before\Before\bin\Debug\Before.dll
+C:\DiskD\CodigoTecsup\C#\SOLID\5-DIP\5-DIP\Ejercicio2\Before\Before\bin\Debug\Before.pdb
+C:\DiskD\CodigoTecsup\C#\SOLID\5-DIP\5-DIP\Ejercicio2\Before\Before\obj\Debug\Before.csproj.AssemblyReference.cache
+C:\DiskD\CodigoTecsup\C#\SOLID\5-DIP\5-DIP\Ejercicio2\Before\Before\obj\Debug\Before.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\SOLID\5-DIP\5-DIP\Ejercicio2\Before\Before\obj\Debug\Before.dll
+C:\DiskD\CodigoTecsup\C#\SOLID\5-DIP\5-DIP\Ejercicio2\Before\Before\obj\Debug\Before.pdb

@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Viernes_20_12\\Clases\\DIP\\Ejercicio1\\Before\\Ejercicio1_DIP_Before\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6C09A3-28FE-4274-8948-2DECB6D02D50}|Ejercicio1_DIP_Before\\Ejercicio1_DIP_Before.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana3\\viernes_20_12\\clases\\dip\\ejercicio1\\before\\ejercicio1_dip_before\\ejercicio1_dip_before\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6C09A3-28FE-4274-8948-2DECB6D02D50}|Ejercicio1_DIP_Before\\Ejercicio1_DIP_Before.csproj|solutionrelative:ejercicio1_dip_before\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6C09A3-28FE-4274-8948-2DECB6D02D50}|Ejercicio1_DIP_Before\\Ejercicio1_DIP_Before.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana3\\viernes_20_12\\clases\\dip\\ejercicio1\\before\\ejercicio1_dip_before\\ejercicio1_dip_before\\employeesearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6C09A3-28FE-4274-8948-2DECB6D02D50}|Ejercicio1_DIP_Before\\Ejercicio1_DIP_Before.csproj|solutionrelative:ejercicio1_dip_before\\employeesearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6C09A3-28FE-4274-8948-2DECB6D02D50}|Ejercicio1_DIP_Before\\Ejercicio1_DIP_Before.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana3\\viernes_20_12\\clases\\dip\\ejercicio1\\before\\ejercicio1_dip_before\\ejercicio1_dip_before\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6C09A3-28FE-4274-8948-2DECB6D02D50}|Ejercicio1_DIP_Before\\Ejercicio1_DIP_Before.csproj|solutionrelative:ejercicio1_dip_before\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6C09A3-28FE-4274-8948-2DECB6D02D50}|Ejercicio1_DIP_Before\\Ejercicio1_DIP_Before.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana3\\viernes_20_12\\clases\\dip\\ejercicio1\\before\\ejercicio1_dip_before\\ejercicio1_dip_before\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6C09A3-28FE-4274-8948-2DECB6D02D50}|Ejercicio1_DIP_Before\\Ejercicio1_DIP_Before.csproj|solutionrelative:ejercicio1_dip_before\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6C09A3-28FE-4274-8948-2DECB6D02D50}|Ejercicio1_DIP_Before\\Ejercicio1_DIP_Before.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana3\\viernes_20_12\\clases\\dip\\ejercicio1\\before\\ejercicio1_dip_before\\ejercicio1_dip_before\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6C09A3-28FE-4274-8948-2DECB6D02D50}|Ejercicio1_DIP_Before\\Ejercicio1_DIP_Before.csproj|solutionrelative:ejercicio1_dip_before\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6C09A3-28FE-4274-8948-2DECB6D02D50}|Ejercicio1_DIP_Before\\Ejercicio1_DIP_Before.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana3\\viernes_20_12\\clases\\dip\\ejercicio1\\before\\ejercicio1_dip_before\\ejercicio1_dip_before\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6C09A3-28FE-4274-8948-2DECB6D02D50}|Ejercicio1_DIP_Before\\Ejercicio1_DIP_Before.csproj|solutionrelative:ejercicio1_dip_before\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeSearch.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Viernes_20_12\\Clases\\DIP\\Ejercicio1\\Before\\Ejercicio1_DIP_Before\\Ejercicio1_DIP_Before\\EmployeeSearch.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_DIP_Before\\EmployeeSearch.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Viernes_20_12\\Clases\\DIP\\Ejercicio1\\Before\\Ejercicio1_DIP_Before\\Ejercicio1_DIP_Before\\EmployeeSearch.cs",
+              "RelativeToolTip": "Ejercicio1_DIP_Before\\EmployeeSearch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T01:02:19.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeManager.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Viernes_20_12\\Clases\\DIP\\Ejercicio1\\Before\\Ejercicio1_DIP_Before\\Ejercicio1_DIP_Before\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_DIP_Before\\EmployeeManager.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Viernes_20_12\\Clases\\DIP\\Ejercicio1\\Before\\Ejercicio1_DIP_Before\\Ejercicio1_DIP_Before\\EmployeeManager.cs",
+              "RelativeToolTip": "Ejercicio1_DIP_Before\\EmployeeManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T00:51:08.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Viernes_20_12\\Clases\\DIP\\Ejercicio1\\Before\\Ejercicio1_DIP_Before\\Ejercicio1_DIP_Before\\Gender.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_DIP_Before\\Gender.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Viernes_20_12\\Clases\\DIP\\Ejercicio1\\Before\\Ejercicio1_DIP_Before\\Ejercicio1_DIP_Before\\Gender.cs",
+              "RelativeToolTip": "Ejercicio1_DIP_Before\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T00:49:48.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Viernes_20_12\\Clases\\DIP\\Ejercicio1\\Before\\Ejercicio1_DIP_Before\\Ejercicio1_DIP_Before\\Role.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_DIP_Before\\Role.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Viernes_20_12\\Clases\\DIP\\Ejercicio1\\Before\\Ejercicio1_DIP_Before\\Ejercicio1_DIP_Before\\Role.cs",
+              "RelativeToolTip": "Ejercicio1_DIP_Before\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T00:48:59.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Viernes_20_12\\Clases\\DIP\\Ejercicio1\\Before\\Ejercicio1_DIP_Before\\Ejercicio1_DIP_Before\\Employee.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_DIP_Before\\Employee.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Viernes_20_12\\Clases\\DIP\\Ejercicio1\\Before\\Ejercicio1_DIP_Before\\Ejercicio1_DIP_Before\\Employee.cs",
+              "RelativeToolTip": "Ejercicio1_DIP_Before\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T00:48:23.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Viernes_20_12\\Clases\\DIP\\Ejercicio1\\Before\\Ejercicio1_DIP_Before\\Ejercicio1_DIP_Before\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_DIP_Before\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana3\\Viernes_20_12\\Clases\\DIP\\Ejercicio1\\Before\\Ejercicio1_DIP_Before\\Ejercicio1_DIP_Before\\Program.cs",
+              "RelativeToolTip": "Ejercicio1_DIP_Before\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T00:48:01.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

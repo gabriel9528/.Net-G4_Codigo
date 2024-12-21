@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio1\Before\Ejercicio1_DIP_Before\Ejercicio1_DIP_Before\bin\Debug\net8.0\Ejercicio1_DIP_Before.exe
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio1\Before\Ejercicio1_DIP_Before\Ejercicio1_DIP_Before\bin\Debug\net8.0\Ejercicio1_DIP_Before.deps.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio1\Before\Ejercicio1_DIP_Before\Ejercicio1_DIP_Before\bin\Debug\net8.0\Ejercicio1_DIP_Before.runtimeconfig.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio1\Before\Ejercicio1_DIP_Before\Ejercicio1_DIP_Before\bin\Debug\net8.0\Ejercicio1_DIP_Before.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio1\Before\Ejercicio1_DIP_Before\Ejercicio1_DIP_Before\bin\Debug\net8.0\Ejercicio1_DIP_Before.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio1\Before\Ejercicio1_DIP_Before\Ejercicio1_DIP_Before\obj\Debug\net8.0\Ejercicio1_DIP_Before.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio1\Before\Ejercicio1_DIP_Before\Ejercicio1_DIP_Before\obj\Debug\net8.0\Ejercicio1_DIP_Before.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio1\Before\Ejercicio1_DIP_Before\Ejercicio1_DIP_Before\obj\Debug\net8.0\Ejercicio1_DIP_Before.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio1\Before\Ejercicio1_DIP_Before\Ejercicio1_DIP_Before\obj\Debug\net8.0\Ejercicio1_DIP_Before.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio1\Before\Ejercicio1_DIP_Before\Ejercicio1_DIP_Before\obj\Debug\net8.0\Ejercicio1_DIP_Before.sourcelink.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio1\Before\Ejercicio1_DIP_Before\Ejercicio1_DIP_Before\obj\Debug\net8.0\Ejercicio1_DIP_Before.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio1\Before\Ejercicio1_DIP_Before\Ejercicio1_DIP_Before\obj\Debug\net8.0\refint\Ejercicio1_DIP_Before.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio1\Before\Ejercicio1_DIP_Before\Ejercicio1_DIP_Before\obj\Debug\net8.0\Ejercicio1_DIP_Before.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio1\Before\Ejercicio1_DIP_Before\Ejercicio1_DIP_Before\obj\Debug\net8.0\Ejercicio1_DIP_Before.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana3\Viernes_20_12\Clases\DIP\Ejercicio1\Before\Ejercicio1_DIP_Before\Ejercicio1_DIP_Before\obj\Debug\net8.0\ref\Ejercicio1_DIP_Before.dll

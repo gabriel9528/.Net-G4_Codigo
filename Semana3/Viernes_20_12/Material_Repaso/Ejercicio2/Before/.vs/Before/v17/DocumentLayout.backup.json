@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase3\\Ejercicio2\\Before\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3070DB2-5BD4-4929-A22F-2C8201C7EC35}|Before_Console\\Before_Console.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana3_principiossolid\\clase3\\ejercicio2\\before\\before_console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3070DB2-5BD4-4929-A22F-2C8201C7EC35}|Before_Console\\Before_Console.csproj|solutionrelative:before_console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7295C7AF-3C50-43AC-BAFF-42B670EC1F2A}|Before\\Before.csproj|C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase3\\Ejercicio2\\Before\\before\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7295C7AF-3C50-43AC-BAFF-42B670EC1F2A}|Before\\Before.csproj|solutionrelative:before\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7295C7AF-3C50-43AC-BAFF-42B670EC1F2A}|Before\\Before.csproj|C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase3\\Ejercicio2\\Before\\before\\sms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7295C7AF-3C50-43AC-BAFF-42B670EC1F2A}|Before\\Before.csproj|solutionrelative:before\\sms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7295C7AF-3C50-43AC-BAFF-42B670EC1F2A}|Before\\Before.csproj|C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase3\\Ejercicio2\\Before\\before\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7295C7AF-3C50-43AC-BAFF-42B670EC1F2A}|Before\\Before.csproj|solutionrelative:before\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase3\\Ejercicio2\\Before\\Before_Console\\Program.cs",
+              "RelativeDocumentMoniker": "Before_Console\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase3\\Ejercicio2\\Before\\Before_Console\\Program.cs",
+              "RelativeToolTip": "Before_Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T13:51:38.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SMS.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase3\\Ejercicio2\\Before\\Before\\SMS.cs",
+              "RelativeDocumentMoniker": "Before\\SMS.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase3\\Ejercicio2\\Before\\Before\\SMS.cs",
+              "RelativeToolTip": "Before\\SMS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T12:10:05.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase3\\Ejercicio2\\Before\\Before\\Employee.cs",
+              "RelativeDocumentMoniker": "Before\\Employee.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase3\\Ejercicio2\\Before\\Before\\Employee.cs",
+              "RelativeToolTip": "Before\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T12:09:38.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase3\\Ejercicio2\\Before\\Before\\Email.cs",
+              "RelativeDocumentMoniker": "Before\\Email.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana3_PrincipiosSOLID\\clase3\\Ejercicio2\\Before\\Before\\Email.cs",
+              "RelativeToolTip": "Before\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T12:09:34.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
