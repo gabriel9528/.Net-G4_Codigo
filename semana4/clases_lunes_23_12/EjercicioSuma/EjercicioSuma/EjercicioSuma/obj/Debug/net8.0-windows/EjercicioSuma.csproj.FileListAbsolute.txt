@@ -1,0 +1,17 @@
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_lunes_23_12\EjercicioSuma\EjercicioSuma\EjercicioSuma\bin\Debug\net8.0-windows\EjercicioSuma.exe
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_lunes_23_12\EjercicioSuma\EjercicioSuma\EjercicioSuma\bin\Debug\net8.0-windows\EjercicioSuma.deps.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_lunes_23_12\EjercicioSuma\EjercicioSuma\EjercicioSuma\bin\Debug\net8.0-windows\EjercicioSuma.runtimeconfig.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_lunes_23_12\EjercicioSuma\EjercicioSuma\EjercicioSuma\bin\Debug\net8.0-windows\EjercicioSuma.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_lunes_23_12\EjercicioSuma\EjercicioSuma\EjercicioSuma\bin\Debug\net8.0-windows\EjercicioSuma.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_lunes_23_12\EjercicioSuma\EjercicioSuma\EjercicioSuma\obj\Debug\net8.0-windows\EjercicioSuma.Form1.resources
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_lunes_23_12\EjercicioSuma\EjercicioSuma\EjercicioSuma\obj\Debug\net8.0-windows\EjercicioSuma.csproj.GenerateResource.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_lunes_23_12\EjercicioSuma\EjercicioSuma\EjercicioSuma\obj\Debug\net8.0-windows\EjercicioSuma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_lunes_23_12\EjercicioSuma\EjercicioSuma\EjercicioSuma\obj\Debug\net8.0-windows\EjercicioSuma.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_lunes_23_12\EjercicioSuma\EjercicioSuma\EjercicioSuma\obj\Debug\net8.0-windows\EjercicioSuma.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_lunes_23_12\EjercicioSuma\EjercicioSuma\EjercicioSuma\obj\Debug\net8.0-windows\EjercicioSuma.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_lunes_23_12\EjercicioSuma\EjercicioSuma\EjercicioSuma\obj\Debug\net8.0-windows\EjercicioSuma.sourcelink.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_lunes_23_12\EjercicioSuma\EjercicioSuma\EjercicioSuma\obj\Debug\net8.0-windows\EjercicioSuma.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_lunes_23_12\EjercicioSuma\EjercicioSuma\EjercicioSuma\obj\Debug\net8.0-windows\refint\EjercicioSuma.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_lunes_23_12\EjercicioSuma\EjercicioSuma\EjercicioSuma\obj\Debug\net8.0-windows\EjercicioSuma.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_lunes_23_12\EjercicioSuma\EjercicioSuma\EjercicioSuma\obj\Debug\net8.0-windows\EjercicioSuma.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_lunes_23_12\EjercicioSuma\EjercicioSuma\EjercicioSuma\obj\Debug\net8.0-windows\ref\EjercicioSuma.dll

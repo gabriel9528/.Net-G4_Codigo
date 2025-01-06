@@ -1,0 +1,17 @@
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_Viernes_03_01\AplicacionVentas\AplicacionVentas\AplicacionVentas\bin\Debug\net8.0-windows\AplicacionVentas.exe
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_Viernes_03_01\AplicacionVentas\AplicacionVentas\AplicacionVentas\bin\Debug\net8.0-windows\AplicacionVentas.deps.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_Viernes_03_01\AplicacionVentas\AplicacionVentas\AplicacionVentas\bin\Debug\net8.0-windows\AplicacionVentas.runtimeconfig.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_Viernes_03_01\AplicacionVentas\AplicacionVentas\AplicacionVentas\bin\Debug\net8.0-windows\AplicacionVentas.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_Viernes_03_01\AplicacionVentas\AplicacionVentas\AplicacionVentas\bin\Debug\net8.0-windows\AplicacionVentas.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_Viernes_03_01\AplicacionVentas\AplicacionVentas\AplicacionVentas\obj\Debug\net8.0-windows\AplicacionVentas.Form1.resources
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_Viernes_03_01\AplicacionVentas\AplicacionVentas\AplicacionVentas\obj\Debug\net8.0-windows\AplicacionVentas.csproj.GenerateResource.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_Viernes_03_01\AplicacionVentas\AplicacionVentas\AplicacionVentas\obj\Debug\net8.0-windows\AplicacionVentas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_Viernes_03_01\AplicacionVentas\AplicacionVentas\AplicacionVentas\obj\Debug\net8.0-windows\AplicacionVentas.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_Viernes_03_01\AplicacionVentas\AplicacionVentas\AplicacionVentas\obj\Debug\net8.0-windows\AplicacionVentas.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_Viernes_03_01\AplicacionVentas\AplicacionVentas\AplicacionVentas\obj\Debug\net8.0-windows\AplicacionVentas.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_Viernes_03_01\AplicacionVentas\AplicacionVentas\AplicacionVentas\obj\Debug\net8.0-windows\AplicacionVentas.sourcelink.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_Viernes_03_01\AplicacionVentas\AplicacionVentas\AplicacionVentas\obj\Debug\net8.0-windows\AplicacionVentas.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_Viernes_03_01\AplicacionVentas\AplicacionVentas\AplicacionVentas\obj\Debug\net8.0-windows\refint\AplicacionVentas.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_Viernes_03_01\AplicacionVentas\AplicacionVentas\AplicacionVentas\obj\Debug\net8.0-windows\AplicacionVentas.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_Viernes_03_01\AplicacionVentas\AplicacionVentas\AplicacionVentas\obj\Debug\net8.0-windows\AplicacionVentas.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\semana4\clases_Viernes_03_01\AplicacionVentas\AplicacionVentas\AplicacionVentas\obj\Debug\net8.0-windows\ref\AplicacionVentas.dll

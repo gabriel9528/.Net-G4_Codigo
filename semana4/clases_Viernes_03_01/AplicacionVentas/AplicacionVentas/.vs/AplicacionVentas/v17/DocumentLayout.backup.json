@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\semana4\\clases_Viernes_03_01\\AplicacionVentas\\AplicacionVentas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF25BC3-2C5C-495A-8635-3BB42E728784}|AplicacionVentas\\AplicacionVentas.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana4\\clases_viernes_03_01\\aplicacionventas\\aplicacionventas\\aplicacionventas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF25BC3-2C5C-495A-8635-3BB42E728784}|AplicacionVentas\\AplicacionVentas.csproj|solutionrelative:aplicacionventas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF25BC3-2C5C-495A-8635-3BB42E728784}|AplicacionVentas\\AplicacionVentas.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana4\\clases_viernes_03_01\\aplicacionventas\\aplicacionventas\\aplicacionventas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BF25BC3-2C5C-495A-8635-3BB42E728784}|AplicacionVentas\\AplicacionVentas.csproj|solutionrelative:aplicacionventas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF25BC3-2C5C-495A-8635-3BB42E728784}|AplicacionVentas\\AplicacionVentas.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana4\\clases_viernes_03_01\\aplicacionventas\\aplicacionventas\\aplicacionventas\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF25BC3-2C5C-495A-8635-3BB42E728784}|AplicacionVentas\\AplicacionVentas.csproj|solutionrelative:aplicacionventas\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\semana4\\clases_Viernes_03_01\\AplicacionVentas\\AplicacionVentas\\AplicacionVentas\\Form1.cs",
+              "RelativeDocumentMoniker": "AplicacionVentas\\Form1.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\semana4\\clases_Viernes_03_01\\AplicacionVentas\\AplicacionVentas\\AplicacionVentas\\Form1.cs",
+              "RelativeToolTip": "AplicacionVentas\\Form1.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAYwGEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T03:05:57.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\semana4\\clases_Viernes_03_01\\AplicacionVentas\\AplicacionVentas\\AplicacionVentas\\Ventas.cs",
+              "RelativeDocumentMoniker": "AplicacionVentas\\Ventas.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\semana4\\clases_Viernes_03_01\\AplicacionVentas\\AplicacionVentas\\AplicacionVentas\\Ventas.cs",
+              "RelativeToolTip": "AplicacionVentas\\Ventas.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T02:48:01.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\semana4\\clases_Viernes_03_01\\AplicacionVentas\\AplicacionVentas\\AplicacionVentas\\Form1.cs",
+              "RelativeDocumentMoniker": "AplicacionVentas\\Form1.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\semana4\\clases_Viernes_03_01\\AplicacionVentas\\AplicacionVentas\\AplicacionVentas\\Form1.cs [Design]",
+              "RelativeToolTip": "AplicacionVentas\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T02:12:15.393Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
