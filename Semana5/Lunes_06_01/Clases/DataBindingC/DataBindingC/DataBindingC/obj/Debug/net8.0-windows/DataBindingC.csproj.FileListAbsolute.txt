@@ -1,0 +1,17 @@
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\DataBindingC\DataBindingC\DataBindingC\bin\Debug\net8.0-windows\DataBindingC.exe
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\DataBindingC\DataBindingC\DataBindingC\bin\Debug\net8.0-windows\DataBindingC.deps.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\DataBindingC\DataBindingC\DataBindingC\bin\Debug\net8.0-windows\DataBindingC.runtimeconfig.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\DataBindingC\DataBindingC\DataBindingC\bin\Debug\net8.0-windows\DataBindingC.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\DataBindingC\DataBindingC\DataBindingC\bin\Debug\net8.0-windows\DataBindingC.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\DataBindingC\DataBindingC\DataBindingC\obj\Debug\net8.0-windows\DataBindingC.Form1.resources
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\DataBindingC\DataBindingC\DataBindingC\obj\Debug\net8.0-windows\DataBindingC.csproj.GenerateResource.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\DataBindingC\DataBindingC\DataBindingC\obj\Debug\net8.0-windows\DataBindingC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\DataBindingC\DataBindingC\DataBindingC\obj\Debug\net8.0-windows\DataBindingC.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\DataBindingC\DataBindingC\DataBindingC\obj\Debug\net8.0-windows\DataBindingC.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\DataBindingC\DataBindingC\DataBindingC\obj\Debug\net8.0-windows\DataBindingC.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\DataBindingC\DataBindingC\DataBindingC\obj\Debug\net8.0-windows\DataBindingC.sourcelink.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\DataBindingC\DataBindingC\DataBindingC\obj\Debug\net8.0-windows\DataBindingC.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\DataBindingC\DataBindingC\DataBindingC\obj\Debug\net8.0-windows\refint\DataBindingC.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\DataBindingC\DataBindingC\DataBindingC\obj\Debug\net8.0-windows\DataBindingC.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\DataBindingC\DataBindingC\DataBindingC\obj\Debug\net8.0-windows\DataBindingC.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\DataBindingC\DataBindingC\DataBindingC\obj\Debug\net8.0-windows\ref\DataBindingC.dll

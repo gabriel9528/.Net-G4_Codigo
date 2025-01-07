@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NotifyPropertyChanged2/1.0.0": {
+        "runtime": {
+          "NotifyPropertyChanged2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NotifyPropertyChanged2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

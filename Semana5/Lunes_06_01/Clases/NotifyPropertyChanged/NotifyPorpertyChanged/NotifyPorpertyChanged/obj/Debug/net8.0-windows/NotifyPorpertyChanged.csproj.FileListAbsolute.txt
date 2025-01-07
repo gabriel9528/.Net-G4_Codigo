@@ -1,0 +1,17 @@
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\NotifyPropertyChanged\NotifyPorpertyChanged\NotifyPorpertyChanged\bin\Debug\net8.0-windows\NotifyPorpertyChanged.exe
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\NotifyPropertyChanged\NotifyPorpertyChanged\NotifyPorpertyChanged\bin\Debug\net8.0-windows\NotifyPorpertyChanged.deps.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\NotifyPropertyChanged\NotifyPorpertyChanged\NotifyPorpertyChanged\bin\Debug\net8.0-windows\NotifyPorpertyChanged.runtimeconfig.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\NotifyPropertyChanged\NotifyPorpertyChanged\NotifyPorpertyChanged\bin\Debug\net8.0-windows\NotifyPorpertyChanged.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\NotifyPropertyChanged\NotifyPorpertyChanged\NotifyPorpertyChanged\bin\Debug\net8.0-windows\NotifyPorpertyChanged.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\NotifyPropertyChanged\NotifyPorpertyChanged\NotifyPorpertyChanged\obj\Debug\net8.0-windows\NotifyPorpertyChanged.Form1.resources
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\NotifyPropertyChanged\NotifyPorpertyChanged\NotifyPorpertyChanged\obj\Debug\net8.0-windows\NotifyPorpertyChanged.csproj.GenerateResource.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\NotifyPropertyChanged\NotifyPorpertyChanged\NotifyPorpertyChanged\obj\Debug\net8.0-windows\NotifyPorpertyChanged.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\NotifyPropertyChanged\NotifyPorpertyChanged\NotifyPorpertyChanged\obj\Debug\net8.0-windows\NotifyPorpertyChanged.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\NotifyPropertyChanged\NotifyPorpertyChanged\NotifyPorpertyChanged\obj\Debug\net8.0-windows\NotifyPorpertyChanged.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\NotifyPropertyChanged\NotifyPorpertyChanged\NotifyPorpertyChanged\obj\Debug\net8.0-windows\NotifyPorpertyChanged.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\NotifyPropertyChanged\NotifyPorpertyChanged\NotifyPorpertyChanged\obj\Debug\net8.0-windows\NotifyPorpertyChanged.sourcelink.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\NotifyPropertyChanged\NotifyPorpertyChanged\NotifyPorpertyChanged\obj\Debug\net8.0-windows\NotifyPorpertyChanged.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\NotifyPropertyChanged\NotifyPorpertyChanged\NotifyPorpertyChanged\obj\Debug\net8.0-windows\refint\NotifyPorpertyChanged.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\NotifyPropertyChanged\NotifyPorpertyChanged\NotifyPorpertyChanged\obj\Debug\net8.0-windows\NotifyPorpertyChanged.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\NotifyPropertyChanged\NotifyPorpertyChanged\NotifyPorpertyChanged\obj\Debug\net8.0-windows\NotifyPorpertyChanged.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\NotifyPropertyChanged\NotifyPorpertyChanged\NotifyPorpertyChanged\obj\Debug\net8.0-windows\ref\NotifyPorpertyChanged.dll

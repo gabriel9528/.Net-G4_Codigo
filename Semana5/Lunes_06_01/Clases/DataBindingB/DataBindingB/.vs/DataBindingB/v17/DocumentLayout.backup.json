@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana5\\Lunes_06_01\\Clases\\DataBindingB\\DataBindingB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E74AC37B-0BFB-4819-B78C-E56C51839655}|DataBindingB\\DataBindingB.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana5\\lunes_06_01\\clases\\databindingb\\databindingb\\databindingb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74AC37B-0BFB-4819-B78C-E56C51839655}|DataBindingB\\DataBindingB.csproj|solutionrelative:databindingb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74AC37B-0BFB-4819-B78C-E56C51839655}|DataBindingB\\DataBindingB.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana5\\lunes_06_01\\clases\\databindingb\\databindingb\\databindingb\\universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74AC37B-0BFB-4819-B78C-E56C51839655}|DataBindingB\\DataBindingB.csproj|solutionrelative:databindingb\\universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74AC37B-0BFB-4819-B78C-E56C51839655}|DataBindingB\\DataBindingB.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana5\\lunes_06_01\\clases\\databindingb\\databindingb\\databindingb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74AC37B-0BFB-4819-B78C-E56C51839655}|DataBindingB\\DataBindingB.csproj|solutionrelative:databindingb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana5\\Lunes_06_01\\Clases\\DataBindingB\\DataBindingB\\DataBindingB\\Form1.cs",
+              "RelativeDocumentMoniker": "DataBindingB\\Form1.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana5\\Lunes_06_01\\Clases\\DataBindingB\\DataBindingB\\DataBindingB\\Form1.cs",
+              "RelativeToolTip": "DataBindingB\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T00:55:34.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Universidad.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana5\\Lunes_06_01\\Clases\\DataBindingB\\DataBindingB\\DataBindingB\\Universidad.cs",
+              "RelativeDocumentMoniker": "DataBindingB\\Universidad.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana5\\Lunes_06_01\\Clases\\DataBindingB\\DataBindingB\\DataBindingB\\Universidad.cs",
+              "RelativeToolTip": "DataBindingB\\Universidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T00:53:44.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana5\\Lunes_06_01\\Clases\\DataBindingB\\DataBindingB\\DataBindingB\\Form1.cs",
+              "RelativeDocumentMoniker": "DataBindingB\\Form1.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana5\\Lunes_06_01\\Clases\\DataBindingB\\DataBindingB\\DataBindingB\\Form1.cs [Design]",
+              "RelativeToolTip": "DataBindingB\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T00:49:40.131Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

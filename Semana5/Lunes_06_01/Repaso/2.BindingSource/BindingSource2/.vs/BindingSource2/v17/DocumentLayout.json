@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase3\\2.BindingSource\\BindingSource2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88B9EFAA-8CEE-4D5D-8D6D-05D99DBE633E}|BindingSource2\\BindingSource2.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana4_windowsforms\\clase3\\2.bindingsource\\bindingsource2\\bindingsource2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B9EFAA-8CEE-4D5D-8D6D-05D99DBE633E}|BindingSource2\\BindingSource2.csproj|solutionrelative:bindingsource2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B9EFAA-8CEE-4D5D-8D6D-05D99DBE633E}|BindingSource2\\BindingSource2.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana4_windowsforms\\clase3\\2.bindingsource\\bindingsource2\\bindingsource2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B9EFAA-8CEE-4D5D-8D6D-05D99DBE633E}|BindingSource2\\BindingSource2.csproj|solutionrelative:bindingsource2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B9EFAA-8CEE-4D5D-8D6D-05D99DBE633E}|BindingSource2\\BindingSource2.csproj|C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase3\\2.BindingSource\\BindingSource2\\bindingsource2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88B9EFAA-8CEE-4D5D-8D6D-05D99DBE633E}|BindingSource2\\BindingSource2.csproj|solutionrelative:bindingsource2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B9EFAA-8CEE-4D5D-8D6D-05D99DBE633E}|BindingSource2\\BindingSource2.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana4_windowsforms\\clase3\\2.bindingsource\\bindingsource2\\bindingsource2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B9EFAA-8CEE-4D5D-8D6D-05D99DBE633E}|BindingSource2\\BindingSource2.csproj|solutionrelative:bindingsource2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase3\\2.BindingSource\\BindingSource2\\BindingSource2\\Customer.cs",
+              "RelativeDocumentMoniker": "BindingSource2\\Customer.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase3\\2.BindingSource\\BindingSource2\\BindingSource2\\Customer.cs",
+              "RelativeToolTip": "BindingSource2\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T05:02:58.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase3\\2.BindingSource\\BindingSource2\\BindingSource2\\Form1.cs",
+              "RelativeDocumentMoniker": "BindingSource2\\Form1.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase3\\2.BindingSource\\BindingSource2\\BindingSource2\\Form1.cs [Design]",
+              "RelativeToolTip": "BindingSource2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T04:37:58.097Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase3\\2.BindingSource\\BindingSource2\\BindingSource2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "BindingSource2\\Form1.Designer.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase3\\2.BindingSource\\BindingSource2\\BindingSource2\\Form1.Designer.cs",
+              "RelativeToolTip": "BindingSource2\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T04:20:36.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase3\\2.BindingSource\\BindingSource2\\BindingSource2\\Form1.cs",
+              "RelativeDocumentMoniker": "BindingSource2\\Form1.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase3\\2.BindingSource\\BindingSource2\\BindingSource2\\Form1.cs",
+              "RelativeToolTip": "BindingSource2\\Form1.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAowFcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T04:10:29.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

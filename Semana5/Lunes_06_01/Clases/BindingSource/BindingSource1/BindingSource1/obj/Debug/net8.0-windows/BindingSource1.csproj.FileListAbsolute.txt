@@ -1,0 +1,17 @@
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\BindingSource\BindingSource1\BindingSource1\bin\Debug\net8.0-windows\BindingSource1.exe
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\BindingSource\BindingSource1\BindingSource1\bin\Debug\net8.0-windows\BindingSource1.deps.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\BindingSource\BindingSource1\BindingSource1\bin\Debug\net8.0-windows\BindingSource1.runtimeconfig.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\BindingSource\BindingSource1\BindingSource1\bin\Debug\net8.0-windows\BindingSource1.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\BindingSource\BindingSource1\BindingSource1\bin\Debug\net8.0-windows\BindingSource1.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\BindingSource\BindingSource1\BindingSource1\obj\Debug\net8.0-windows\BindingSource1.Form1.resources
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\BindingSource\BindingSource1\BindingSource1\obj\Debug\net8.0-windows\BindingSource1.csproj.GenerateResource.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\BindingSource\BindingSource1\BindingSource1\obj\Debug\net8.0-windows\BindingSource1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\BindingSource\BindingSource1\BindingSource1\obj\Debug\net8.0-windows\BindingSource1.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\BindingSource\BindingSource1\BindingSource1\obj\Debug\net8.0-windows\BindingSource1.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\BindingSource\BindingSource1\BindingSource1\obj\Debug\net8.0-windows\BindingSource1.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\BindingSource\BindingSource1\BindingSource1\obj\Debug\net8.0-windows\BindingSource1.sourcelink.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\BindingSource\BindingSource1\BindingSource1\obj\Debug\net8.0-windows\BindingSource1.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\BindingSource\BindingSource1\BindingSource1\obj\Debug\net8.0-windows\refint\BindingSource1.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\BindingSource\BindingSource1\BindingSource1\obj\Debug\net8.0-windows\BindingSource1.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\BindingSource\BindingSource1\BindingSource1\obj\Debug\net8.0-windows\BindingSource1.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana5\Lunes_06_01\Clases\BindingSource\BindingSource1\BindingSource1\obj\Debug\net8.0-windows\ref\BindingSource1.dll

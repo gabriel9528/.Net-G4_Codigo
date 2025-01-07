@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase3\\3.NotifyPropertyChangee\\Ejercicio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B36AF26-2687-4D42-AAC9-7CBD3C38D18A}|Ejercicio9\\Ejercicio9.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana4_windowsforms\\clase3\\3.notifypropertychangee\\ejercicio1\\ejercicio9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B36AF26-2687-4D42-AAC9-7CBD3C38D18A}|Ejercicio9\\Ejercicio9.csproj|solutionrelative:ejercicio9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B36AF26-2687-4D42-AAC9-7CBD3C38D18A}|Ejercicio9\\Ejercicio9.csproj|C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase3\\3.NotifyPropertyChangee\\Ejercicio1\\ejercicio9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B36AF26-2687-4D42-AAC9-7CBD3C38D18A}|Ejercicio9\\Ejercicio9.csproj|solutionrelative:ejercicio9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B36AF26-2687-4D42-AAC9-7CBD3C38D18A}|Ejercicio9\\Ejercicio9.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana4_windowsforms\\clase3\\3.notifypropertychangee\\ejercicio1\\ejercicio9\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B36AF26-2687-4D42-AAC9-7CBD3C38D18A}|Ejercicio9\\Ejercicio9.csproj|solutionrelative:ejercicio9\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase3\\3.NotifyPropertyChangee\\Ejercicio1\\Ejercicio9\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio9\\Form1.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase3\\3.NotifyPropertyChangee\\Ejercicio1\\Ejercicio9\\Form1.cs",
+              "RelativeToolTip": "Ejercicio9\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:16:19.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase3\\3.NotifyPropertyChangee\\Ejercicio1\\Ejercicio9\\Producto.cs",
+              "RelativeDocumentMoniker": "Ejercicio9\\Producto.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase3\\3.NotifyPropertyChangee\\Ejercicio1\\Ejercicio9\\Producto.cs",
+              "RelativeToolTip": "Ejercicio9\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:11:58.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase3\\3.NotifyPropertyChangee\\Ejercicio1\\Ejercicio9\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio9\\Form1.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4_WindowsForms\\clase3\\3.NotifyPropertyChangee\\Ejercicio1\\Ejercicio9\\Form1.cs [Design]",
+              "RelativeToolTip": "Ejercicio9\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:11:47.952Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
