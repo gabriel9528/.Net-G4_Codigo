@@ -1,0 +1,39 @@
+﻿<Window x:Class="ComboBoxCheckBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ComboBoxCheckBox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="350"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Margin="100">
+            <ComboBox Name="Capitales">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding NombreCapital}" FontSize="16"></TextBlock>
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Margin="100">
+            <Label FontSize="16" FontWeight="ExtraBlack">Paises</Label>
+            <CheckBox x:Name="General" IsThreeState="True" Checked="General_Checked" Unchecked="General_Unchecked">Agregar Todas las capitales</CheckBox>
+
+            <StackPanel Margin="15">
+                <CheckBox x:Name="Lima" Checked="Individual_Checked" Unchecked="Individual_Unchecked">Lima</CheckBox>
+                <CheckBox x:Name="Bogota" Checked="Individual_Checked" Unchecked="Individual_Unchecked">Bogota</CheckBox>
+                <CheckBox x:Name="Santiago" Checked="Individual_Checked" Unchecked="Individual_Unchecked">Santiago</CheckBox>
+                <CheckBox x:Name="Quito" Checked="Individual_Checked" Unchecked="Individual_Unchecked">Quito</CheckBox>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

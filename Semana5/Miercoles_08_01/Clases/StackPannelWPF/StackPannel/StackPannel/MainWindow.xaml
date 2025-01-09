@@ -1,0 +1,14 @@
+﻿<Window x:Class="StackPannel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StackPannel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel PreviewMouseLeftButtonDown="StackPanel_PreviewMouseLeftButtonDown">
+        <Button Name="button1" Content="Boton 1" Width="100" Height="50" Margin="15" HorizontalAlignment="Left" Click="button1_Click"/>
+        <Button Name="button2" Content="Boton 2" Width="100" Height="50" Margin="15" HorizontalAlignment="Center"/>
+        <Button Name="button3" Content="Boton 3" Width="100" Height="50" Margin="15" HorizontalAlignment="Right"/>
+    </StackPanel>
+</Window>
