@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4\\clase1\\2.Elementos\\2.StackPannel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB1B3E0-3F09-4418-A8DB-7B669677CA49}|WpfStackPannel\\WpfStackPannel.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana4\\clase1\\2.elementos\\2.stackpannel\\wpfstackpannel\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB1B3E0-3F09-4418-A8DB-7B669677CA49}|WpfStackPannel\\WpfStackPannel.csproj|solutionrelative:wpfstackpannel\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB1B3E0-3F09-4418-A8DB-7B669677CA49}|WpfStackPannel\\WpfStackPannel.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana4\\clase1\\2.elementos\\2.stackpannel\\wpfstackpannel\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2BB1B3E0-3F09-4418-A8DB-7B669677CA49}|WpfStackPannel\\WpfStackPannel.csproj|solutionrelative:wpfstackpannel\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4\\clase1\\2.Elementos\\2.StackPannel\\WpfStackPannel\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfStackPannel\\MainWindow.xaml",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4\\clase1\\2.Elementos\\2.StackPannel\\WpfStackPannel\\MainWindow.xaml",
+              "RelativeToolTip": "WpfStackPannel\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-14T15:20:26.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4\\clase1\\2.Elementos\\2.StackPannel\\WpfStackPannel\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfStackPannel\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana4\\clase1\\2.Elementos\\2.StackPannel\\WpfStackPannel\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfStackPannel\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:20:26.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

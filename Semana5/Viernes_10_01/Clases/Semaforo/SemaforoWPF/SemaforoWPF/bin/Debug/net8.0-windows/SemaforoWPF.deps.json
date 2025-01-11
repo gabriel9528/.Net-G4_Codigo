@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SemaforoWPF/1.0.0": {
+        "runtime": {
+          "SemaforoWPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SemaforoWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

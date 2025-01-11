@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "INotifyProperty_WPF/1.0.0": {
+        "runtime": {
+          "INotifyProperty_WPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "INotifyProperty_WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

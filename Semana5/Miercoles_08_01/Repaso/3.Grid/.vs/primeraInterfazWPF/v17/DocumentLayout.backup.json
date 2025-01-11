@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase1\\2.Elementos\\3.Grid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B193CA8-12FB-4203-B4F0-BD38D521C427}|primeraInterfazWPF\\primeraInterfazWPF.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana5_wpf\\clase1\\2.elementos\\3.grid\\primerainterfazwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B193CA8-12FB-4203-B4F0-BD38D521C427}|primeraInterfazWPF\\primeraInterfazWPF.csproj|solutionrelative:primerainterfazwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B193CA8-12FB-4203-B4F0-BD38D521C427}|primeraInterfazWPF\\primeraInterfazWPF.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana5_wpf\\clase1\\2.elementos\\3.grid\\primerainterfazwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B193CA8-12FB-4203-B4F0-BD38D521C427}|primeraInterfazWPF\\primeraInterfazWPF.csproj|solutionrelative:primerainterfazwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B193CA8-12FB-4203-B4F0-BD38D521C427}|primeraInterfazWPF\\primeraInterfazWPF.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana5_wpf\\clase1\\2.elementos\\3.grid\\primerainterfazwpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B193CA8-12FB-4203-B4F0-BD38D521C427}|primeraInterfazWPF\\primeraInterfazWPF.csproj|solutionrelative:primerainterfazwpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase1\\2.Elementos\\3.Grid\\primeraInterfazWPF\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "primeraInterfazWPF\\AssemblyInfo.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase1\\2.Elementos\\3.Grid\\primeraInterfazWPF\\AssemblyInfo.cs",
+              "RelativeToolTip": "primeraInterfazWPF\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T17:04:52.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase1\\2.Elementos\\3.Grid\\primeraInterfazWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "primeraInterfazWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase1\\2.Elementos\\3.Grid\\primeraInterfazWPF\\MainWindow.xaml",
+              "RelativeToolTip": "primeraInterfazWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T12:49:43.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase1\\2.Elementos\\3.Grid\\primeraInterfazWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "primeraInterfazWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase1\\2.Elementos\\3.Grid\\primeraInterfazWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "primeraInterfazWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAqwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:49:43.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

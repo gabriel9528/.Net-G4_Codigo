@@ -1,0 +1,25 @@
+﻿<Window x:Class="DependencyProperties.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DependencyProperties"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <!-- Botón principal -->
+        <Button Height="150" Width="300" Background="LightCyan" 
+                Content="{Binding Path=myProperty, RelativeSource={RelativeSource AncestorType=Window}}">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Style.Triggers>
+                        <!-- Trigger para cambiar tamaño de fuente al pasar el mouse -->
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="FontSize" Value="50"></Setter>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+    </Grid>
+</Window>

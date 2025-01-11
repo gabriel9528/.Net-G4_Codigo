@@ -1,0 +1,40 @@
+﻿<Window x:Class="proyectComboBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:proyectComboBox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="350"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel>
+            <ComboBox Name="Capitales">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding NombreCapital}" FontSize="16"></TextBlock>
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Margin="100">
+            <Label FontSize="16" FontWeight="ExtraBlack">Paises</Label>
+            <CheckBox Name="TodasCapitales" IsThreeState="True" Checked="Todas_Checked" Unchecked="Todas_Unchecked">Agregar todas</CheckBox>
+
+            <StackPanel Margin="15">
+                <CheckBox Name="Madrid" Checked="Individual_Checked" Unchecked="Individual_Unchecked">Madrid</CheckBox>
+                <CheckBox Name="Bogota" Checked="Individual_Checked" Unchecked="Individual_Unchecked">Bogota</CheckBox>
+                <CheckBox Name="Lima" Checked="Individual_Checked" Unchecked="Individual_Unchecked">Lima</CheckBox>
+                <CheckBox Name="Santiago" Checked="Individual_Checked" Unchecked="Individual_Unchecked">Santiago</CheckBox>
+            </StackPanel>
+        </StackPanel>
+        
+    </Grid>
+</Window>

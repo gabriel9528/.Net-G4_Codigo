@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Adivinanzas_WPF/1.0.0": {
+        "runtime": {
+          "Adivinanzas_WPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Adivinanzas_WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

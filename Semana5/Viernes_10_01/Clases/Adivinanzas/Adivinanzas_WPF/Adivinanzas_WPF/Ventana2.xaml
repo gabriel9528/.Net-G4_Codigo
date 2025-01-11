@@ -1,0 +1,24 @@
+﻿<Window x:Class="Adivinanzas_WPF.Ventana2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Adivinanzas_WPF"
+        mc:Ignorable="d"
+        Title="Ventana2" Height="450" Width="800">
+    <Grid>
+        <Label Name="labelPais" Content="Pais" HorizontalAlignment="Left" Margin="121,78,0,0" VerticalAlignment="Top"
+               Background="#FFF5C4C4"/>
+        <Label Name="labelCapital" Content="Capital" HorizontalAlignment="Left" Margin="120,143,0,0" VerticalAlignment="Top"
+               Background="#FFF5C4C4"/>
+        <TextBox x:Name="textBoxPais" HorizontalAlignment="Left" Margin="190,79,0,0" TextWrapping="Wrap" Text="" 
+                 VerticalAlignment="Top" Width="165" Height="20" Background="#FFB4C8EF"/>
+        <TextBox x:Name="textBoxCapital" HorizontalAlignment="Left" Margin="186,144,0,0" TextWrapping="Wrap" 
+                 Text="" VerticalAlignment="Top" Width="169" Height="20" Background="#FFB4C8EF"/>
+        <Button x:Name="ButtonIngresar" Content="Ingresar" HorizontalAlignment="Left" 
+                Margin="175,209,0,0" VerticalAlignment="Top" Width="180" Height="30" Click="ButtonIngresar_Click"/>
+        <Button x:Name="buttonVolver" Content="Volver" HorizontalAlignment="Left" Margin="45,329,0,0" VerticalAlignment="Top" Height="55" Width="80" Click="buttonVolver_Click"/>
+        <Button x:Name="buttonJugar" Content="Jugar" HorizontalAlignment="Left" Margin="640,329,0,0" VerticalAlignment="Top" Height="60" Width="85" Click="buttonJugar_Click"/>
+        <ListBox x:Name="listBoxRegiones" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="505,69,45,230"/>
+    </Grid>
+</Window>
