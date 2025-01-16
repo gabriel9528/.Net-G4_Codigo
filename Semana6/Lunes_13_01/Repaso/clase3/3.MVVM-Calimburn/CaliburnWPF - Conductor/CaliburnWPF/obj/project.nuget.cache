@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "bs0L9gVJaDVkrGvYH8F3z9A5i+j8JKT8I/CmPavaAyhZSoibI6hcHJq016SXhS/M93dUeb0BSc+1ZE5umgFzdQ==",
+  "success": true,
+  "projectFilePath": "C:\\DiskD\\CodigoTecsup\\C#\\WPF\\WPF\\7.MVVM-Calimbru\\CaliburnWPF\\CaliburnWPF\\CaliburnWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel\\.nuget\\packages\\caliburn.micro\\4.0.212\\caliburn.micro.4.0.212.nupkg.sha512",
+    "C:\\Users\\gabriel\\.nuget\\packages\\caliburn.micro.core\\4.0.212\\caliburn.micro.core.4.0.212.nupkg.sha512",
+    "C:\\Users\\gabriel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gabriel\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\gabriel\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.37\\microsoft.xaml.behaviors.wpf.1.1.37.nupkg.sha512",
+    "C:\\Users\\gabriel\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
+    "C:\\Users\\gabriel\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\gabriel\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\gabriel\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\gabriel\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "C:\\Users\\gabriel\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\gabriel\\.nuget\\packages\\system.runtime.serialization.primitives\\4.3.0\\system.runtime.serialization.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\gabriel\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\gabriel\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

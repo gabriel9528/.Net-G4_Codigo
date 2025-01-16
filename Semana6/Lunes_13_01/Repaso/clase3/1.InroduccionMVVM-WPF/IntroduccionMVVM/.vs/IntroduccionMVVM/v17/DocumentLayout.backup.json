@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\1.InroduccionMVVM-WPF\\IntroduccionMVVM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D877E89A-CABF-4E2F-834F-C71775AF696E}|IntroduccionMVVM\\IntroduccionMVVM.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana5_wpf\\clase3\\1.inroduccionmvvm-wpf\\introduccionmvvm\\introduccionmvvm\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D877E89A-CABF-4E2F-834F-C71775AF696E}|IntroduccionMVVM\\IntroduccionMVVM.csproj|solutionrelative:introduccionmvvm\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D877E89A-CABF-4E2F-834F-C71775AF696E}|IntroduccionMVVM\\IntroduccionMVVM.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana5_wpf\\clase3\\1.inroduccionmvvm-wpf\\introduccionmvvm\\introduccionmvvm\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D877E89A-CABF-4E2F-834F-C71775AF696E}|IntroduccionMVVM\\IntroduccionMVVM.csproj|solutionrelative:introduccionmvvm\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D877E89A-CABF-4E2F-834F-C71775AF696E}|IntroduccionMVVM\\IntroduccionMVVM.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana5_wpf\\clase3\\1.inroduccionmvvm-wpf\\introduccionmvvm\\introduccionmvvm\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{D877E89A-CABF-4E2F-834F-C71775AF696E}|IntroduccionMVVM\\IntroduccionMVVM.csproj|solutionrelative:introduccionmvvm\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D877E89A-CABF-4E2F-834F-C71775AF696E}|IntroduccionMVVM\\IntroduccionMVVM.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana5_wpf\\clase3\\1.inroduccionmvvm-wpf\\introduccionmvvm\\introduccionmvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D877E89A-CABF-4E2F-834F-C71775AF696E}|IntroduccionMVVM\\IntroduccionMVVM.csproj|solutionrelative:introduccionmvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D877E89A-CABF-4E2F-834F-C71775AF696E}|IntroduccionMVVM\\IntroduccionMVVM.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana5_wpf\\clase3\\1.inroduccionmvvm-wpf\\introduccionmvvm\\introduccionmvvm\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D877E89A-CABF-4E2F-834F-C71775AF696E}|IntroduccionMVVM\\IntroduccionMVVM.csproj|solutionrelative:introduccionmvvm\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabriel\\AppData\\Local\\Temp\\.vsdbgsrc\\b8b74ed96cb310e7521b08fc2fd291b3e429a4b509c86c75e9f5ab857cffbff6\\PropertyPathWorker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\1.InroduccionMVVM-WPF\\IntroduccionMVVM\\IntroduccionMVVM\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "IntroduccionMVVM\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\1.InroduccionMVVM-WPF\\IntroduccionMVVM\\IntroduccionMVVM\\MainWindow.xaml.cs",
+              "RelativeToolTip": "IntroduccionMVVM\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:01:20.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\1.InroduccionMVVM-WPF\\IntroduccionMVVM\\IntroduccionMVVM\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "IntroduccionMVVM\\RelayCommand.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\1.InroduccionMVVM-WPF\\IntroduccionMVVM\\IntroduccionMVVM\\RelayCommand.cs",
+              "RelativeToolTip": "IntroduccionMVVM\\RelayCommand.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T03:01:32.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\1.InroduccionMVVM-WPF\\IntroduccionMVVM\\IntroduccionMVVM\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "IntroduccionMVVM\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\1.InroduccionMVVM-WPF\\IntroduccionMVVM\\IntroduccionMVVM\\MainWindowViewModel.cs",
+              "RelativeToolTip": "IntroduccionMVVM\\MainWindowViewModel.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T02:59:20.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\1.InroduccionMVVM-WPF\\IntroduccionMVVM\\IntroduccionMVVM\\PersonModel.cs",
+              "RelativeDocumentMoniker": "IntroduccionMVVM\\PersonModel.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\1.InroduccionMVVM-WPF\\IntroduccionMVVM\\IntroduccionMVVM\\PersonModel.cs",
+              "RelativeToolTip": "IntroduccionMVVM\\PersonModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T02:56:45.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\1.InroduccionMVVM-WPF\\IntroduccionMVVM\\IntroduccionMVVM\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "IntroduccionMVVM\\MainWindow.xaml",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\1.InroduccionMVVM-WPF\\IntroduccionMVVM\\IntroduccionMVVM\\MainWindow.xaml",
+              "RelativeToolTip": "IntroduccionMVVM\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-15T02:55:24.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PropertyPathWorker.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\AppData\\Local\\Temp\\.vsdbgsrc\\b8b74ed96cb310e7521b08fc2fd291b3e429a4b509c86c75e9f5ab857cffbff6\\PropertyPathWorker.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Users\\gabriel\\AppData\\Local\\Temp\\.vsdbgsrc\\b8b74ed96cb310e7521b08fc2fd291b3e429a4b509c86c75e9f5ab857cffbff6\\PropertyPathWorker.cs",
+              "ToolTip": "C:\\Users\\gabriel\\AppData\\Local\\Temp\\.vsdbgsrc\\b8b74ed96cb310e7521b08fc2fd291b3e429a4b509c86c75e9f5ab857cffbff6\\PropertyPathWorker.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Users\\gabriel\\AppData\\Local\\Temp\\.vsdbgsrc\\b8b74ed96cb310e7521b08fc2fd291b3e429a4b509c86c75e9f5ab857cffbff6\\PropertyPathWorker.cs",
+              "ViewState": "AQIAAKQEAAAAAAAAAIAwwKsEAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T03:25:02.918Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

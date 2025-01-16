@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "pizzeria_PrimeraParte/1.0.0": {
+        "runtime": {
+          "pizzeria_PrimeraParte.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pizzeria_PrimeraParte/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

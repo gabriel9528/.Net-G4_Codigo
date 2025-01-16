@@ -1,0 +1,17 @@
+﻿<Window x:Class="IntroduccionMVVM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IntroduccionMVVM"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <TextBox Text="{Binding FirstName, UpdateSourceTrigger=PropertyChanged}" Width="200" Margin="10"/>
+            <TextBox Text="{Binding LastName, UpdateSourceTrigger=PropertyChanged}" Width="200" Margin="10"/>
+            <TextBox Text="{Binding FullName, UpdateSourceTrigger=PropertyChanged}" FontSize="16" Margin="10"/>
+            <Button Command="{Binding UpdateCommand}" Content="Update" Width="100" Margin="10" Click="Button_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

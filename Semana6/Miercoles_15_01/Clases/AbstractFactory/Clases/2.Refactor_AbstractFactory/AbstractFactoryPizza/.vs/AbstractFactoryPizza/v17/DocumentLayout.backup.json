@@ -1,0 +1,440 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\miercoles_15_01\\clases\\abstractfactory\\clases\\2.refactor_abstractfactory\\abstractfactorypizza\\abstractfactorypizza\\fabricasconcretas\\limapizzaingredientesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|solutionrelative:abstractfactorypizza\\fabricasconcretas\\limapizzaingredientesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\miercoles_15_01\\clases\\abstractfactory\\clases\\2.refactor_abstractfactory\\abstractfactorypizza\\abstractfactorypizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|solutionrelative:abstractfactorypizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\miercoles_15_01\\clases\\abstractfactory\\clases\\2.refactor_abstractfactory\\abstractfactorypizza\\abstractfactorypizza\\cliente\\vegetarianapizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|solutionrelative:abstractfactorypizza\\cliente\\vegetarianapizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\miercoles_15_01\\clases\\abstractfactory\\clases\\2.refactor_abstractfactory\\abstractfactorypizza\\abstractfactorypizza\\cliente\\napolitanapizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|solutionrelative:abstractfactorypizza\\cliente\\napolitanapizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\miercoles_15_01\\clases\\abstractfactory\\clases\\2.refactor_abstractfactory\\abstractfactorypizza\\abstractfactorypizza\\cliente\\peperonipizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|solutionrelative:abstractfactorypizza\\cliente\\peperonipizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\miercoles_15_01\\clases\\abstractfactory\\clases\\2.refactor_abstractfactory\\abstractfactorypizza\\abstractfactorypizza\\fabricasconcretas\\arequipapizzaingredientesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|solutionrelative:abstractfactorypizza\\fabricasconcretas\\arequipapizzaingredientesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\miercoles_15_01\\clases\\abstractfactory\\clases\\2.refactor_abstractfactory\\abstractfactorypizza\\abstractfactorypizza\\fabricaabstracta\\ipizzaingredientesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|solutionrelative:abstractfactorypizza\\fabricaabstracta\\ipizzaingredientesfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\miercoles_15_01\\clases\\abstractfactory\\clases\\2.refactor_abstractfactory\\abstractfactorypizza\\abstractfactorypizza\\productoconcreto\\arequipa\\arequipaqueso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|solutionrelative:abstractfactorypizza\\productoconcreto\\arequipa\\arequipaqueso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\miercoles_15_01\\clases\\abstractfactory\\clases\\2.refactor_abstractfactory\\abstractfactorypizza\\abstractfactorypizza\\productoconcreto\\lima\\limaverduras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|solutionrelative:abstractfactorypizza\\productoconcreto\\lima\\limaverduras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\miercoles_15_01\\clases\\abstractfactory\\clases\\2.refactor_abstractfactory\\abstractfactorypizza\\abstractfactorypizza\\productoconcreto\\lima\\limasalsas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|solutionrelative:abstractfactorypizza\\productoconcreto\\lima\\limasalsas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\miercoles_15_01\\clases\\abstractfactory\\clases\\2.refactor_abstractfactory\\abstractfactorypizza\\abstractfactorypizza\\productoconcreto\\lima\\limaqueso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|solutionrelative:abstractfactorypizza\\productoconcreto\\lima\\limaqueso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\miercoles_15_01\\clases\\abstractfactory\\clases\\2.refactor_abstractfactory\\abstractfactorypizza\\abstractfactorypizza\\productoconcreto\\lima\\limamasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|solutionrelative:abstractfactorypizza\\productoconcreto\\lima\\limamasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\miercoles_15_01\\clases\\abstractfactory\\clases\\2.refactor_abstractfactory\\abstractfactorypizza\\abstractfactorypizza\\productoconcreto\\arequipa\\arequipasalsas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|solutionrelative:abstractfactorypizza\\productoconcreto\\arequipa\\arequipasalsas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\miercoles_15_01\\clases\\abstractfactory\\clases\\2.refactor_abstractfactory\\abstractfactorypizza\\abstractfactorypizza\\productoconcreto\\arequipa\\arequipaverduras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|solutionrelative:abstractfactorypizza\\productoconcreto\\arequipa\\arequipaverduras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\miercoles_15_01\\clases\\abstractfactory\\clases\\2.refactor_abstractfactory\\abstractfactorypizza\\abstractfactorypizza\\productoconcreto\\arequipa\\arequipamasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|solutionrelative:abstractfactorypizza\\productoconcreto\\arequipa\\arequipamasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\miercoles_15_01\\clases\\abstractfactory\\clases\\2.refactor_abstractfactory\\abstractfactorypizza\\abstractfactorypizza\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|solutionrelative:abstractfactorypizza\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\miercoles_15_01\\clases\\abstractfactory\\clases\\2.refactor_abstractfactory\\abstractfactorypizza\\abstractfactorypizza\\productoabstracto\\interfaces\\isalsas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|solutionrelative:abstractfactorypizza\\productoabstracto\\interfaces\\isalsas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\miercoles_15_01\\clases\\abstractfactory\\clases\\2.refactor_abstractfactory\\abstractfactorypizza\\abstractfactorypizza\\productoabstracto\\interfaces\\iqueso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|solutionrelative:abstractfactorypizza\\productoabstracto\\interfaces\\iqueso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\miercoles_15_01\\clases\\abstractfactory\\clases\\2.refactor_abstractfactory\\abstractfactorypizza\\abstractfactorypizza\\productoabstracto\\interfaces\\imasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|solutionrelative:abstractfactorypizza\\productoabstracto\\interfaces\\imasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\miercoles_15_01\\clases\\abstractfactory\\clases\\2.refactor_abstractfactory\\abstractfactorypizza\\abstractfactorypizza\\productoabstracto\\interfaces\\iverduras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013F2E59-27AF-4F80-826D-3DDAD6BA7963}|AbstractFactoryPizza\\AbstractFactoryPizza.csproj|solutionrelative:abstractfactorypizza\\productoabstracto\\interfaces\\iverduras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DiskD\\CodigoTecsup\\C#\\PatronesDeDise\u00F1o\\AbstractFactory\\Exercise1Before\\AbstractFactoryPizza\\AbstractFactoryPizza\\Arequipa\\ArequipaPepperoniPizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DiskD\\CodigoTecsup\\C#\\PatronesDeDise\u00F1o\\AbstractFactory\\Exercise1Before\\AbstractFactoryPizza\\AbstractFactoryPizza\\Arequipa\\ArequipaNeapolitanPizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DiskD\\CodigoTecsup\\C#\\PatronesDeDise\u00F1o\\AbstractFactory\\Exercise1Before\\AbstractFactoryPizza\\AbstractFactoryPizza\\Lima\\LimaNeapolitanPizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DiskD\\CodigoTecsup\\C#\\PatronesDeDise\u00F1o\\AbstractFactory\\Exercise1Before\\AbstractFactoryPizza\\AbstractFactoryPizza\\Lima\\LimaPepperoniPizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LimaPizzaIngredientesFactory.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\FabricasConcretas\\LimaPizzaIngredientesFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryPizza\\FabricasConcretas\\LimaPizzaIngredientesFactory.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\FabricasConcretas\\LimaPizzaIngredientesFactory.cs*",
+              "RelativeToolTip": "AbstractFactoryPizza\\FabricasConcretas\\LimaPizzaIngredientesFactory.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:24:08.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NapolitanaPizza.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\Cliente\\NapolitanaPizza.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryPizza\\Cliente\\NapolitanaPizza.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\Cliente\\NapolitanaPizza.cs",
+              "RelativeToolTip": "AbstractFactoryPizza\\Cliente\\NapolitanaPizza.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:29:38.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PeperoniPizza.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\Cliente\\PeperoniPizza.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryPizza\\Cliente\\PeperoniPizza.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\Cliente\\PeperoniPizza.cs",
+              "RelativeToolTip": "AbstractFactoryPizza\\Cliente\\PeperoniPizza.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:29:48.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VegetarianaPizza.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\Cliente\\VegetarianaPizza.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryPizza\\Cliente\\VegetarianaPizza.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\Cliente\\VegetarianaPizza.cs",
+              "RelativeToolTip": "AbstractFactoryPizza\\Cliente\\VegetarianaPizza.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:29:58.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryPizza\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\Program.cs",
+              "RelativeToolTip": "AbstractFactoryPizza\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:21:39.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArequipaPizzaIngredientesFactory.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\FabricasConcretas\\ArequipaPizzaIngredientesFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryPizza\\FabricasConcretas\\ArequipaPizzaIngredientesFactory.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\FabricasConcretas\\ArequipaPizzaIngredientesFactory.cs",
+              "RelativeToolTip": "AbstractFactoryPizza\\FabricasConcretas\\ArequipaPizzaIngredientesFactory.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:23:48.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPizzaIngredientesFactory.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\FabricaAbstracta\\IPizzaIngredientesFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryPizza\\FabricaAbstracta\\IPizzaIngredientesFactory.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\FabricaAbstracta\\IPizzaIngredientesFactory.cs",
+              "RelativeToolTip": "AbstractFactoryPizza\\FabricaAbstracta\\IPizzaIngredientesFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:20:26.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArequipaQueso.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\ProductoConcreto\\Arequipa\\ArequipaQueso.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryPizza\\ProductoConcreto\\Arequipa\\ArequipaQueso.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\ProductoConcreto\\Arequipa\\ArequipaQueso.cs",
+              "RelativeToolTip": "AbstractFactoryPizza\\ProductoConcreto\\Arequipa\\ArequipaQueso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:51:02.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LimaVerduras.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\ProductoConcreto\\Lima\\LimaVerduras.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryPizza\\ProductoConcreto\\Lima\\LimaVerduras.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\ProductoConcreto\\Lima\\LimaVerduras.cs",
+              "RelativeToolTip": "AbstractFactoryPizza\\ProductoConcreto\\Lima\\LimaVerduras.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:52:10.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LimaSalsas.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\ProductoConcreto\\Lima\\LimaSalsas.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryPizza\\ProductoConcreto\\Lima\\LimaSalsas.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\ProductoConcreto\\Lima\\LimaSalsas.cs",
+              "RelativeToolTip": "AbstractFactoryPizza\\ProductoConcreto\\Lima\\LimaSalsas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:52:02.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LimaQueso.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\ProductoConcreto\\Lima\\LimaQueso.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryPizza\\ProductoConcreto\\Lima\\LimaQueso.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\ProductoConcreto\\Lima\\LimaQueso.cs",
+              "RelativeToolTip": "AbstractFactoryPizza\\ProductoConcreto\\Lima\\LimaQueso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:51:51.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LimaMasa.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\ProductoConcreto\\Lima\\LimaMasa.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryPizza\\ProductoConcreto\\Lima\\LimaMasa.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\ProductoConcreto\\Lima\\LimaMasa.cs",
+              "RelativeToolTip": "AbstractFactoryPizza\\ProductoConcreto\\Lima\\LimaMasa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:51:41.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ArequipaSalsas.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\ProductoConcreto\\Arequipa\\ArequipaSalsas.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryPizza\\ProductoConcreto\\Arequipa\\ArequipaSalsas.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\ProductoConcreto\\Arequipa\\ArequipaSalsas.cs",
+              "RelativeToolTip": "AbstractFactoryPizza\\ProductoConcreto\\Arequipa\\ArequipaSalsas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:51:13.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ArequipaVerduras.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\ProductoConcreto\\Arequipa\\ArequipaVerduras.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryPizza\\ProductoConcreto\\Arequipa\\ArequipaVerduras.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\ProductoConcreto\\Arequipa\\ArequipaVerduras.cs",
+              "RelativeToolTip": "AbstractFactoryPizza\\ProductoConcreto\\Arequipa\\ArequipaVerduras.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:51:22.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ArequipaMasa.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\ProductoConcreto\\Arequipa\\ArequipaMasa.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryPizza\\ProductoConcreto\\Arequipa\\ArequipaMasa.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\ProductoConcreto\\Arequipa\\ArequipaMasa.cs",
+              "RelativeToolTip": "AbstractFactoryPizza\\ProductoConcreto\\Arequipa\\ArequipaMasa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:50:29.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\Pizza.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryPizza\\Pizza.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\Pizza.cs",
+              "RelativeToolTip": "AbstractFactoryPizza\\Pizza.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:38:29.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IVerduras.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\ProductoAbstracto\\Interfaces\\IVerduras.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryPizza\\ProductoAbstracto\\Interfaces\\IVerduras.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\ProductoAbstracto\\Interfaces\\IVerduras.cs",
+              "RelativeToolTip": "AbstractFactoryPizza\\ProductoAbstracto\\Interfaces\\IVerduras.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:14:23.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ISalsas.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\ProductoAbstracto\\Interfaces\\ISalsas.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryPizza\\ProductoAbstracto\\Interfaces\\ISalsas.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\ProductoAbstracto\\Interfaces\\ISalsas.cs",
+              "RelativeToolTip": "AbstractFactoryPizza\\ProductoAbstracto\\Interfaces\\ISalsas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:13:49.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IQueso.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\ProductoAbstracto\\Interfaces\\IQueso.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryPizza\\ProductoAbstracto\\Interfaces\\IQueso.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\ProductoAbstracto\\Interfaces\\IQueso.cs",
+              "RelativeToolTip": "AbstractFactoryPizza\\ProductoAbstracto\\Interfaces\\IQueso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:13:07.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IMasa.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\ProductoAbstracto\\Interfaces\\IMasa.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryPizza\\ProductoAbstracto\\Interfaces\\IMasa.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Miercoles_15_01\\Clases\\AbstractFactory\\Clases\\2.Refactor_AbstractFactory\\AbstractFactoryPizza\\AbstractFactoryPizza\\ProductoAbstracto\\Interfaces\\IMasa.cs",
+              "RelativeToolTip": "AbstractFactoryPizza\\ProductoAbstracto\\Interfaces\\IMasa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:12:47.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ArequipaNeapolitanPizza.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\PatronesDeDise\u00F1o\\AbstractFactory\\Exercise1Before\\AbstractFactoryPizza\\AbstractFactoryPizza\\Arequipa\\ArequipaNeapolitanPizza.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\DiskD\\CodigoTecsup\\C#\\PatronesDeDise\u00F1o\\AbstractFactory\\Exercise1Before\\AbstractFactoryPizza\\AbstractFactoryPizza\\Arequipa\\ArequipaNeapolitanPizza.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\PatronesDeDise\u00F1o\\AbstractFactory\\Exercise1Before\\AbstractFactoryPizza\\AbstractFactoryPizza\\Arequipa\\ArequipaNeapolitanPizza.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\DiskD\\CodigoTecsup\\C#\\PatronesDeDise\u00F1o\\AbstractFactory\\Exercise1Before\\AbstractFactoryPizza\\AbstractFactoryPizza\\Arequipa\\ArequipaNeapolitanPizza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:46:59.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ArequipaPepperoniPizza.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\PatronesDeDise\u00F1o\\AbstractFactory\\Exercise1Before\\AbstractFactoryPizza\\AbstractFactoryPizza\\Arequipa\\ArequipaPepperoniPizza.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\DiskD\\CodigoTecsup\\C#\\PatronesDeDise\u00F1o\\AbstractFactory\\Exercise1Before\\AbstractFactoryPizza\\AbstractFactoryPizza\\Arequipa\\ArequipaPepperoniPizza.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\PatronesDeDise\u00F1o\\AbstractFactory\\Exercise1Before\\AbstractFactoryPizza\\AbstractFactoryPizza\\Arequipa\\ArequipaPepperoniPizza.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\DiskD\\CodigoTecsup\\C#\\PatronesDeDise\u00F1o\\AbstractFactory\\Exercise1Before\\AbstractFactoryPizza\\AbstractFactoryPizza\\Arequipa\\ArequipaPepperoniPizza.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:47:17.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LimaNeapolitanPizza.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\PatronesDeDise\u00F1o\\AbstractFactory\\Exercise1Before\\AbstractFactoryPizza\\AbstractFactoryPizza\\Lima\\LimaNeapolitanPizza.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\DiskD\\CodigoTecsup\\C#\\PatronesDeDise\u00F1o\\AbstractFactory\\Exercise1Before\\AbstractFactoryPizza\\AbstractFactoryPizza\\Lima\\LimaNeapolitanPizza.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\PatronesDeDise\u00F1o\\AbstractFactory\\Exercise1Before\\AbstractFactoryPizza\\AbstractFactoryPizza\\Lima\\LimaNeapolitanPizza.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\DiskD\\CodigoTecsup\\C#\\PatronesDeDise\u00F1o\\AbstractFactory\\Exercise1Before\\AbstractFactoryPizza\\AbstractFactoryPizza\\Lima\\LimaNeapolitanPizza.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:41:48.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LimaPepperoniPizza.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\PatronesDeDise\u00F1o\\AbstractFactory\\Exercise1Before\\AbstractFactoryPizza\\AbstractFactoryPizza\\Lima\\LimaPepperoniPizza.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\DiskD\\CodigoTecsup\\C#\\PatronesDeDise\u00F1o\\AbstractFactory\\Exercise1Before\\AbstractFactoryPizza\\AbstractFactoryPizza\\Lima\\LimaPepperoniPizza.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\PatronesDeDise\u00F1o\\AbstractFactory\\Exercise1Before\\AbstractFactoryPizza\\AbstractFactoryPizza\\Lima\\LimaPepperoniPizza.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\DiskD\\CodigoTecsup\\C#\\PatronesDeDise\u00F1o\\AbstractFactory\\Exercise1Before\\AbstractFactoryPizza\\AbstractFactoryPizza\\Lima\\LimaPepperoniPizza.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:37:42.465Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

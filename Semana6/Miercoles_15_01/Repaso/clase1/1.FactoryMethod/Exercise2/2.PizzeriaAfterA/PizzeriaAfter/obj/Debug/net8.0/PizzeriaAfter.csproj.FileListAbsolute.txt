@@ -1,0 +1,70 @@
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryyMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\bin\Debug\net8.0\PizzeriaAfter.exe
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryyMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\bin\Debug\net8.0\PizzeriaAfter.deps.json
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryyMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\bin\Debug\net8.0\PizzeriaAfter.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryyMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\bin\Debug\net8.0\PizzeriaAfter.dll
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryyMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\bin\Debug\net8.0\PizzeriaAfter.pdb
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryyMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryyMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryyMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryyMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryyMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.dll
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryyMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\obj\Debug\net8.0\refint\PizzeriaAfter.dll
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryyMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.pdb
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryyMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryyMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\obj\Debug\net8.0\ref\PizzeriaAfter.dll
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\bin\Debug\net8.0\PizzeriaAfter.exe
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\bin\Debug\net8.0\PizzeriaAfter.deps.json
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\bin\Debug\net8.0\PizzeriaAfter.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\bin\Debug\net8.0\PizzeriaAfter.dll
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\bin\Debug\net8.0\PizzeriaAfter.pdb
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.dll
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\obj\Debug\net8.0\refint\PizzeriaAfter.dll
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.pdb
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\obj\Debug\net8.0\ref\PizzeriaAfter.dll
+C:\DiskD\CodigoTecsup\C#\PatronesDeDiseño\FactoryMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\bin\Debug\net8.0\PizzeriaAfter.exe
+C:\DiskD\CodigoTecsup\C#\PatronesDeDiseño\FactoryMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\bin\Debug\net8.0\PizzeriaAfter.deps.json
+C:\DiskD\CodigoTecsup\C#\PatronesDeDiseño\FactoryMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\bin\Debug\net8.0\PizzeriaAfter.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\PatronesDeDiseño\FactoryMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\bin\Debug\net8.0\PizzeriaAfter.dll
+C:\DiskD\CodigoTecsup\C#\PatronesDeDiseño\FactoryMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\bin\Debug\net8.0\PizzeriaAfter.pdb
+C:\DiskD\CodigoTecsup\C#\PatronesDeDiseño\FactoryMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\PatronesDeDiseño\FactoryMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\PatronesDeDiseño\FactoryMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\PatronesDeDiseño\FactoryMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\PatronesDeDiseño\FactoryMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.dll
+C:\DiskD\CodigoTecsup\C#\PatronesDeDiseño\FactoryMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\obj\Debug\net8.0\refint\PizzeriaAfter.dll
+C:\DiskD\CodigoTecsup\C#\PatronesDeDiseño\FactoryMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.pdb
+C:\DiskD\CodigoTecsup\C#\PatronesDeDiseño\FactoryMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\PatronesDeDiseño\FactoryMethod\Exercise2\PizzeriaAfter\PizzeriaAfter\obj\Debug\net8.0\ref\PizzeriaAfter.dll
+C:\DiskD\CodigoTecsup\C#\PatronesDeDiseño\FactoryMethod\Exercise2\PizzeriaAfter - Copy\PizzeriaAfter\bin\Debug\net8.0\PizzeriaAfter.exe
+C:\DiskD\CodigoTecsup\C#\PatronesDeDiseño\FactoryMethod\Exercise2\PizzeriaAfter - Copy\PizzeriaAfter\bin\Debug\net8.0\PizzeriaAfter.deps.json
+C:\DiskD\CodigoTecsup\C#\PatronesDeDiseño\FactoryMethod\Exercise2\PizzeriaAfter - Copy\PizzeriaAfter\bin\Debug\net8.0\PizzeriaAfter.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\PatronesDeDiseño\FactoryMethod\Exercise2\PizzeriaAfter - Copy\PizzeriaAfter\bin\Debug\net8.0\PizzeriaAfter.dll
+C:\DiskD\CodigoTecsup\C#\PatronesDeDiseño\FactoryMethod\Exercise2\PizzeriaAfter - Copy\PizzeriaAfter\bin\Debug\net8.0\PizzeriaAfter.pdb
+C:\DiskD\CodigoTecsup\C#\PatronesDeDiseño\FactoryMethod\Exercise2\PizzeriaAfter - Copy\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\PatronesDeDiseño\FactoryMethod\Exercise2\PizzeriaAfter - Copy\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\PatronesDeDiseño\FactoryMethod\Exercise2\PizzeriaAfter - Copy\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\PatronesDeDiseño\FactoryMethod\Exercise2\PizzeriaAfter - Copy\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\PatronesDeDiseño\FactoryMethod\Exercise2\PizzeriaAfter - Copy\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.dll
+C:\DiskD\CodigoTecsup\C#\PatronesDeDiseño\FactoryMethod\Exercise2\PizzeriaAfter - Copy\PizzeriaAfter\obj\Debug\net8.0\refint\PizzeriaAfter.dll
+C:\DiskD\CodigoTecsup\C#\PatronesDeDiseño\FactoryMethod\Exercise2\PizzeriaAfter - Copy\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.pdb
+C:\DiskD\CodigoTecsup\C#\PatronesDeDiseño\FactoryMethod\Exercise2\PizzeriaAfter - Copy\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\PatronesDeDiseño\FactoryMethod\Exercise2\PizzeriaAfter - Copy\PizzeriaAfter\obj\Debug\net8.0\ref\PizzeriaAfter.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana5_PatronesDiseño\clase1\1.FactoryMethod\Exercise2\PizzeriaAfterA\PizzeriaAfter\bin\Debug\net8.0\PizzeriaAfter.exe
+C:\DiskD\CodigoTecsup\C#\Clases\semana5_PatronesDiseño\clase1\1.FactoryMethod\Exercise2\PizzeriaAfterA\PizzeriaAfter\bin\Debug\net8.0\PizzeriaAfter.deps.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana5_PatronesDiseño\clase1\1.FactoryMethod\Exercise2\PizzeriaAfterA\PizzeriaAfter\bin\Debug\net8.0\PizzeriaAfter.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Clases\semana5_PatronesDiseño\clase1\1.FactoryMethod\Exercise2\PizzeriaAfterA\PizzeriaAfter\bin\Debug\net8.0\PizzeriaAfter.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana5_PatronesDiseño\clase1\1.FactoryMethod\Exercise2\PizzeriaAfterA\PizzeriaAfter\bin\Debug\net8.0\PizzeriaAfter.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana5_PatronesDiseño\clase1\1.FactoryMethod\Exercise2\PizzeriaAfterA\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Clases\semana5_PatronesDiseño\clase1\1.FactoryMethod\Exercise2\PizzeriaAfterA\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana5_PatronesDiseño\clase1\1.FactoryMethod\Exercise2\PizzeriaAfterA\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Clases\semana5_PatronesDiseño\clase1\1.FactoryMethod\Exercise2\PizzeriaAfterA\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana5_PatronesDiseño\clase1\1.FactoryMethod\Exercise2\PizzeriaAfterA\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana5_PatronesDiseño\clase1\1.FactoryMethod\Exercise2\PizzeriaAfterA\PizzeriaAfter\obj\Debug\net8.0\refint\PizzeriaAfter.dll
+C:\DiskD\CodigoTecsup\C#\Clases\semana5_PatronesDiseño\clase1\1.FactoryMethod\Exercise2\PizzeriaAfterA\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.pdb
+C:\DiskD\CodigoTecsup\C#\Clases\semana5_PatronesDiseño\clase1\1.FactoryMethod\Exercise2\PizzeriaAfterA\PizzeriaAfter\obj\Debug\net8.0\PizzeriaAfter.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Clases\semana5_PatronesDiseño\clase1\1.FactoryMethod\Exercise2\PizzeriaAfterA\PizzeriaAfter\obj\Debug\net8.0\ref\PizzeriaAfter.dll

@@ -1,0 +1,86 @@
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM\QuickMVVM\bin\Debug\net8.0-windows\QuickMVVM.exe
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM\QuickMVVM\bin\Debug\net8.0-windows\QuickMVVM.deps.json
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM\QuickMVVM\bin\Debug\net8.0-windows\QuickMVVM.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM\QuickMVVM\bin\Debug\net8.0-windows\QuickMVVM.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM\QuickMVVM\bin\Debug\net8.0-windows\QuickMVVM.pdb
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM\QuickMVVM\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM\QuickMVVM\obj\Debug\net8.0-windows\App.g.cs
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM_MarkupCompile.cache
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM_MarkupCompile.lref
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM\QuickMVVM\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM.g.resources
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM\QuickMVVM\obj\Debug\net8.0-windows\refint\QuickMVVM.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM.pdb
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM\QuickMVVM\obj\Debug\net8.0-windows\ref\QuickMVVM.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM.csproj.AssemblyReference.cache
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\obj\Debug\net8.0-windows\App.g.cs
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM_Content.g.cs
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM_MarkupCompile.cache
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM_MarkupCompile.lref
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\obj\Debug\net8.0-windows\refint\QuickMVVM.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM.pdb
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\bin\Debug\net8.0-windows\QuickMVVM.exe
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\bin\Debug\net8.0-windows\QuickMVVM.deps.json
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\bin\Debug\net8.0-windows\QuickMVVM.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\bin\Debug\net8.0-windows\QuickMVVM.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\bin\Debug\net8.0-windows\QuickMVVM.pdb
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\bin\Debug\net8.0-windows\Haley.Abstractions.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\bin\Debug\net8.0-windows\Haley.Extensions.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\bin\Debug\net8.0-windows\Haley.Helpers.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\bin\Debug\net8.0-windows\Haley.IOC.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\bin\Debug\net8.0-windows\Haley.MVVM.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\bin\Debug\net8.0-windows\protobuf-net.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\bin\Debug\net8.0-windows\protobuf-net.Core.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\bin\Debug\net8.0-windows\System.Management.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM.g.resources
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM.csproj.Up2Date
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM - Copy\QuickMVVM\obj\Debug\net8.0-windows\ref\QuickMVVM.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\bin\Debug\net8.0-windows\QuickMVVM.exe
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\bin\Debug\net8.0-windows\QuickMVVM.deps.json
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\bin\Debug\net8.0-windows\QuickMVVM.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\bin\Debug\net8.0-windows\QuickMVVM.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\bin\Debug\net8.0-windows\QuickMVVM.pdb
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\bin\Debug\net8.0-windows\Haley.Abstractions.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\bin\Debug\net8.0-windows\Haley.Extensions.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\bin\Debug\net8.0-windows\Haley.Helpers.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\bin\Debug\net8.0-windows\Haley.IOC.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\bin\Debug\net8.0-windows\Haley.MVVM.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\bin\Debug\net8.0-windows\protobuf-net.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\bin\Debug\net8.0-windows\protobuf-net.Core.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\bin\Debug\net8.0-windows\System.Management.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM.csproj.AssemblyReference.cache
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\obj\Debug\net8.0-windows\App.g.cs
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM_Content.g.cs
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM_MarkupCompile.cache
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM_MarkupCompile.lref
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM.g.resources
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM.csproj.Up2Date
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\obj\Debug\net8.0-windows\refint\QuickMVVM.dll
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM.pdb
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\obj\Debug\net8.0-windows\QuickMVVM.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\WPF\WPF\6.ProyectoMVVM_Quick\QuickMVVM_HALEY\QuickMVVM\obj\Debug\net8.0-windows\ref\QuickMVVM.dll

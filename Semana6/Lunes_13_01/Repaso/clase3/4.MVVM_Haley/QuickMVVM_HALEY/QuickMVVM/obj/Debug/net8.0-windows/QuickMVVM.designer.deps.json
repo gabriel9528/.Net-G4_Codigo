@@ -1,0 +1,386 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Haley.Abstractions/1.1.4": {
+        "runtime": {
+          "lib/netstandard2.0/Haley.Abstractions.dll": {
+            "assemblyVersion": "1.1.4.0",
+            "fileVersion": "1.1.4.0"
+          }
+        }
+      },
+      "Haley.Extensions/2.1.20": {
+        "dependencies": {
+          "Haley.Abstractions": "1.1.4",
+          "Microsoft.CSharp": "4.7.0",
+          "System.Text.Json": "7.0.2",
+          "protobuf-net": "3.2.16"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Haley.Extensions.dll": {
+            "assemblyVersion": "2.0.1.0",
+            "fileVersion": "2.0.1.0"
+          }
+        }
+      },
+      "Haley.Helpers/2.1.16": {
+        "dependencies": {
+          "Haley.Abstractions": "1.1.4",
+          "Haley.Extensions": "2.1.20",
+          "Microsoft.CSharp": "4.7.0",
+          "System.Management": "7.0.1",
+          "System.Security.Cryptography.Xml": "7.0.1",
+          "System.ValueTuple": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Haley.Helpers.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "Haley.IOC/3.0.17": {
+        "dependencies": {
+          "Haley.Abstractions": "1.1.4",
+          "Haley.Extensions": "2.1.20"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Haley.IOC.dll": {
+            "assemblyVersion": "2.0.2.0",
+            "fileVersion": "2.0.2.0"
+          }
+        }
+      },
+      "Haley.MVVM/6.4.3.1": {
+        "dependencies": {
+          "Haley.Abstractions": "1.1.4",
+          "Haley.Extensions": "2.1.20",
+          "Haley.Helpers": "2.1.16",
+          "Haley.IOC": "3.0.17",
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.39",
+          "System.Drawing.Common": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Haley.MVVM.dll": {
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.0.2.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "Microsoft.Win32.SystemEvents/7.0.0": {
+        "runtime": {
+          "lib/net7.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "Microsoft.Xaml.Behaviors.Wpf/1.1.39": {
+        "runtime": {
+          "lib/net5.0-windows7.0/Microsoft.Xaml.Behaviors.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.39.4716"
+          }
+        }
+      },
+      "protobuf-net/3.2.16": {
+        "dependencies": {
+          "protobuf-net.Core": "3.2.16"
+        },
+        "runtime": {
+          "lib/net6.0/protobuf-net.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.2.16.54102"
+          }
+        }
+      },
+      "protobuf-net.Core/3.2.16": {
+        "dependencies": {
+          "System.Collections.Immutable": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/protobuf-net.Core.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.2.16.54102"
+          }
+        }
+      },
+      "System.CodeDom/7.0.0": {
+        "runtime": {
+          "lib/net7.0/System.CodeDom.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "System.Collections.Immutable/7.0.0": {
+        "runtime": {
+          "lib/net7.0/System.Collections.Immutable.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "System.Drawing.Common/7.0.0": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "7.0.0"
+        },
+        "runtime": {
+          "lib/net7.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net7.0/System.Drawing.Common.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "System.Formats.Asn1/7.0.0": {
+        "runtime": {
+          "lib/net7.0/System.Formats.Asn1.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "System.Management/7.0.1": {
+        "dependencies": {
+          "System.CodeDom": "7.0.0"
+        },
+        "runtime": {
+          "lib/net7.0/System.Management.dll": {
+            "assemblyVersion": "7.0.0.1",
+            "fileVersion": "7.0.523.17405"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net7.0/System.Management.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.1",
+            "fileVersion": "7.0.523.17405"
+          }
+        }
+      },
+      "System.Security.Cryptography.Pkcs/7.0.0": {
+        "dependencies": {
+          "System.Formats.Asn1": "7.0.0"
+        },
+        "runtime": {
+          "lib/net7.0/System.Security.Cryptography.Pkcs.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net7.0/System.Security.Cryptography.Pkcs.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "System.Security.Cryptography.Xml/7.0.1": {
+        "dependencies": {
+          "System.Security.Cryptography.Pkcs": "7.0.0"
+        },
+        "runtime": {
+          "lib/net7.0/System.Security.Cryptography.Xml.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.222.60605"
+          }
+        }
+      },
+      "System.Text.Encodings.Web/7.0.0": {
+        "runtime": {
+          "lib/net7.0/System.Text.Encodings.Web.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/browser/lib/net7.0/System.Text.Encodings.Web.dll": {
+            "rid": "browser",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "System.Text.Json/7.0.2": {
+        "dependencies": {
+          "System.Text.Encodings.Web": "7.0.0"
+        },
+        "runtime": {
+          "lib/net7.0/System.Text.Json.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.323.6910"
+          }
+        }
+      },
+      "System.ValueTuple/4.5.0": {}
+    }
+  },
+  "libraries": {
+    "Haley.Abstractions/1.1.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ERr5OUBmmXjft+D5f66TaeEVMRLH1AmwgpfEzu3fx2IgEdKIEE8oaEoUbEWT4YVLN6nro8BvoO+RYG1hGBce6g==",
+      "path": "haley.abstractions/1.1.4",
+      "hashPath": "haley.abstractions.1.1.4.nupkg.sha512"
+    },
+    "Haley.Extensions/2.1.20": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hqe8ady8paif4UqlC26ytx/I4BIL20UAqqD46BQoVA05kOQ/AI87hStJeHbemrbecYM8CgKy+TZOL5JC3YgRsw==",
+      "path": "haley.extensions/2.1.20",
+      "hashPath": "haley.extensions.2.1.20.nupkg.sha512"
+    },
+    "Haley.Helpers/2.1.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-keY/lVl8kXbx3WWNoxxHnulKrodT74SX2nWQZOvVWnCaKgxoqeoLsoDDlyJDJJKKMEOGSBKymLRDaZkFvhn/+w==",
+      "path": "haley.helpers/2.1.16",
+      "hashPath": "haley.helpers.2.1.16.nupkg.sha512"
+    },
+    "Haley.IOC/3.0.17": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-J7xs2/LGLNgmncyAY6VK+kJ15dsg1qRzLi0F2NOi47SA1Hs26yYPb2MdYevI3TetuDKsUe2oJEtDWY7lZijiVQ==",
+      "path": "haley.ioc/3.0.17",
+      "hashPath": "haley.ioc.3.0.17.nupkg.sha512"
+    },
+    "Haley.MVVM/6.4.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gHHe7RTtXz/E08dGt+4Jn+2U6oEDpbXaYna+agvm7fgqhVGP8ylRoa9YICjtfbS2usDVV3gNvuO0oxytLbO1ug==",
+      "path": "haley.mvvm/6.4.3.1",
+      "hashPath": "haley.mvvm.6.4.3.1.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2nXPrhdAyAzir0gLl8Yy8S5Mnm/uBSQQA7jEsILOS1MTyS7DbmV1NgViMtvV1sfCD1ebITpNwb1NIinKeJgUVQ==",
+      "path": "microsoft.win32.systemevents/7.0.0",
+      "hashPath": "microsoft.win32.systemevents.7.0.0.nupkg.sha512"
+    },
+    "Microsoft.Xaml.Behaviors.Wpf/1.1.39": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8PZKqw9QOcu42xk8puY4P1+EXHL9YGOR9b7qhaYx5cILHul456H073tj99vyPcCt0W0781T9RwHqkx507ZyUpQ==",
+      "path": "microsoft.xaml.behaviors.wpf/1.1.39",
+      "hashPath": "microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+    },
+    "protobuf-net/3.2.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-W6RM2B2f5O7SigBGfkXFYzI/a7Mks+rCHtuGlE/b5O3NMupDon7I0akjCLhrfcnqIfdWDkDafseav/MnIzUSHA==",
+      "path": "protobuf-net/3.2.16",
+      "hashPath": "protobuf-net.3.2.16.nupkg.sha512"
+    },
+    "protobuf-net.Core/3.2.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZFoY0lfMUWGJ4RoyI0oNj2o2l8t08n3k27YyDD0kYWQ+vXj0hTbWEwYWOpGAfCWvyUPkq9Jcc/4uR74GICZL2g==",
+      "path": "protobuf-net.core/3.2.16",
+      "hashPath": "protobuf-net.core.3.2.16.nupkg.sha512"
+    },
+    "System.CodeDom/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GLltyqEsE5/3IE+zYRP5sNa1l44qKl9v+bfdMcwg+M9qnQf47wK3H0SUR/T+3N4JEQXF3vV4CSuuo0rsg+nq2A==",
+      "path": "system.codedom/7.0.0",
+      "hashPath": "system.codedom.7.0.0.nupkg.sha512"
+    },
+    "System.Collections.Immutable/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dQPcs0U1IKnBdRDBkrCTi1FoajSTBzLcVTpjO4MBCMC7f4pDOIPzgBoX8JjG7X6uZRJ8EBxsi8+DR1JuwjnzOQ==",
+      "path": "system.collections.immutable/7.0.0",
+      "hashPath": "system.collections.immutable.7.0.0.nupkg.sha512"
+    },
+    "System.Drawing.Common/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KIX+oBU38pxkKPxvLcLfIkOV5Ien8ReN78wro7OF5/erwcmortzeFx+iBswlh2Vz6gVne0khocQudGwaO1Ey6A==",
+      "path": "system.drawing.common/7.0.0",
+      "hashPath": "system.drawing.common.7.0.0.nupkg.sha512"
+    },
+    "System.Formats.Asn1/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+nfpV0afLmvJW8+pLlHxRjz3oZJw4fkyU9MMEaMhCsHi/SN9bGF9q79ROubDiwTiCHezmK0uCWkPP7tGFP/4yg==",
+      "path": "system.formats.asn1/7.0.0",
+      "hashPath": "system.formats.asn1.7.0.0.nupkg.sha512"
+    },
+    "System.Management/7.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pHg4hGr/dn5wYdJ+kolMY4gkCIzFDRj/HFqoPq7e5h7OGii6BCBmS2/+ysC2SSoB5WvIDS29DMM5DowxxSY/oA==",
+      "path": "system.management/7.0.1",
+      "hashPath": "system.management.7.0.1.nupkg.sha512"
+    },
+    "System.Security.Cryptography.Pkcs/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mjUbEXkR6DYRef6dnEYKdfec9otcAkibExL+1f9hmbGlWIUyaCnS3Y3oGZEet38waXmuY1ORE8vgv4sgD5nMYg==",
+      "path": "system.security.cryptography.pkcs/7.0.0",
+      "hashPath": "system.security.cryptography.pkcs.7.0.0.nupkg.sha512"
+    },
+    "System.Security.Cryptography.Xml/7.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MCxBCtH0GrDuvU63ZODwQHQZPchb24pUAX3MfZ6b13qg246ZD10PRdOvay8C9HBPfCXkymUNwFPEegud7ax2zg==",
+      "path": "system.security.cryptography.xml/7.0.1",
+      "hashPath": "system.security.cryptography.xml.7.0.1.nupkg.sha512"
+    },
+    "System.Text.Encodings.Web/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OP6umVGxc0Z0MvZQBVigj4/U31Pw72ITihDWP9WiWDm+q5aoe0GaJivsfYGq53o6dxH7DcXWiCTl7+0o2CGdmg==",
+      "path": "system.text.encodings.web/7.0.0",
+      "hashPath": "system.text.encodings.web.7.0.0.nupkg.sha512"
+    },
+    "System.Text.Json/7.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/LZf/JrGyilojqwpaywb+sSz8Tew7ij4K/Sk+UW8AKfAK7KRhR6mKpKtTm06cYA7bCpGTWfYksIW+mVsdxPegQ==",
+      "path": "system.text.json/7.0.2",
+      "hashPath": "system.text.json.7.0.2.nupkg.sha512"
+    },
+    "System.ValueTuple/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-okurQJO6NRE/apDIP23ajJ0hpiNmJ+f0BwOlB/cSqTLQlw5upkf+5+96+iG2Jw40G1fCVCyPz/FhIABUjMR+RQ==",
+      "path": "system.valuetuple/4.5.0",
+      "hashPath": "system.valuetuple.4.5.0.nupkg.sha512"
+    }
+  }
+}

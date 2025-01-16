@@ -1,0 +1,14 @@
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\AbstractFactory\Exercise1After\AbstractFactoryPizza\AbstractFactoryPizza\bin\Debug\net8.0\AbstractFactoryPizza.exe
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\AbstractFactory\Exercise1After\AbstractFactoryPizza\AbstractFactoryPizza\bin\Debug\net8.0\AbstractFactoryPizza.deps.json
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\AbstractFactory\Exercise1After\AbstractFactoryPizza\AbstractFactoryPizza\bin\Debug\net8.0\AbstractFactoryPizza.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\AbstractFactory\Exercise1After\AbstractFactoryPizza\AbstractFactoryPizza\bin\Debug\net8.0\AbstractFactoryPizza.dll
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\AbstractFactory\Exercise1After\AbstractFactoryPizza\AbstractFactoryPizza\bin\Debug\net8.0\AbstractFactoryPizza.pdb
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\AbstractFactory\Exercise1After\AbstractFactoryPizza\AbstractFactoryPizza\obj\Debug\net8.0\AbstractFactoryPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\AbstractFactory\Exercise1After\AbstractFactoryPizza\AbstractFactoryPizza\obj\Debug\net8.0\AbstractFactoryPizza.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\AbstractFactory\Exercise1After\AbstractFactoryPizza\AbstractFactoryPizza\obj\Debug\net8.0\AbstractFactoryPizza.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\AbstractFactory\Exercise1After\AbstractFactoryPizza\AbstractFactoryPizza\obj\Debug\net8.0\AbstractFactoryPizza.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\AbstractFactory\Exercise1After\AbstractFactoryPizza\AbstractFactoryPizza\obj\Debug\net8.0\AbstractFactoryPizza.dll
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\AbstractFactory\Exercise1After\AbstractFactoryPizza\AbstractFactoryPizza\obj\Debug\net8.0\refint\AbstractFactoryPizza.dll
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\AbstractFactory\Exercise1After\AbstractFactoryPizza\AbstractFactoryPizza\obj\Debug\net8.0\AbstractFactoryPizza.pdb
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\AbstractFactory\Exercise1After\AbstractFactoryPizza\AbstractFactoryPizza\obj\Debug\net8.0\AbstractFactoryPizza.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\AbstractFactory\Exercise1After\AbstractFactoryPizza\AbstractFactoryPizza\obj\Debug\net8.0\ref\AbstractFactoryPizza.dll

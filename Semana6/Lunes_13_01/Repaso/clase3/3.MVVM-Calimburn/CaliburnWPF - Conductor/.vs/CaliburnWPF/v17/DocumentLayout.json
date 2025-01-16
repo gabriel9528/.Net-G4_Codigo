@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\WPF\\WPF\\7.MVVM-Calimbru\\CaliburnWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4F853D-54EC-4ABF-B45B-070F452BE9EA}|CaliburnWPF\\CaliburnWPF.csproj|C:\\DiskD\\CodigoTecsup\\C#\\WPF\\WPF\\7.MVVM-Calimbru\\CaliburnWPF\\caliburnwpf\\viewmodels\\shellviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4F853D-54EC-4ABF-B45B-070F452BE9EA}|CaliburnWPF\\CaliburnWPF.csproj|solutionrelative:caliburnwpf\\viewmodels\\shellviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4F853D-54EC-4ABF-B45B-070F452BE9EA}|CaliburnWPF\\CaliburnWPF.csproj|C:\\DiskD\\CodigoTecsup\\C#\\WPF\\WPF\\7.MVVM-Calimbru\\CaliburnWPF\\caliburnwpf\\views\\shellview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8C4F853D-54EC-4ABF-B45B-070F452BE9EA}|CaliburnWPF\\CaliburnWPF.csproj|solutionrelative:caliburnwpf\\views\\shellview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4F853D-54EC-4ABF-B45B-070F452BE9EA}|CaliburnWPF\\CaliburnWPF.csproj|C:\\DiskD\\CodigoTecsup\\C#\\WPF\\WPF\\7.MVVM-Calimbru\\CaliburnWPF\\caliburnwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8C4F853D-54EC-4ABF-B45B-070F452BE9EA}|CaliburnWPF\\CaliburnWPF.csproj|solutionrelative:caliburnwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4F853D-54EC-4ABF-B45B-070F452BE9EA}|CaliburnWPF\\CaliburnWPF.csproj|c:\\diskd\\codigotecsup\\c#\\wpf\\wpf\\7.mvvm-calimbru\\caliburnwpf\\caliburnwpf\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4F853D-54EC-4ABF-B45B-070F452BE9EA}|CaliburnWPF\\CaliburnWPF.csproj|solutionrelative:caliburnwpf\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4F853D-54EC-4ABF-B45B-070F452BE9EA}|CaliburnWPF\\CaliburnWPF.csproj|C:\\DiskD\\CodigoTecsup\\C#\\WPF\\WPF\\7.MVVM-Calimbru\\CaliburnWPF\\caliburnwpf\\views\\secondchildview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8C4F853D-54EC-4ABF-B45B-070F452BE9EA}|CaliburnWPF\\CaliburnWPF.csproj|solutionrelative:caliburnwpf\\views\\secondchildview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4F853D-54EC-4ABF-B45B-070F452BE9EA}|CaliburnWPF\\CaliburnWPF.csproj|C:\\DiskD\\CodigoTecsup\\C#\\WPF\\WPF\\7.MVVM-Calimbru\\CaliburnWPF\\caliburnwpf\\viewmodels\\secondchildviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4F853D-54EC-4ABF-B45B-070F452BE9EA}|CaliburnWPF\\CaliburnWPF.csproj|solutionrelative:caliburnwpf\\viewmodels\\secondchildviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4F853D-54EC-4ABF-B45B-070F452BE9EA}|CaliburnWPF\\CaliburnWPF.csproj|C:\\DiskD\\CodigoTecsup\\C#\\WPF\\WPF\\7.MVVM-Calimbru\\CaliburnWPF\\caliburnwpf\\views\\firstchildview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8C4F853D-54EC-4ABF-B45B-070F452BE9EA}|CaliburnWPF\\CaliburnWPF.csproj|solutionrelative:caliburnwpf\\views\\firstchildview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4F853D-54EC-4ABF-B45B-070F452BE9EA}|CaliburnWPF\\CaliburnWPF.csproj|C:\\DiskD\\CodigoTecsup\\C#\\WPF\\WPF\\7.MVVM-Calimbru\\CaliburnWPF\\caliburnwpf\\viewmodels\\firstchildviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4F853D-54EC-4ABF-B45B-070F452BE9EA}|CaliburnWPF\\CaliburnWPF.csproj|solutionrelative:caliburnwpf\\viewmodels\\firstchildviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4F853D-54EC-4ABF-B45B-070F452BE9EA}|CaliburnWPF\\CaliburnWPF.csproj|C:\\DiskD\\CodigoTecsup\\C#\\WPF\\WPF\\7.MVVM-Calimbru\\CaliburnWPF\\caliburnwpf\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4F853D-54EC-4ABF-B45B-070F452BE9EA}|CaliburnWPF\\CaliburnWPF.csproj|solutionrelative:caliburnwpf\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShellViewModel.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\WPF\\WPF\\7.MVVM-Calimbru\\CaliburnWPF\\CaliburnWPF\\ViewModels\\ShellViewModel.cs",
+              "RelativeDocumentMoniker": "CaliburnWPF\\ViewModels\\ShellViewModel.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\WPF\\WPF\\7.MVVM-Calimbru\\CaliburnWPF\\CaliburnWPF\\ViewModels\\ShellViewModel.cs",
+              "RelativeToolTip": "CaliburnWPF\\ViewModels\\ShellViewModel.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:44:22.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShellView.xaml",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\WPF\\WPF\\7.MVVM-Calimbru\\CaliburnWPF\\CaliburnWPF\\Views\\ShellView.xaml",
+              "RelativeDocumentMoniker": "CaliburnWPF\\Views\\ShellView.xaml",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\WPF\\WPF\\7.MVVM-Calimbru\\CaliburnWPF\\CaliburnWPF\\Views\\ShellView.xaml",
+              "RelativeToolTip": "CaliburnWPF\\Views\\ShellView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-13T19:18:11.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SecondChildViewModel.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\WPF\\WPF\\7.MVVM-Calimbru\\CaliburnWPF\\CaliburnWPF\\ViewModels\\SecondChildViewModel.cs",
+              "RelativeDocumentMoniker": "CaliburnWPF\\ViewModels\\SecondChildViewModel.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\WPF\\WPF\\7.MVVM-Calimbru\\CaliburnWPF\\CaliburnWPF\\ViewModels\\SecondChildViewModel.cs",
+              "RelativeToolTip": "CaliburnWPF\\ViewModels\\SecondChildViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T13:05:07.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bootstrapper.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\WPF\\WPF\\7.MVVM-Calimbru\\CaliburnWPF\\CaliburnWPF\\Bootstrapper.cs",
+              "RelativeDocumentMoniker": "CaliburnWPF\\Bootstrapper.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\WPF\\WPF\\7.MVVM-Calimbru\\CaliburnWPF\\CaliburnWPF\\Bootstrapper.cs",
+              "RelativeToolTip": "CaliburnWPF\\Bootstrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:30:10.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\WPF\\WPF\\7.MVVM-Calimbru\\CaliburnWPF\\CaliburnWPF\\App.xaml",
+              "RelativeDocumentMoniker": "CaliburnWPF\\App.xaml",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\WPF\\WPF\\7.MVVM-Calimbru\\CaliburnWPF\\CaliburnWPF\\App.xaml",
+              "RelativeToolTip": "CaliburnWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-13T18:26:45.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SecondChildView.xaml",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\WPF\\WPF\\7.MVVM-Calimbru\\CaliburnWPF\\CaliburnWPF\\Views\\SecondChildView.xaml",
+              "RelativeDocumentMoniker": "CaliburnWPF\\Views\\SecondChildView.xaml",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\WPF\\WPF\\7.MVVM-Calimbru\\CaliburnWPF\\CaliburnWPF\\Views\\SecondChildView.xaml",
+              "RelativeToolTip": "CaliburnWPF\\Views\\SecondChildView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-19T13:11:30.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\WPF\\WPF\\7.MVVM-Calimbru\\CaliburnWPF\\CaliburnWPF\\Models\\PersonModel.cs",
+              "RelativeDocumentMoniker": "CaliburnWPF\\Models\\PersonModel.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\WPF\\WPF\\7.MVVM-Calimbru\\CaliburnWPF\\CaliburnWPF\\Models\\PersonModel.cs",
+              "RelativeToolTip": "CaliburnWPF\\Models\\PersonModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T21:01:15.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FirstChildView.xaml",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\WPF\\WPF\\7.MVVM-Calimbru\\CaliburnWPF\\CaliburnWPF\\Views\\FirstChildView.xaml",
+              "RelativeDocumentMoniker": "CaliburnWPF\\Views\\FirstChildView.xaml",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\WPF\\WPF\\7.MVVM-Calimbru\\CaliburnWPF\\CaliburnWPF\\Views\\FirstChildView.xaml",
+              "RelativeToolTip": "CaliburnWPF\\Views\\FirstChildView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-19T13:10:37.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FirstChildViewModel.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\WPF\\WPF\\7.MVVM-Calimbru\\CaliburnWPF\\CaliburnWPF\\ViewModels\\FirstChildViewModel.cs",
+              "RelativeDocumentMoniker": "CaliburnWPF\\ViewModels\\FirstChildViewModel.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\WPF\\WPF\\7.MVVM-Calimbru\\CaliburnWPF\\CaliburnWPF\\ViewModels\\FirstChildViewModel.cs",
+              "RelativeToolTip": "CaliburnWPF\\ViewModels\\FirstChildViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T13:04:02.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\2.ProyectoMVVM\\MVVM-Proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E4A0CB-6FE8-484A-B113-918BC0C941E4}|MVVM-Proyecto\\MVVM-Proyecto.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana5_wpf\\clase3\\2.proyectomvvm\\mvvm-proyecto\\mvvm-proyecto\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E4A0CB-6FE8-484A-B113-918BC0C941E4}|MVVM-Proyecto\\MVVM-Proyecto.csproj|solutionrelative:mvvm-proyecto\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E4A0CB-6FE8-484A-B113-918BC0C941E4}|MVVM-Proyecto\\MVVM-Proyecto.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana5_wpf\\clase3\\2.proyectomvvm\\mvvm-proyecto\\mvvm-proyecto\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1E4A0CB-6FE8-484A-B113-918BC0C941E4}|MVVM-Proyecto\\MVVM-Proyecto.csproj|solutionrelative:mvvm-proyecto\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E4A0CB-6FE8-484A-B113-918BC0C941E4}|MVVM-Proyecto\\MVVM-Proyecto.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana5_wpf\\clase3\\2.proyectomvvm\\mvvm-proyecto\\mvvm-proyecto\\dal\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E4A0CB-6FE8-484A-B113-918BC0C941E4}|MVVM-Proyecto\\MVVM-Proyecto.csproj|solutionrelative:mvvm-proyecto\\dal\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E4A0CB-6FE8-484A-B113-918BC0C941E4}|MVVM-Proyecto\\MVVM-Proyecto.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana5_wpf\\clase3\\2.proyectomvvm\\mvvm-proyecto\\mvvm-proyecto\\dal\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E4A0CB-6FE8-484A-B113-918BC0C941E4}|MVVM-Proyecto\\MVVM-Proyecto.csproj|solutionrelative:mvvm-proyecto\\dal\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E4A0CB-6FE8-484A-B113-918BC0C941E4}|MVVM-Proyecto\\MVVM-Proyecto.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana5_wpf\\clase3\\2.proyectomvvm\\mvvm-proyecto\\mvvm-proyecto\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E4A0CB-6FE8-484A-B113-918BC0C941E4}|MVVM-Proyecto\\MVVM-Proyecto.csproj|solutionrelative:mvvm-proyecto\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E4A0CB-6FE8-484A-B113-918BC0C941E4}|MVVM-Proyecto\\MVVM-Proyecto.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana5_wpf\\clase3\\2.proyectomvvm\\mvvm-proyecto\\mvvm-proyecto\\viewmodelbaase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E4A0CB-6FE8-484A-B113-918BC0C941E4}|MVVM-Proyecto\\MVVM-Proyecto.csproj|solutionrelative:mvvm-proyecto\\viewmodelbaase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E4A0CB-6FE8-484A-B113-918BC0C941E4}|MVVM-Proyecto\\MVVM-Proyecto.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana5_wpf\\clase3\\2.proyectomvvm\\mvvm-proyecto\\mvvm-proyecto\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E4A0CB-6FE8-484A-B113-918BC0C941E4}|MVVM-Proyecto\\MVVM-Proyecto.csproj|solutionrelative:mvvm-proyecto\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E4A0CB-6FE8-484A-B113-918BC0C941E4}|MVVM-Proyecto\\MVVM-Proyecto.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana5_wpf\\clase3\\2.proyectomvvm\\mvvm-proyecto\\mvvm-proyecto\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E4A0CB-6FE8-484A-B113-918BC0C941E4}|MVVM-Proyecto\\MVVM-Proyecto.csproj|solutionrelative:mvvm-proyecto\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E4A0CB-6FE8-484A-B113-918BC0C941E4}|MVVM-Proyecto\\MVVM-Proyecto.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana5_wpf\\clase3\\2.proyectomvvm\\mvvm-proyecto\\mvvm-proyecto\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E4A0CB-6FE8-484A-B113-918BC0C941E4}|MVVM-Proyecto\\MVVM-Proyecto.csproj|solutionrelative:mvvm-proyecto\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E4A0CB-6FE8-484A-B113-918BC0C941E4}|MVVM-Proyecto\\MVVM-Proyecto.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana5_wpf\\clase3\\2.proyectomvvm\\mvvm-proyecto\\mvvm-proyecto\\mvvm-proyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1E4A0CB-6FE8-484A-B113-918BC0C941E4}|MVVM-Proyecto\\MVVM-Proyecto.csproj|solutionrelative:mvvm-proyecto\\mvvm-proyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\2.ProyectoMVVM\\MVVM-Proyecto\\MVVM-Proyecto\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MVVM-Proyecto\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\2.ProyectoMVVM\\MVVM-Proyecto\\MVVM-Proyecto\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "MVVM-Proyecto\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-17T01:29:42.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewModelBaase.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\2.ProyectoMVVM\\MVVM-Proyecto\\MVVM-Proyecto\\ViewModelBaase.cs",
+              "RelativeDocumentMoniker": "MVVM-Proyecto\\ViewModelBaase.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\2.ProyectoMVVM\\MVVM-Proyecto\\MVVM-Proyecto\\ViewModelBaase.cs",
+              "RelativeToolTip": "MVVM-Proyecto\\ViewModelBaase.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T01:57:32.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\2.ProyectoMVVM\\MVVM-Proyecto\\MVVM-Proyecto\\DAL\\CustomerService.cs",
+              "RelativeDocumentMoniker": "MVVM-Proyecto\\DAL\\CustomerService.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\2.ProyectoMVVM\\MVVM-Proyecto\\MVVM-Proyecto\\DAL\\CustomerService.cs",
+              "RelativeToolTip": "MVVM-Proyecto\\DAL\\CustomerService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:11:09.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\2.ProyectoMVVM\\MVVM-Proyecto\\MVVM-Proyecto\\DAL\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "MVVM-Proyecto\\DAL\\ICustomerService.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\2.ProyectoMVVM\\MVVM-Proyecto\\MVVM-Proyecto\\DAL\\ICustomerService.cs",
+              "RelativeToolTip": "MVVM-Proyecto\\DAL\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:06:37.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\2.ProyectoMVVM\\MVVM-Proyecto\\MVVM-Proyecto\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "MVVM-Proyecto\\ViewModel\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\2.ProyectoMVVM\\MVVM-Proyecto\\MVVM-Proyecto\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeToolTip": "MVVM-Proyecto\\ViewModel\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T01:52:37.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\2.ProyectoMVVM\\MVVM-Proyecto\\MVVM-Proyecto\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "MVVM-Proyecto\\RelayCommand.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\2.ProyectoMVVM\\MVVM-Proyecto\\MVVM-Proyecto\\RelayCommand.cs",
+              "RelativeToolTip": "MVVM-Proyecto\\RelayCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:11:36.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\2.ProyectoMVVM\\MVVM-Proyecto\\MVVM-Proyecto\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "MVVM-Proyecto\\Models\\Customer.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\2.ProyectoMVVM\\MVVM-Proyecto\\MVVM-Proyecto\\Models\\Customer.cs",
+              "RelativeToolTip": "MVVM-Proyecto\\Models\\Customer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T01:47:19.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MVVM-Proyecto.csproj",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\2.ProyectoMVVM\\MVVM-Proyecto\\MVVM-Proyecto\\MVVM-Proyecto.csproj",
+              "RelativeDocumentMoniker": "MVVM-Proyecto\\MVVM-Proyecto.csproj",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\2.ProyectoMVVM\\MVVM-Proyecto\\MVVM-Proyecto\\MVVM-Proyecto.csproj",
+              "RelativeToolTip": "MVVM-Proyecto\\MVVM-Proyecto.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-19T21:12:06.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\2.ProyectoMVVM\\MVVM-Proyecto\\MVVM-Proyecto\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MVVM-Proyecto\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\2.ProyectoMVVM\\MVVM-Proyecto\\MVVM-Proyecto\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MVVM-Proyecto\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwBQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T01:29:41.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\2.ProyectoMVVM\\MVVM-Proyecto\\MVVM-Proyecto\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "MVVM-Proyecto\\AssemblyInfo.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana5_WPF\\clase3\\2.ProyectoMVVM\\MVVM-Proyecto\\MVVM-Proyecto\\AssemblyInfo.cs",
+              "RelativeToolTip": "MVVM-Proyecto\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T01:43:12.867Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

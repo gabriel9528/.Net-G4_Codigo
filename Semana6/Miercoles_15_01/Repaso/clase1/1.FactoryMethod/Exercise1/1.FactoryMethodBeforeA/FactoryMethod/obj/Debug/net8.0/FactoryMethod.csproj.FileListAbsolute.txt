@@ -1,0 +1,14 @@
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryMethod\FactoryMethod\bin\Debug\net8.0\FactoryMethod.exe
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryMethod\FactoryMethod\bin\Debug\net8.0\FactoryMethod.deps.json
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryMethod\FactoryMethod\bin\Debug\net8.0\FactoryMethod.runtimeconfig.json
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryMethod\FactoryMethod\bin\Debug\net8.0\FactoryMethod.dll
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryMethod\FactoryMethod\bin\Debug\net8.0\FactoryMethod.pdb
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryMethod\FactoryMethod\obj\Debug\net8.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryMethod\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryMethod\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfo.cs
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryMethod\FactoryMethod\obj\Debug\net8.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryMethod\FactoryMethod\obj\Debug\net8.0\FactoryMethod.dll
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryMethod\FactoryMethod\obj\Debug\net8.0\refint\FactoryMethod.dll
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryMethod\FactoryMethod\obj\Debug\net8.0\FactoryMethod.pdb
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryMethod\FactoryMethod\obj\Debug\net8.0\FactoryMethod.genruntimeconfig.cache
+C:\DiskD\CodigoTecsup\C#\Design_Patterns\FactoryMethod\FactoryMethod\obj\Debug\net8.0\ref\FactoryMethod.dll

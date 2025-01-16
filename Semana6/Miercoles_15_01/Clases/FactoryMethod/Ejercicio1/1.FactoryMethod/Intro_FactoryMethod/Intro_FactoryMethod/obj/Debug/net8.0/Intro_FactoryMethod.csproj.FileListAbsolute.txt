@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Miercoles_15_01\Clases\FactoryMethod\Ejercicio1\1.FactoryMethod\Intro_FactoryMethod\Intro_FactoryMethod\bin\Debug\net8.0\Intro_FactoryMethod.exe
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Miercoles_15_01\Clases\FactoryMethod\Ejercicio1\1.FactoryMethod\Intro_FactoryMethod\Intro_FactoryMethod\bin\Debug\net8.0\Intro_FactoryMethod.deps.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Miercoles_15_01\Clases\FactoryMethod\Ejercicio1\1.FactoryMethod\Intro_FactoryMethod\Intro_FactoryMethod\bin\Debug\net8.0\Intro_FactoryMethod.runtimeconfig.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Miercoles_15_01\Clases\FactoryMethod\Ejercicio1\1.FactoryMethod\Intro_FactoryMethod\Intro_FactoryMethod\bin\Debug\net8.0\Intro_FactoryMethod.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Miercoles_15_01\Clases\FactoryMethod\Ejercicio1\1.FactoryMethod\Intro_FactoryMethod\Intro_FactoryMethod\bin\Debug\net8.0\Intro_FactoryMethod.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Miercoles_15_01\Clases\FactoryMethod\Ejercicio1\1.FactoryMethod\Intro_FactoryMethod\Intro_FactoryMethod\obj\Debug\net8.0\Intro_FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Miercoles_15_01\Clases\FactoryMethod\Ejercicio1\1.FactoryMethod\Intro_FactoryMethod\Intro_FactoryMethod\obj\Debug\net8.0\Intro_FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Miercoles_15_01\Clases\FactoryMethod\Ejercicio1\1.FactoryMethod\Intro_FactoryMethod\Intro_FactoryMethod\obj\Debug\net8.0\Intro_FactoryMethod.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Miercoles_15_01\Clases\FactoryMethod\Ejercicio1\1.FactoryMethod\Intro_FactoryMethod\Intro_FactoryMethod\obj\Debug\net8.0\Intro_FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Miercoles_15_01\Clases\FactoryMethod\Ejercicio1\1.FactoryMethod\Intro_FactoryMethod\Intro_FactoryMethod\obj\Debug\net8.0\Intro_FactoryMethod.sourcelink.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Miercoles_15_01\Clases\FactoryMethod\Ejercicio1\1.FactoryMethod\Intro_FactoryMethod\Intro_FactoryMethod\obj\Debug\net8.0\Intro_FactoryMethod.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Miercoles_15_01\Clases\FactoryMethod\Ejercicio1\1.FactoryMethod\Intro_FactoryMethod\Intro_FactoryMethod\obj\Debug\net8.0\refint\Intro_FactoryMethod.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Miercoles_15_01\Clases\FactoryMethod\Ejercicio1\1.FactoryMethod\Intro_FactoryMethod\Intro_FactoryMethod\obj\Debug\net8.0\Intro_FactoryMethod.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Miercoles_15_01\Clases\FactoryMethod\Ejercicio1\1.FactoryMethod\Intro_FactoryMethod\Intro_FactoryMethod\obj\Debug\net8.0\Intro_FactoryMethod.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Miercoles_15_01\Clases\FactoryMethod\Ejercicio1\1.FactoryMethod\Intro_FactoryMethod\Intro_FactoryMethod\obj\Debug\net8.0\ref\Intro_FactoryMethod.dll
