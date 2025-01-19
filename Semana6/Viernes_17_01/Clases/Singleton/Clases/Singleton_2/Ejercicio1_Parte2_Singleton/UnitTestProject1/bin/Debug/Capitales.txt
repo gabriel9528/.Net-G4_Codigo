@@ -1,0 +1,18 @@
+﻿Buenos Aires
+3,062,000
+La Paz
+766,468
+Brasilia
+3,039,444
+Santiago
+6,254,314
+Bogotá
+7,181,469
+Quito
+2,011,388
+Ciudad de México
+9,209,944
+Asunción
+525,252
+Lima
+9,751,717

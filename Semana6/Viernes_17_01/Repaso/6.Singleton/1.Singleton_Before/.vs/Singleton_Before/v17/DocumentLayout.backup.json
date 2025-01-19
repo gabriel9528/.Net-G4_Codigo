@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana8_PatronesDise\u00F1o\\clase3\\6.Singleton\\1.Singleton_Before\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{040DF16A-6FB0-4076-B797-7FE3EC391AAC}|Singleton_Before\\Singleton_Before.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana8_patronesdise\u00F1o\\clase3\\6.singleton\\1.singleton_before\\singleton_before\\capitales.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{040DF16A-6FB0-4076-B797-7FE3EC391AAC}|Singleton_Before\\Singleton_Before.csproj|solutionrelative:singleton_before\\capitales.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040DF16A-6FB0-4076-B797-7FE3EC391AAC}|Singleton_Before\\Singleton_Before.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana8_patronesdise\u00F1o\\clase3\\6.singleton\\1.singleton_before\\singleton_before\\singletoncontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040DF16A-6FB0-4076-B797-7FE3EC391AAC}|Singleton_Before\\Singleton_Before.csproj|solutionrelative:singleton_before\\singletoncontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040DF16A-6FB0-4076-B797-7FE3EC391AAC}|Singleton_Before\\Singleton_Before.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana8_patronesdise\u00F1o\\clase3\\6.singleton\\1.singleton_before\\singleton_before\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040DF16A-6FB0-4076-B797-7FE3EC391AAC}|Singleton_Before\\Singleton_Before.csproj|solutionrelative:singleton_before\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040DF16A-6FB0-4076-B797-7FE3EC391AAC}|Singleton_Before\\Singleton_Before.csproj|c:\\diskd\\codigotecsup\\c#\\clases\\semana8_patronesdise\u00F1o\\clase3\\6.singleton\\1.singleton_before\\singleton_before\\isingletoncontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040DF16A-6FB0-4076-B797-7FE3EC391AAC}|Singleton_Before\\Singleton_Before.csproj|solutionrelative:singleton_before\\isingletoncontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SingletonContainer.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana8_PatronesDise\u00F1o\\clase3\\6.Singleton\\1.Singleton_Before\\Singleton_Before\\SingletonContainer.cs",
+              "RelativeDocumentMoniker": "Singleton_Before\\SingletonContainer.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana8_PatronesDise\u00F1o\\clase3\\6.Singleton\\1.Singleton_Before\\Singleton_Before\\SingletonContainer.cs",
+              "RelativeToolTip": "Singleton_Before\\SingletonContainer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:36:51.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISingletonContainer.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana8_PatronesDise\u00F1o\\clase3\\6.Singleton\\1.Singleton_Before\\Singleton_Before\\ISingletonContainer.cs",
+              "RelativeDocumentMoniker": "Singleton_Before\\ISingletonContainer.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana8_PatronesDise\u00F1o\\clase3\\6.Singleton\\1.Singleton_Before\\Singleton_Before\\ISingletonContainer.cs",
+              "RelativeToolTip": "Singleton_Before\\ISingletonContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:33:46.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Capitales.txt",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana8_PatronesDise\u00F1o\\clase3\\6.Singleton\\1.Singleton_Before\\Singleton_Before\\Capitales.txt",
+              "RelativeDocumentMoniker": "Singleton_Before\\Capitales.txt",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana8_PatronesDise\u00F1o\\clase3\\6.Singleton\\1.Singleton_Before\\Singleton_Before\\Capitales.txt",
+              "RelativeToolTip": "Singleton_Before\\Capitales.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-25T12:28:42.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana8_PatronesDise\u00F1o\\clase3\\6.Singleton\\1.Singleton_Before\\Singleton_Before\\Program.cs",
+              "RelativeDocumentMoniker": "Singleton_Before\\Program.cs",
+              "ToolTip": "C:\\DiskD\\CodigoTecsup\\C#\\Clases\\semana8_PatronesDise\u00F1o\\clase3\\6.Singleton\\1.Singleton_Before\\Singleton_Before\\Program.cs",
+              "RelativeToolTip": "Singleton_Before\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:27:59.543Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
