@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Viernes_17_01\\Singleton\\Clases\\Singleton_2\\Ejercicio1_Parte2_Singleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DFB1FB-52FF-4F3E-80F9-A537F52FB317}|UnitTestProject1\\UnitTestProject1.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\viernes_17_01\\singleton\\clases\\singleton_2\\ejercicio1_parte2_singleton\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DFB1FB-52FF-4F3E-80F9-A537F52FB317}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DFB1FB-52FF-4F3E-80F9-A537F52FB317}|UnitTestProject1\\UnitTestProject1.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\viernes_17_01\\singleton\\clases\\singleton_2\\ejercicio1_parte2_singleton\\unittestproject1\\isingletoncontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DFB1FB-52FF-4F3E-80F9-A537F52FB317}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\isingletoncontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DFB1FB-52FF-4F3E-80F9-A537F52FB317}|UnitTestProject1\\UnitTestProject1.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\viernes_17_01\\singleton\\clases\\singleton_2\\ejercicio1_parte2_singleton\\unittestproject1\\singletonfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DFB1FB-52FF-4F3E-80F9-A537F52FB317}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\singletonfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DFB1FB-52FF-4F3E-80F9-A537F52FB317}|UnitTestProject1\\UnitTestProject1.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\viernes_17_01\\singleton\\clases\\singleton_2\\ejercicio1_parte2_singleton\\unittestproject1\\capitales.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A0DFB1FB-52FF-4F3E-80F9-A537F52FB317}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\capitales.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DFB1FB-52FF-4F3E-80F9-A537F52FB317}|UnitTestProject1\\UnitTestProject1.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\viernes_17_01\\singleton\\clases\\singleton_2\\ejercicio1_parte2_singleton\\unittestproject1\\singletoncontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DFB1FB-52FF-4F3E-80F9-A537F52FB317}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\singletoncontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0995D0-BB7E-413C-941F-FB6EEB65BA75}|Ejercicio1_Singleton\\Ejercicio1_Singleton.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\viernes_17_01\\singleton\\clases\\singleton_2\\ejercicio1_parte2_singleton\\ejercicio1_singleton\\capitales.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD0995D0-BB7E-413C-941F-FB6EEB65BA75}|Ejercicio1_Singleton\\Ejercicio1_Singleton.csproj|solutionrelative:ejercicio1_singleton\\capitales.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0995D0-BB7E-413C-941F-FB6EEB65BA75}|Ejercicio1_Singleton\\Ejercicio1_Singleton.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\viernes_17_01\\singleton\\clases\\singleton_2\\ejercicio1_parte2_singleton\\ejercicio1_singleton\\isingletoncontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0995D0-BB7E-413C-941F-FB6EEB65BA75}|Ejercicio1_Singleton\\Ejercicio1_Singleton.csproj|solutionrelative:ejercicio1_singleton\\isingletoncontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0995D0-BB7E-413C-941F-FB6EEB65BA75}|Ejercicio1_Singleton\\Ejercicio1_Singleton.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\viernes_17_01\\singleton\\clases\\singleton_2\\ejercicio1_parte2_singleton\\ejercicio1_singleton\\singletoncontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0995D0-BB7E-413C-941F-FB6EEB65BA75}|Ejercicio1_Singleton\\Ejercicio1_Singleton.csproj|solutionrelative:ejercicio1_singleton\\singletoncontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0995D0-BB7E-413C-941F-FB6EEB65BA75}|Ejercicio1_Singleton\\Ejercicio1_Singleton.csproj|c:\\users\\gabriel\\desktop\\otros.net\\.net-g4\\semana6\\viernes_17_01\\singleton\\clases\\singleton_2\\ejercicio1_parte2_singleton\\ejercicio1_singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0995D0-BB7E-413C-941F-FB6EEB65BA75}|Ejercicio1_Singleton\\Ejercicio1_Singleton.csproj|solutionrelative:ejercicio1_singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SingletonFinder.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Viernes_17_01\\Singleton\\Clases\\Singleton_2\\Ejercicio1_Parte2_Singleton\\UnitTestProject1\\SingletonFinder.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\SingletonFinder.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Viernes_17_01\\Singleton\\Clases\\Singleton_2\\Ejercicio1_Parte2_Singleton\\UnitTestProject1\\SingletonFinder.cs",
+              "RelativeToolTip": "UnitTestProject1\\SingletonFinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T03:47:51.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Capitales.txt",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Viernes_17_01\\Singleton\\Clases\\Singleton_2\\Ejercicio1_Parte2_Singleton\\UnitTestProject1\\Capitales.txt",
+              "RelativeDocumentMoniker": "UnitTestProject1\\Capitales.txt",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Viernes_17_01\\Singleton\\Clases\\Singleton_2\\Ejercicio1_Parte2_Singleton\\UnitTestProject1\\Capitales.txt",
+              "RelativeToolTip": "UnitTestProject1\\Capitales.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-18T03:47:12.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SingletonContainer.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Viernes_17_01\\Singleton\\Clases\\Singleton_2\\Ejercicio1_Parte2_Singleton\\UnitTestProject1\\SingletonContainer.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\SingletonContainer.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Viernes_17_01\\Singleton\\Clases\\Singleton_2\\Ejercicio1_Parte2_Singleton\\UnitTestProject1\\SingletonContainer.cs",
+              "RelativeToolTip": "UnitTestProject1\\SingletonContainer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T03:45:01.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISingletonContainer.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Viernes_17_01\\Singleton\\Clases\\Singleton_2\\Ejercicio1_Parte2_Singleton\\UnitTestProject1\\ISingletonContainer.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\ISingletonContainer.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Viernes_17_01\\Singleton\\Clases\\Singleton_2\\Ejercicio1_Parte2_Singleton\\UnitTestProject1\\ISingletonContainer.cs",
+              "RelativeToolTip": "UnitTestProject1\\ISingletonContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T03:44:45.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Viernes_17_01\\Singleton\\Clases\\Singleton_2\\Ejercicio1_Parte2_Singleton\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Viernes_17_01\\Singleton\\Clases\\Singleton_2\\Ejercicio1_Parte2_Singleton\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIAwwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T03:44:05.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISingletonContainer.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Viernes_17_01\\Singleton\\Clases\\Singleton_2\\Ejercicio1_Parte2_Singleton\\Ejercicio1_Singleton\\ISingletonContainer.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_Singleton\\ISingletonContainer.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Viernes_17_01\\Singleton\\Clases\\Singleton_2\\Ejercicio1_Parte2_Singleton\\Ejercicio1_Singleton\\ISingletonContainer.cs",
+              "RelativeToolTip": "Ejercicio1_Singleton\\ISingletonContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T03:34:22.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SingletonContainer.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Viernes_17_01\\Singleton\\Clases\\Singleton_2\\Ejercicio1_Parte2_Singleton\\Ejercicio1_Singleton\\SingletonContainer.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_Singleton\\SingletonContainer.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Viernes_17_01\\Singleton\\Clases\\Singleton_2\\Ejercicio1_Parte2_Singleton\\Ejercicio1_Singleton\\SingletonContainer.cs",
+              "RelativeToolTip": "Ejercicio1_Singleton\\SingletonContainer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T03:14:07.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Capitales.txt",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Viernes_17_01\\Singleton\\Clases\\Singleton_2\\Ejercicio1_Parte2_Singleton\\Ejercicio1_Singleton\\Capitales.txt",
+              "RelativeDocumentMoniker": "Ejercicio1_Singleton\\Capitales.txt",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Viernes_17_01\\Singleton\\Clases\\Singleton_2\\Ejercicio1_Parte2_Singleton\\Ejercicio1_Singleton\\Capitales.txt",
+              "RelativeToolTip": "Ejercicio1_Singleton\\Capitales.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-18T03:11:09.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Viernes_17_01\\Singleton\\Clases\\Singleton_2\\Ejercicio1_Parte2_Singleton\\Ejercicio1_Singleton\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1_Singleton\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\otros.Net\\.Net-G4\\Semana6\\Viernes_17_01\\Singleton\\Clases\\Singleton_2\\Ejercicio1_Parte2_Singleton\\Ejercicio1_Singleton\\Program.cs",
+              "RelativeToolTip": "Ejercicio1_Singleton\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T03:09:30.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

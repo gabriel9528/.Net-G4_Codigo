@@ -1,0 +1,15 @@
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Viernes_17_01\Builder\Clases\Ejercicio1_Builder\Ejercicio1_Builder\Ejercicio1_Builder\bin\Debug\net8.0\Ejercicio1_Builder.exe
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Viernes_17_01\Builder\Clases\Ejercicio1_Builder\Ejercicio1_Builder\Ejercicio1_Builder\bin\Debug\net8.0\Ejercicio1_Builder.deps.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Viernes_17_01\Builder\Clases\Ejercicio1_Builder\Ejercicio1_Builder\Ejercicio1_Builder\bin\Debug\net8.0\Ejercicio1_Builder.runtimeconfig.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Viernes_17_01\Builder\Clases\Ejercicio1_Builder\Ejercicio1_Builder\Ejercicio1_Builder\bin\Debug\net8.0\Ejercicio1_Builder.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Viernes_17_01\Builder\Clases\Ejercicio1_Builder\Ejercicio1_Builder\Ejercicio1_Builder\bin\Debug\net8.0\Ejercicio1_Builder.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Viernes_17_01\Builder\Clases\Ejercicio1_Builder\Ejercicio1_Builder\Ejercicio1_Builder\obj\Debug\net8.0\Ejercicio1_Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Viernes_17_01\Builder\Clases\Ejercicio1_Builder\Ejercicio1_Builder\Ejercicio1_Builder\obj\Debug\net8.0\Ejercicio1_Builder.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Viernes_17_01\Builder\Clases\Ejercicio1_Builder\Ejercicio1_Builder\Ejercicio1_Builder\obj\Debug\net8.0\Ejercicio1_Builder.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Viernes_17_01\Builder\Clases\Ejercicio1_Builder\Ejercicio1_Builder\Ejercicio1_Builder\obj\Debug\net8.0\Ejercicio1_Builder.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Viernes_17_01\Builder\Clases\Ejercicio1_Builder\Ejercicio1_Builder\Ejercicio1_Builder\obj\Debug\net8.0\Ejercicio1_Builder.sourcelink.json
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Viernes_17_01\Builder\Clases\Ejercicio1_Builder\Ejercicio1_Builder\Ejercicio1_Builder\obj\Debug\net8.0\Ejercicio1_Builder.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Viernes_17_01\Builder\Clases\Ejercicio1_Builder\Ejercicio1_Builder\Ejercicio1_Builder\obj\Debug\net8.0\refint\Ejercicio1_Builder.dll
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Viernes_17_01\Builder\Clases\Ejercicio1_Builder\Ejercicio1_Builder\Ejercicio1_Builder\obj\Debug\net8.0\Ejercicio1_Builder.pdb
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Viernes_17_01\Builder\Clases\Ejercicio1_Builder\Ejercicio1_Builder\Ejercicio1_Builder\obj\Debug\net8.0\Ejercicio1_Builder.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\otros.Net\.Net-G4\Semana6\Viernes_17_01\Builder\Clases\Ejercicio1_Builder\Ejercicio1_Builder\Ejercicio1_Builder\obj\Debug\net8.0\ref\Ejercicio1_Builder.dll
